@@ -1,0 +1,67 @@
+{
+  "creativetab.woh": "Weapons Of Harmony",
+  "item.woh.z_shotogatana_sheath": "小刀の鞘",
+  "item.woh.z_shotogatana_in_sheath": "納刀された小刀",
+
+  "item.woh.shotogatana": "小刀",
+  "item.woh.tessen": "鉄扇",
+  "item.woh.tsume": "爪",
+  "item.woh.wakizashi": "脇差",
+  "item.woh.odachi": "大太刀",
+
+  "item.woh.arbiters_blade": "裁定者の刃",
+  "item.woh.arbiters_shield": "裁定者の盾",
+
+  "item.woh.folded_iron": "折り返し鍛錬された鉄",
+  "item.woh.folded_steel": "折り返し鍛錬された鋼",
+  "item.woh.hardened_steel_ingot": "硬化鋼インゴット",
+
+  "item.woh.hardened_blade": "硬化された刃",
+  "item.woh.patterned_handle": "装飾された柄",
+  "item.woh.gold_tsuba": "金の鍔",
+
+  "item.woh.blade_curve_module":"湾曲刀身モジュール",
+  "item.woh.weapon_repair_module":"武器修理モジュール",
+  "item.woh.mysterious_cloth":"不可思議な布",
+
+  "item.woh.broken_blade": "折れた刃と鞘",
+  "item.woh.broken_fan_blade": "壊れた扇の刃",
+  "item.woh.broken_claws": "壊れた爪",
+  "item.woh.ronin_headwear": "浪人の編笠",
+  "item.woh.ronin_tunic": "浪人の胴着",
+  "item.woh.ronin_leggings": "浪人の袴",
+  "item.woh.ronin_boots": "浪人の草鞋",
+  "item.woh.arbiters_hat": "裁定者の帽子",
+  "item.woh.arbiters_tunic": "裁定者のチュニック",
+  "item.woh.arbiters_leggings": "裁定者のレギンス",
+  "item.woh.arbiters_boots": "裁定者のブーツ",
+
+  "item.woh.shotogatana.tooltip": "鞘と対になった精密な刃。 \n軽快な動きで、どんなに硬い鎧をも華麗に切り裂くことができる。",
+  "item.woh.tessen.tooltip": "素早い精密攻撃を繰り出す軽快な軍扇。 \nオフハンドにもう一つの扇を持つことで、投げつけて遠距離攻撃を行うことも可能。",
+  "item.woh.tsume.tooltip": "近接範囲でのひっかき攻撃を想定して設計された鋭い一対の爪。",
+  "item.woh.arbiters_blade.tooltip": "ある種の秘められた力、あるいは「勇気」すら宿しているかのような、神秘的で古めかしい刃。",
+  "item.woh.arbiters_shield.tooltip": "極めて耐久性の高い金属盾。使用されている金属はこの世のものとは思えない。",
+
+  "item.woh.wakizashi.tooltip": "二刀流が可能な、短く軽快な片刃の刀。",
+  "item.woh.odachi.tooltip": "動作は遅いが非常に強力な、巨大な片刃の大剣。",
+
+  "item.oh.folded_iron.tooltip": "通常の鉄よりもはるかに密度の高い鉄の破片。 \n頑丈ではあるが、精錬しなければ脆い傾向がある。",
+  "item.woh.folded_steel.tooltip": "非常に高密度な鋼の破片。",
+  "item.woh.hardened_steel_ingot.tooltip": "多種多様な武器の製作に使用できる、極めて耐久性が高く硬い金属。",
+
+  "skill.woh.shotogatana_skill": "小刀の技",
+  "skill.woh.throw_stance": "投擲の構え",
+  "skill.woh.enraged_claws": "憤怒の爪",
+  "skill.woh.katajutsu": "型術",
+  "skill.woh.arbiters_slash": "裁定者の斬撃",
+
+  "skill.woh.shotogatana_skill.tooltip": "クールタイムが完了すると、現在の攻撃アニメーションに応じて \n異なるコンボを実行できる。",
+  "skill.woh.shotogatana_skill.tooltip.extra": "攻撃アニメーションがない状態で発動すると、人の目では捉えきれない居合斬りを繰り出す...",
+
+  "skill.woh.throw_stance.tooltip": "この武器でガードすることはできない。代わりに \nガードボタンを長押ししながら攻撃することで、狙いをつけて遠距離攻撃を放つことができる...",
+
+  "skill.woh.enraged_claws.tooltip": "クールタイムが完了すると、全く新しいムーブセットを使用できる構えに入る。 \nこの構えでは怒涛の連続攻撃を繰り出し、立ちふさがる敵を叩き伏せることができる！",
+  "skill.woh.enraged_claws.tooltip.extra": "この構えの持続時間：",
+  "skill.woh.arbiters_slash.tooltip": "武器のチャージが完了すると刃が特殊な状態になり、 \n魔法を帯びた鋭い回転盤を放つことができるようになる...",
+  "skill.woh.arbiters_slash.tooltip.extra": "この状態の持続時間："
+}

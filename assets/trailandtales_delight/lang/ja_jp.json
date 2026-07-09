@@ -1,0 +1,54 @@
+{
+  "item.trailandtales_delight.cherry_blossom": "桜の花",
+  "item.trailandtales_delight.cherry_petal": "桜の花びら",
+  "item.trailandtales_delight.dried_cherry_petal": "乾燥させた桜の花びら",
+  "item.trailandtales_delight.pottery_bowl": "陶磁器のボウル",
+  "block.trailandtales_delight.pottery_cooking_pot": "陶磁器の料理鍋",
+  "block.trailandtales_delight.mud_stove": "泥のコンロ",
+  "item.trailandtales_delight.baked_pitcher_pod": "焼きウツボカズラのポッド",
+  "item.trailandtales_delight.baked_torchflower_seeds": "焼きトーチフラワーの種",
+  "item.trailandtales_delight.cheese_slice": "カットチーズ",
+  "item.trailandtales_delight.lantern_fruit_seeds": "ランタンフルーツの種",
+  "item.trailandtales_delight.lantern_fruit": "ランタンフルーツ",
+  "item.trailandtales_delight.pitcher_plant": "ウツボカズラ",
+  "item.trailandtales_delight.golden_lantern_fruit": "金のランタンフルーツ",
+  "item.trailandtales_delight.pitcher_taro": "ウツボサトイモ",
+  "item.trailandtales_delight.cooked_pitcher_taro": "焼きウツボサトイモ",
+  "item.trailandtales_delight.cherry_cheese_slice": "桜のカットチーズ",
+  "item.trailandtales_delight.cherry_cake_slice": "桜のケーキ（カット）",
+  "item.trailandtales_delight.cherry_cheese_pie_slice": "桜のチーズパイ（カット）",
+  "item.trailandtales_delight.sniffer_eggshell_slice": "スニッファーの卵殻の破片",
+  "item.trailandtales_delight.fried_sniffer_egg": "スニッファーの目玉焼き",
+  "item.trailandtales_delight.stuffed_sniffer_egg": "スニッファーの卵の詰め物料理",
+  "item.trailandtales_delight.sniffer_egg_soup": "スニッファーの卵スープ",
+
+  "item.trailandtales_delight.cherry_petal_tea": "桜茶",
+  "item.trailandtales_delight.torchflower_tea": "トーチフラワー茶",
+  "item.trailandtales_delight.pitcher_plant_tea": "ウツボカズラ茶",
+  "item.trailandtales_delight.ancient_coffee": "いにしえのコーヒー",
+
+  "block.trailandtales_delight.budding_lantern_fruit": "芽吹いたランタンフルーツ",
+  "block.trailandtales_delight.lantern_fruits": "ランタンフルーツの蔓",
+  "block.trailandtales_delight.lantern_fruit_crate": "ランタンフルーツの箱",
+  "block.trailandtales_delight.pitcher_taro_crate": "ウツボサトイモの箱",
+
+  "block.trailandtales_delight.cheese_wheel": "ホールチーズ",
+  "block.trailandtales_delight.curd_block": "カード（凝乳）ブロック",
+  "block.trailandtales_delight.cherry_cake": "桜のケーキ",
+  "block.trailandtales_delight.cherry_cheese_pie": "桜のチーズパイ",
+  "block.trailandtales_delight.sniffer_eggshell": "スニッファーの卵殻",
+  "block.trailandtales_delight.cooked_sniffer_egg_block": "調理されたスニッファーの卵",
+  "block.trailandtales_delight.stuffed_sniffer_egg_block": "スニッファーの卵の詰め物",
+  "block.trailandtales_delight.sniffer_egg_soup": "スニッファーの卵スープ",
+
+  "item.trailandtales_delight.cherry_iron_knife": "桜鉄のナイフ",
+  "item.trailandtales_delight.sniffer_eggshell_knife": "スニッファーの卵殻ナイフ",
+
+  "block.trailandtales_delight.curd_block.tooltip": "カードブロックを暗い環境に置き、一定時間待つとホールチーズに変化します",
+  "item.trailandtales_delight.pitcher_plant.tooltip": "原材料としてのみ使用されます。まな板の上でナイフを使って切ることで、ウツボカズラとウツボサトイモを入手できます",
+
+  "advancements.tat_delight.title": "旅路と物語の料理（Trail&Tales Delight）",
+  "advancements.tat_delight.descr": "桜の香りと古の趣を辿る旅に出よう...",
+
+  "ItemGroup.trailandtales_delight.item": "Trail&Tales Delight"
+}

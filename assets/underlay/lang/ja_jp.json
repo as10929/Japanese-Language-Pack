@@ -1,0 +1,5 @@
+{
+  "block.underlay.overlay": " (オーバーレイ)",
+  "config.jade.plugin_underlay.overlay": "オーバーレイ",
+  "config.jade.plugin_underlay.overlay.tooltip": "アンダーレイのオーバーレイツールチップを表示します"
+}

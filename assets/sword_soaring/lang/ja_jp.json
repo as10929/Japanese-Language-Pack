@@ -1,0 +1,73 @@
+{
+  "itemGroup.sword_soaring.items": "Sword Soaring Items",
+  "item.sword_soaring.vatansever": "バタンセベル",
+  "item.sword_soaring.vatansever.description1": " —— §b§lその冷気は静寂なる領域を護り§r§c§l、屠殺の迷宮を抜けて不浄を浄化せん§r",
+  "item.sword_soaring.vatansever.description2": "天界戦争の後、名匠「崑崙（クンルン）」の手によって鍛えられたこの刃は、帰墟（キキョ）の炉にて百年の時をかけた冥鉄と神の骨を焼き尽くして誕生した。その産声に天は星屑の涙を流したという。刃には天界の陣の刻印が刻まれ、その背には龍の精髄が宿る。これは単なる鉄ではなく、破滅が人々の平穏を脅かす時、血を以て応える宿命の答えである。今や覚醒したその氷河の陣は、山々を砕きながらも、村々の炊煙を守り続ける。",
+  "skill.sword_soaring.vatansever.tooltip1": "§3§l玄冥：ソウルフロスト・サークル§r —— ",
+  "skill.sword_soaring.vatansever.tooltip2": "§7氷河の印により氷刃が形成され、魂の核を切り裂くルーンが刻まれる§r",
+  "skill.sword_soaring.vatansever.tooltip3": "§c§l三陽貫通の術§r —— ",
+  "skill.sword_soaring.vatansever.tooltip4": "§7龍の如き力で三つの太陽を束ね、一突きのうちに雲を割り天の頂を穿つ§r",
+  "skill.sword_soaring.vatansever.tooltip5": "§f§l六重深淵破り§r —— ",
+  "skill.sword_soaring.vatansever.tooltip6": "§7六つの峰を凝縮した破壊の弧を描き、一太刀で地獄の永劫なる闇を浄化せん§r",
+  "skill.sword_soaring.vatansever.tooltip7": "§f§l帰墟の刃崖§r —— ",
+  "skill.sword_soaring.vatansever.tooltip8": "§7刃によって築かれた壁が命の灯火を封じ、帰墟の静寂が死の鎮魂歌を歌う§r",
+  "skill.sword_soaring.vatansever.tooltip9": "§b§l龍顎の殲滅§r —— ",
+  "skill.sword_soaring.vatansever.tooltip10": "§7蜷局を巻く龍の息吹は刃の嵐となり、陣の覚醒により日月は再形成される§r",
+
+  "epicfight.skill_slot.sword_soaring": "御剣飛行",
+  "skill.epicfight.sword_soaring.category": "御剣飛行",
+  "skill.sword_soaring.sword_soaring_apprentice": "御剣飛行：Lv1",
+  "skill.sword_soaring.sword_soaring_apprentice.tooltip": "見習い\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+  "skill.sword_soaring.sword_soaring_expert": "御剣飛行：Lv2",
+  "skill.sword_soaring.sword_soaring_expert.tooltip": "熟練者\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+  "skill.sword_soaring.sword_soaring_master": "御剣飛行：達人",
+  "skill.sword_soaring.sword_soaring_master.tooltip": "このスキルを習得している場合、Lv1およびLv2のスタイルで飛行してもスタミナを消費せず、クールタイムも発生しません。\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+  "skill.sword_soaring.sword_soaring_elytra_apprentice": "滑空御剣1",
+  "skill.sword_soaring.sword_soaring_elytra_apprentice.tooltip": "滑空見習い（エリトラ）\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+  "skill.sword_soaring.sword_soaring_elytra_expert": "滑空御剣2",
+  "skill.sword_soaring.sword_soaring_elytra_expert.tooltip": "滑空熟練者（エリトラ）\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+  "skill.sword_soaring.sword_soaring_elytra_master": "滑空の達人",
+  "skill.sword_soaring.sword_soaring_elytra_master.tooltip": "このスキルを習得している場合、Lv1およびLv2のスタイルで飛行してもスタミナを消費せず、クールタイムも発生しません。\n\n[%s] をダブルクリックして離陸。 [%s] を長押しで加速。",
+
+  "skill.sword_soaring.vatansever_dodge": "バタンセベル・回避",
+  "skill.sword_soaring.vatansever_dodge.tooltip": "バタンセベル専用の回避スキル。この武器を装備すると自動的に習得されますが、他の武器を保持している間は無効になります。",
+
+  "epicfight.skill_slot.sword_controller": "剣の支配",
+  "skill.epicfight.sword_controller.category": "剣経典コーデックス",
+
+  "skill.sword_soaring.screen_sword": "虚空刃域：断絶",
+  "skill.sword_soaring.screen_sword.tooltip": "§f§l剣気は八方を封じる網を織り成し、陣の完成により天地が共鳴せん§r\n\n虚空刃域を展開して被害をそらす。飛び道具を無効化し、近接攻撃に対しては剣の最大威力でカウンターを行う。\n\n%d/6回のヒットごとに剣を1本失い、HPを %.1f 回復する。\n\n持続時間： %.1fs\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "skill.sword_soaring.kill_aura_1": "星辰殲滅：カタクリズム",
+  "skill.sword_soaring.kill_aura_1.tooltip": "§b§l天空の星々が下界へと降り注ぎ、輪の輝きが浄化の炎を呼ぶ§r\n\n隕石の陣を召喚し、周囲の敵にダメージを与える（武器の威力に比例）。\n\n持続時間： %.1fs\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "skill.sword_soaring.kill_aura_2": "血蓮焼却",
+  "skill.sword_soaring.kill_aura_2.tooltip": "§c§l真紅の輪は蓮華の火として咲き誇り、あらゆる命を焼き尽くして跡形も残さぬ§r\n\n灼熱の陣を点火し（武器の威力に比例）、敵を炎上させる。\n\n持続時間： %.1fs\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "skill.sword_soaring.rain_sword": "天界の陣：粛清",
+  "skill.sword_soaring.rain_sword.tooltip": "§f§l北斗七星の威光が剣の領域を成し、陣が届く場所は悪を滅ぼす地とならん§r\n\n各攻撃時に %d-%d 本の幻影の刃を召喚する。\n\n持続時間： %.1fs\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "skill.sword_soaring.babylon": "バビロニアの武器庫",
+  "skill.sword_soaring.babylon.tooltip": "空から降り注ぐ無数の刃の宝庫を解き放つ。\n\n§e§l「ふん。高貴な武装には、それに相応しい使い方というものがある」§r\n\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "skill.sword_soaring.wan_jian_gui_zong": "万剣帰宗（ばんけんきそう）",
+  "skill.sword_soaring.wan_jian_gui_zong.tooltip": "気は八方を命じ、刃は六界の礎を支配する。\n\n沸き立つ剣気は千の刃の嵐を呼び、集中した意志は万の刃を一つに束ねる。\n\n剣道の極致――その奥義が今紐解かれる。悟りを開きし者のみが、この術を目にすることができるだろう。\n\nクールタイム： %.1fs\n\n [%s] を押す",
+
+  "key.sword_soaring.common": "Epic Fight: 御剣飛行",
+  "key.sword_soaring.sword_skill": "剣技",
+  "key.sword_soaring.sword_back": "背負い直す (バタンセベル)",
+  "key.sword_soaring.take_off": "離陸開始",
+  "key.sword_soaring.acceleration": "ブースト",
+  "key.sword_soaring.switch_mode": "飛行モード切り替え",
+
+  "key.sword_soaring.sword_skill.description": "使用可能な場合、装備している武器の特殊な剣技を発動します。",
+  "key.sword_soaring.sword_back.description": "バタンセベルを背中の位置に戻します。",
+  "key.sword_soaring.take_off.description": "Epic Fightの必要スキルを習得している場合、御剣飛行を開始します。",
+  "key.sword_soaring.acceleration.description": "飛行中、一時的に移動速度を上昇させます。",
+  "key.sword_soaring.switch_mode.description": "御剣飛行の異なるモードを切り替えます。",
+
+  "tips.sword_soaring.style_change": "現在の飛行モード：",
+  "biome.sword_soaring.the_wraithium_battlegrounds": "レイスィウムの戦場",
+
+  "skill_tree.sword_soaring.sword_soaring_skills": "剣術スキル"
+}

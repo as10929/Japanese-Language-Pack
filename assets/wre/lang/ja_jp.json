@@ -1,0 +1,19 @@
+{
+  "item.wre.witherward_ring": "ウィザー除けの指輪",
+  "item.wre.sickward_ring": "吐き気除けの指輪",
+  "item.wre.illagerward_ring": "邪悪な村人除けの指輪",
+  "item.wre.blindward_ring": "盲目除けの指輪",
+  "item.wre.hungerward_ring": "空腹除けの指輪",
+  "item.wre.puffer_essence": "フグのエッセンス",
+  "item.wre.flesh_essence": "腐肉のエッセンス",
+  "item_group.wre.ward_ring_expansion": "Ward Ring Expansion",
+  "item.wre.raiseward_ring": "浮遊除けの指輪",
+  "item.wre.decaying_essence": "腐朽のエッセンス",
+  "item.wre.luckward_ring": "不運除けの指輪",
+  "item.wre.illager_essence": "邪悪な村人のエッセンス",
+  "item.wre.weakward_ring": "弱体化除けの指輪",
+  "item.wre.sedated_essence": "鎮静のエッセンス",
+  "item.wre.wearyward_ring": "採掘速度低下除けの指輪",
+  "item.wre.sculk_essence": "スカルクのエッセンス",
+  "item.wre.slugward_ring": "移動速度低下除けの指輪"
+}

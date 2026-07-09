@@ -1,0 +1,23 @@
+{
+  "item.tundradragon.freezerburned_steak": "冷凍焼けしたステーキ",
+  "item.tundradragon.tundra_dragon_treat": "ツンドラドラゴンのごちそう",
+  "item.tundradragon.tundra_dragon_treat.description_0": "§7■ 一時的にマナが無限になります。",
+  "effect.tundradragon.supercooling": "過冷却",
+  "item.tundradragon.infused_ice_crystal": "魔力が注入された氷晶",
+  "item.tundradragon.chilled_porkchop": "冷製生豚肉",
+  "item.tundradragon.freezerburned_mutton": "冷凍焼けした生羊肉",
+  "item.tundradragon.chilled_chicken": "冷製生鶏肉",
+  "item.tundradragon.chilled_mutton": "冷製生羊肉",
+  "effect.tundradragon.frostbite": "凍傷",
+  "item.tundradragon.popsicle": "青い氷のアイスキャンディ",
+  "item.tundradragon.popsicle.description_0": "§7■ ウィザーと毒の効果を取り除き、衝撃吸収と再生能力を付与します。ドラゴンの骨を練り込んだ硬い青い氷を、ブレイズパウダーを絶妙に調合することで食べられる硬さまで和らげています。",
+  "effect.tundradragon.freeze_immunity": "凍結耐性",
+  "item.tundradragon.freezerburned_chicken": "冷凍焼けした生鶏肉",
+  "item.tundradragon.chilled_rabbit": "冷製生ウサギ肉",
+  "item.tundradragon.freezerburned_rabbit": "冷凍焼けした生ウサギ肉",
+  "item.tundradragon.chilled_steak": "冷製ステーキ",
+  "item.tundradragon.snowy_stew.description_0": "§7■ 再生能力を付与します。食べられる氷の器に、肉と粉雪を無造作に混ぜ合わせたシチューです。",
+  "item.tundradragon.freezerburned_porkchop": "冷凍焼けした生豚肉",
+  "item.tundradragon.snowy_stew": "雪のシチュー",
+  "item.tundradragon.infused_ice_crystal.description_0": "§7■ 体を冷やして氷の骨格を強化し、一定時間、熱や衝撃に耐えられるようにします。"
+}
