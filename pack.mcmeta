@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 64],
+    "min_format": 15,
+    "max_format": 999,
+    "description": "§c§l様々なMOD§fの§e§n日本語化パック\n§r§fMade by §2§nRe§f§nmily§5§nMart"
+  }
+}
