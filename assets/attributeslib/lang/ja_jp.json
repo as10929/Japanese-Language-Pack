@@ -1,0 +1,172 @@
+{
+    "item.modifiers.both_hands": "保持時:",
+
+    "attributeslib.adv.base": "[エンティティ: %s | アイテム: %s]",
+    "attributeslib.adv.sharpness_bonus": "[斬れ味: +%s]",
+
+    "attributeslib.value.flat": "%s",
+    "attributeslib.value.percent": "%s%%",
+
+    "attributeslib.value.boolean.enabled": "有効",
+    "attributeslib.value.boolean.disabled": "無効",
+    "attributeslib.value.boolean.enable": "有効化",
+    "attributeslib.value.boolean.force_disable": "強制無効化",
+    "attributeslib.value.boolean.invalid": "無効",
+
+    "attributeslib.modifier.plus": "+%s %s",
+    "attributeslib.modifier.take": "-%s %s",
+    "attributeslib.modifier.bool": "%s %s",
+
+    "attributeslib.gui.attributes": "属性ステータス",
+    "attributeslib.gui.base": "基本値: %s",
+    "attributeslib.gui.min": "最小値: %s",
+    "attributeslib.gui.max": "最大値: %s",
+    "attributeslib.gui.modifiers": "修正値",
+    "attributeslib.gui.addition": "加算: %s",
+    "attributeslib.gui.multiply_base": "基本値乗算: %s",
+    "attributeslib.gui.multiply_total": "最終値乗算: %s",
+    "attributeslib.gui.press_shift": "Shiftキーで詳細を表示",
+    "attributeslib.gui.current": "現在値: %s",
+    "attributeslib.gui.show_attributes": "属性を表示",
+    "attributeslib.gui.formula.base": "基本値",
+    "attributeslib.gui.formula.value": "値",
+    "attributeslib.gui.no_modifiers": "修正なし",
+
+    "attribute.name.generic.armor.desc": "物理ダメージの軽減率を上昇させます。",
+    "attribute.name.generic.armor_toughness.desc": "敵による防具貫通効果を低減させます。",
+    "attribute.name.generic.attack_damage.desc": "最大まで溜めた攻撃で与える物理ダメージ量です。",
+    "attribute.name.generic.attack_knockback.desc": "近接攻撃で敵を弾き飛ばす距離です。（0.5ブロック単位）",
+    "attribute.name.generic.attack_speed.desc": "1秒間に実行可能な最大チャージ攻撃の回数です。",
+    "attribute.name.generic.knockback_resistance.desc": "ノックバックを無効化する確率です。",
+    "attribute.name.generic.luck.desc": "良い出来事が起こる可能性を高めます。",
+    "attribute.name.generic.max_health.desc": "最大体力の値です。",
+    "attribute.name.generic.movement_speed.desc": "歩行時の移動速度です。",
+
+    "forge.entity_reach.desc": "エンティティに干渉できる距離です。（ブロック単位）",
+    "forge.entity_gravity.desc": "地面に向かう重力加速度です。（ブロック/秒²）",
+    "forge.name_tag_distance.desc": "他人の名前が見えるようになるまでの距離です。",
+    "forge.block_reach.desc": "ブロックに干渉できる距離です。（ブロック単位）",
+    "forge.step_height.desc": "ジャンプせずに乗り越えられる段差の高さです。",
+    "forge.swim_speed.desc": "泳ぐ速度の倍率です。",
+
+    "attributeslib:draw_speed": "引き絞り速度",
+    "attributeslib:draw_speed.desc": "弓、クロスボウ、トライデントなどの遠距離武器を構える速さです。",
+
+    "attributeslib:crit_chance": "会心率",
+    "attributeslib:crit_chance.desc": "攻撃がクリティカルになる確率です。会心ダメージに基づいて追加ダメージを与えます。",
+
+    "attributeslib:crit_damage": "会心ダメージ",
+    "attributeslib:crit_damage.desc": "クリティカル時のダメージ倍率です。バニラのジャンプ攻撃も含まれます。",
+
+    "attributeslib:cold_damage": "氷結ダメージ",
+    "attributeslib:cold_damage.desc": "近接攻撃時に付与される魔法追加ダメージです。敵に鈍鈍を与えます。",
+
+    "attributeslib:fire_damage": "火炎ダメージ",
+    "attributeslib:fire_damage.desc": "近接攻撃時に付与される魔法追加ダメージです。敵を炎上させます。",
+
+    "attributeslib:life_steal": "吸血",
+    "attributeslib:life_steal.desc": "軽減後の与ダメージに応じて、自身の体力を回復する割合です。",
+
+    "attributeslib:current_hp_damage": "現在HP割合ダメージ",
+    "attributeslib:current_hp_damage.desc": "近接攻撃時、標的の現在体力に基づいた物理追加ダメージを与えます。",
+
+    "attributeslib:overheal": "オーバーヒール",
+    "attributeslib:overheal.desc": "軽減後の与ダメージに応じて、衝撃吸収（黄色い体力）を得る割合です。",
+
+    "attributeslib:ghost_health": "ゴーストヘルス",
+    "attributeslib:ghost_health.desc": "未実装",
+
+    "attributeslib:mining_speed": "採掘速度",
+    "attributeslib:mining_speed.desc": "ブロックを破壊する速さの倍率です。",
+
+    "attributeslib:arrow_damage": "矢のダメージ",
+    "attributeslib:arrow_damage.desc": "矢のダメージ倍率です。（トライデントも矢として扱われます）",
+
+    "attributeslib:arrow_velocity": "矢の弾速",
+    "attributeslib:arrow_velocity.desc": "矢の飛散速度の倍率です。ダメージは弾速に応じてスケールします。",
+
+    "attributeslib:experience_gained": "経験値獲得量",
+    "attributeslib:experience_gained.desc": "ブロック破壊やモブ討伐時に得られる経験値の倍率です。",
+
+    "attributeslib:healing_received": "被回復量",
+    "attributeslib:healing_received.desc": "受けるすべての回復効果に対する倍率です。",
+
+    "attributeslib:armor_pierce": "防具貫通",
+    "attributeslib:armor_pierce.desc": "標的の防御力を固定値で減少させます。",
+
+    "attributeslib:armor_shred": "防具粉砕",
+    "attributeslib:armor_shred.desc": "標的の防御力を割合（％）で減少させます。",
+
+    "attributeslib:prot_pierce": "耐性貫通",
+    "attributeslib:prot_pierce.desc": "標的のダメージ軽減（エンチャント）値を固定値で減少させます。",
+
+    "attributeslib:prot_shred": "耐性粉砕",
+    "attributeslib:prot_shred.desc": "標的のダメージ軽減（エンチャント）値を割合（％）で減少させます。",
+
+    "attributeslib:dodge_chance": "回避率",
+    "attributeslib:dodge_chance.desc": "近接攻撃や飛び道具を回避する確率です。",
+
+    "attributeslib:elytra_flight": "エリトラ飛行",
+    "attributeslib:elytra_flight.desc": "エリトラを装備しているかのように飛行できるようになります。",
+
+    "attributeslib:creative_flight": "クリエイティブ飛行",
+    "attributeslib:creative_flight.desc": "クリエイティブモードのように飛行できるようになります。",
+
+    "effect.attributeslib.knowledge": "古の知識",
+    "effect.attributeslib.knowledge.desc": "討伐やブロック破壊からの経験値獲得量が増加します。",
+    "effect.attributeslib.knowledge.description": "討伐やブロック破壊からの経験値獲得量が増加します。",
+
+    "effect.attributeslib.sundering": "粉砕",
+    "effect.attributeslib.sundering.desc": "受けるダメージが増加します。",
+    "effect.attributeslib.sundering.description": "受けるダメージが増加します。",
+
+    "effect.attributeslib.vitality": "溢れる活力",
+    "effect.attributeslib.vitality.desc": "受ける回復量が増加します。",
+    "effect.attributeslib.vitality.description": "受ける回復量が増加します。",
+
+    "effect.attributeslib.grievous": "重傷",
+    "effect.attributeslib.grievous.desc": "受ける回復量が減少します。",
+    "effect.attributeslib.grievous.description": "受ける回復量が減少します。",
+
+    "effect.attributeslib.bleeding": "出血",
+    "effect.attributeslib.bleeding.desc": "2秒ごとにダメージを受けます。",
+    "effect.attributeslib.bleeding.description": "2秒ごとにダメージを受けます。",
+
+    "effect.attributeslib.detonation": "火炎爆破",
+    "effect.attributeslib.detonation.desc": "効果終了時、残りの炎上時間に基づいたダメージを受けます。",
+    "effect.attributeslib.detonation.description": "効果終了時、残りの炎上時間に基づいたダメージを受けます。",
+
+    "effect.attributeslib.flying": "飛行",
+    "effect.attributeslib.flying.desc": "クリエイティブ飛行が可能になります。",
+    "effect.attributeslib.flying.description": "クリエイティブ飛行が可能になります。",
+
+    "effect.minecraft.night_vision.desc": "暗闇でも周囲が見えるようになります。",
+    "effect.minecraft.invisibility.desc": "姿が透明になります（装備品を除く）。",
+    "effect.minecraft.jump_boost.desc": "ジャンプ力が上昇します。",
+    "effect.minecraft.fire_resistance.desc": "火炎ダメージを無効化します。",
+    "effect.minecraft.water_breathing.desc": "水中で溺れなくなります。",
+    "effect.minecraft.instant_health.desc": "即座に体力を回復します。",
+    "effect.minecraft.instant_damage.desc": "即座に魔法ダメージを与えます。",
+    "effect.minecraft.poison.desc": "継続的にダメージを与えます（致命傷にはなりません）。",
+    "effect.minecraft.regeneration.desc": "時間の経過とともに体力を回復します。",
+
+    "death.attack.attributeslib:bleeding": "%1$s は出血多量で死亡した",
+    "death.attack.attributeslib:bleeding.item": "%1$s は %2$s の %3$s による出血で死亡した",
+    "death.attack.attributeslib:bleeding.player": "%1$s は %2$s から逃げようとしたが出血多量で倒れた",
+
+    "death.attack.attributeslib:detonation": "%1$s は火炎爆発に巻き込まれた",
+    "death.attack.attributeslib:detonation.item": "%1$s は火炎爆発に巻き込まれた",
+    "death.attack.attributeslib:detonation.player": "%1$s は火炎爆発に巻き込まれた",
+
+    "death.attack.attributeslib:current_hp_damage": "%1$s は打ち倒された",
+    "death.attack.attributeslib:current_hp_damage.item": "%1$s は %2$s の %3$s によって打ち倒された",
+    "death.attack.attributeslib:current_hp_damage.player": "%1$s は %2$s との戦いで打ち倒された",
+
+    "death.attack.attributeslib:fire_damage": "%1$s は焼き尽くされた",
+    "death.attack.attributeslib:fire_damage.item": "%1$s は %2$s の %3$s によって焼き尽くされた",
+    "death.attack.attributeslib:fire_damage.player": "%1$s は %2$s との戦いで焼き尽くされた",
+
+    "death.attack.attributeslib:cold_damage": "%1$s は凍死した",
+    "death.attack.attributeslib:cold_damage.item": "%1$s は %2$s の %3$s によって凍死させられた",
+    "death.attack.attributeslib:cold_damage.player": "%1$s は %2$s との戦いで凍死した"
+}

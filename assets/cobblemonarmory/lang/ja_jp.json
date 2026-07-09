@@ -1,0 +1,162 @@
+{
+  "item.cobblemonarmory.cobblemon_armory": "Cobblemon: Armory",
+
+  "item.cobblemonarmory.cobblemon_smithing_upgrade": "Cobblemon 鍛冶テンプレート",
+  "item.cobblemonarmory.smithing_upgrade.applies_to": "§9強化可能な装備",
+  "item.cobblemonarmory.smithing_upgrade.ingredients": "§9Cobblemon: Armory の素材",
+  "item.cobblemonarmory.smithing_upgrade.title": "§7アーマリー強化",
+  "item.cobblemonarmory.smithing_upgrade.base_slot_description": "防具を置いてください",
+  "item.cobblemonarmory.smithing_upgrade.additions_slot_description": "素材を置いてください",
+
+  "item.cobblemonarmory.charizard_scales": "リザードンのウロコ",
+  "item.cobblemonarmory.eevee_fur": "イーブイの毛",
+  "item.cobblemonarmory.haxorus_shard": "オノノクスの破片",
+  "item.cobblemonarmory.starmie_pieces": "スターミーの欠片",
+  "item.cobblemonarmory.primeape_fur": "オコリザルの毛",
+  "item.cobblemonarmory.bastiodon_skull": "トリデッカンの頭蓋骨",
+  "item.cobblemonarmory.rayquaza_scale": "レックウザのウロコ",
+  "item.cobblemonarmory.tinkaton_hammer_piece": "デカヌチャンのハンマーの破片",
+  "item.cobblemonarmory.tinkaton_handle_piece": "デカヌチャンの柄の破片",
+
+  "item.cobblemonarmory.charizard_armor_helmet": "リザードンのヘルメット",
+  "item.cobblemonarmory.charizard_armor_chestplate": "リザードンのチェストプレート",
+  "item.cobblemonarmory.charizard_armor_leggings": "リザードンのレギンス",
+  "item.cobblemonarmory.charizard_armor_boots": "リザードンのブーツ",
+
+  "item.cobblemonarmory.shiny_charizard_armor_helmet": "色違いリザードンのヘルメット",
+  "item.cobblemonarmory.shiny_charizard_armor_chestplate": "色違いリザードンのチェストプレート",
+  "item.cobblemonarmory.shiny_charizard_armor_leggings": "色違いリザードンのレギンス",
+  "item.cobblemonarmory.shiny_charizard_armor_boots": "色違いリザードンのブーツ",
+
+  "item.cobblemonarmory.squirtle_glasses": "ゼニガメのサングラス",
+
+  "item.cobblemonarmory.ceruledge_armor_helmet": "ソウブレイズのヘルメット",
+  "item.cobblemonarmory.ceruledge_armor_chestplate": "ソウブレイズのチェストプレート",
+  "item.cobblemonarmory.ceruledge_armor_leggings": "ソウブレイズのレギンス",
+  "item.cobblemonarmory.ceruledge_armor_boots": "ソウブレイズのブーツ",
+
+  "item.cobblemonarmory.armarouge_armor_helmet": "グレンアルマのヘルメット",
+  "item.cobblemonarmory.armarouge_armor_chestplate": "グレンアルマのチェストプレート",
+  "item.cobblemonarmory.armarouge_armor_leggings": "グレンアルマのレギンス",
+  "item.cobblemonarmory.armarouge_armor_boots": "グレンアルマのブーツ",
+
+  "item.cobblemonarmory.haxorus_armor_helmet": "オノノクスのヘルメット",
+  "item.cobblemonarmory.haxorus_armor_chestplate": "オノノクスのチェストプレート",
+  "item.cobblemonarmory.haxorus_armor_leggings": "オノノクスのレギンス",
+  "item.cobblemonarmory.haxorus_armor_boots": "オノノクスのブーツ",
+
+  "item.cobblemonarmory.shiny_haxorus_armor_boots": "色違いオノノクスのブーツ",
+  "item.cobblemonarmory.shiny_haxorus_armor_helmet": "色違いオノノクスのヘルメット",
+  "item.cobblemonarmory.shiny_haxorus_armor_chestplate": "色違いオノノクスのチェストプレート",
+  "item.cobblemonarmory.shiny_haxorus_armor_leggings": "色違いオノノクスのレギンス",
+
+  "item.cobblemonarmory.eevee_armor_helmet": "イーブイのヘルメット",
+  "item.cobblemonarmory.eevee_armor_chestplate": "イーブイのチェストプレート",
+  "item.cobblemonarmory.eevee_armor_leggings": "イーブイのレギンス",
+  "item.cobblemonarmory.eevee_armor_boots": "イーブイのブーツ",
+
+  "item.cobblemonarmory.shiny_eevee_armor_helmet": "色違いイーブイのヘルメット",
+  "item.cobblemonarmory.shiny_eevee_armor_chestplate": "色違いイーブイのチェストプレート",
+  "item.cobblemonarmory.shiny_eevee_armor_leggings": "色違いイーブイのレギンス",
+  "item.cobblemonarmory.shiny_eevee_armor_boots": "色違いイーブイのブーツ",
+
+  "item.cobblemonarmory.rayquaza_armor_helmet": "レックウザのヘルメット",
+  "item.cobblemonarmory.rayquaza_armor_chestplate": "レックウザのチェストプレート",
+  "item.cobblemonarmory.rayquaza_armor_leggings": "レックウザのレギンス",
+  "item.cobblemonarmory.rayquaza_armor_boots": "レックウザのブーツ",
+
+  "item.cobblemonarmory.shiny_rayquaza_armor_helmet": "色違いレックウザのヘルメット",
+  "item.cobblemonarmory.shiny_rayquaza_armor_chestplate": "色違いレックウザのチェストプレート",
+  "item.cobblemonarmory.shiny_rayquaza_armor_leggings": "色違いレックウザのレギンス",
+  "item.cobblemonarmory.shiny_rayquaza_armor_boots": "色違いレックウザのブーツ",
+
+  "item.cobblemonarmory.bastiodon_shield": "トリデッカンの盾",
+  "item.cobblemonarmory.tinkaton_hammer": "デカヌチャンのハンマー",
+  "item.cobblemonarmory.primeape_gloves": "オコリザルのグローブ",
+  "item.cobblemonarmory.primeape_gloves.desc": "§7オフハンドにも装着するとダメージが +1 加算されます",
+  "item.cobblemonarmory.starmie_sword": "スターミーの剣",
+  "item.cobblemonarmory.sirfetchd_sword": "ネギガナイトのネギの剣",
+  "item.cobblemonarmory.ceruledge_sword": "ソウブレイズの剣",
+
+  "item.cobblemonarmory.leafeon_armor_helmet": "リーフィアのヘルメット",
+  "item.cobblemonarmory.leafeon_armor_chestplate": "リーフィアのチェストプレート",
+  "item.cobblemonarmory.leafeon_armor_leggings": "リーフィアのレギンス",
+  "item.cobblemonarmory.leafeon_armor_boots": "リーフィアのブーツ",
+
+  "item.cobblemonarmory.shiny_leafeon_armor_helmet": "色違いリーフィアのヘルメット",
+  "item.cobblemonarmory.shiny_leafeon_armor_chestplate": "色違いリーフィアのチェストプレート",
+  "item.cobblemonarmory.shiny_leafeon_armor_leggings": "色違いリーフィアのレギンス",
+  "item.cobblemonarmory.shiny_leafeon_armor_boots": "色違いリーフィアのブーツ",
+
+  "item.cobblemonarmory.sylveon_armor_helmet": "ニンフィアのヘルメット",
+  "item.cobblemonarmory.sylveon_armor_chestplate": "ニンフィアのチェストプレート",
+  "item.cobblemonarmory.sylveon_armor_leggings": "ニンフィアのレギンス",
+  "item.cobblemonarmory.sylveon_armor_boots": "ニンフィアのブーツ",
+
+  "item.cobblemonarmory.shiny_sylveon_armor_helmet": "色違いニンフィアのヘルメット",
+  "item.cobblemonarmory.shiny_sylveon_armor_chestplate": "色違いニンフィアのチェストプレート",
+  "item.cobblemonarmory.shiny_sylveon_armor_leggings": "色違いニンフィアのレギンス",
+  "item.cobblemonarmory.shiny_sylveon_armor_boots": "色違いニンフィアのブーツ",
+
+  "item.cobblemonarmory.jolteon_armor_helmet": "サンダースのヘルメット",
+  "item.cobblemonarmory.jolteon_armor_chestplate": "サンダースのチェストプレート",
+  "item.cobblemonarmory.jolteon_armor_leggings": "サンダースのレギンス",
+  "item.cobblemonarmory.jolteon_armor_boots": "サンダースのブーツ",
+
+  "item.cobblemonarmory.shiny_jolteon_armor_helmet": "色違いサンダースのヘルメット",
+  "item.cobblemonarmory.shiny_jolteon_armor_chestplate": "色違いサンダースのチェストプレート",
+  "item.cobblemonarmory.shiny_jolteon_armor_leggings": "色違いサンダースのレギンス",
+  "item.cobblemonarmory.shiny_jolteon_armor_boots": "色違いサンダースのブーツ",
+
+  "item.cobblemonarmory.umbreon_armor_helmet": "ブラッキーのヘルメット",
+  "item.cobblemonarmory.umbreon_armor_chestplate": "ブラッキーのチェストプレート",
+  "item.cobblemonarmory.umbreon_armor_leggings": "ブラッキーのレギンス",
+  "item.cobblemonarmory.umbreon_armor_boots": "ブラッキーのブーツ",
+
+  "item.cobblemonarmory.shiny_umbreon_armor_helmet": "色違いブラッキーのヘルメット",
+  "item.cobblemonarmory.shiny_umbreon_armor_chestplate": "色違いブラッキーのチェストプレート",
+  "item.cobblemonarmory.shiny_umbreon_armor_leggings": "色違いブラッキーのレギンス",
+  "item.cobblemonarmory.shiny_umbreon_armor_boots": "色違いブラッキーのブーツ",
+
+  "item.cobblemonarmory.flareon_armor_helmet": "ブースターのヘルメット",
+  "item.cobblemonarmory.flareon_armor_chestplate": "ブースターのチェストプレート",
+  "item.cobblemonarmory.flareon_armor_leggings": "ブースターのレギンス",
+  "item.cobblemonarmory.flareon_armor_boots": "ブースターのブーツ",
+
+  "item.cobblemonarmory.shiny_flareon_armor_helmet": "色違いブースターのヘルメット",
+  "item.cobblemonarmory.shiny_flareon_armor_chestplate": "色違いブースターのチェストプレート",
+  "item.cobblemonarmory.shiny_flareon_armor_leggings": "色違いブースターのレギンス",
+  "item.cobblemonarmory.shiny_flareon_armor_boots": "色違いブースターのブーツ",
+
+  "item.cobblemonarmory.espeon_armor_helmet": "エーフィのヘルメット",
+  "item.cobblemonarmory.espeon_armor_chestplate": "エーフィのチェストプレート",
+  "item.cobblemonarmory.espeon_armor_leggings": "エーフィのレギンス",
+  "item.cobblemonarmory.espeon_armor_boots": "エーフィのブーツ",
+
+  "item.cobblemonarmory.shiny_espeon_armor_helmet": "色違いエーフィのヘルメット",
+  "item.cobblemonarmory.shiny_espeon_armor_chestplate": "色違いエーフィのチェストプレート",
+  "item.cobblemonarmory.shiny_espeon_armor_leggings": "色違いエーフィのレギンス",
+  "item.cobblemonarmory.shiny_espeon_armor_boots": "色違いエーフィのブーツ",
+
+  "item.cobblemonarmory.vaporeon_armor_helmet": "シャワーズのヘルメット",
+  "item.cobblemonarmory.vaporeon_armor_chestplate": "シャワーズ의 チェストプレート",
+  "item.cobblemonarmory.vaporeon_armor_leggings": "シャワーズのレギンス",
+  "item.cobblemonarmory.vaporeon_armor_boots": "シャワーズのブーツ",
+
+  "item.cobblemonarmory.shiny_vaporeon_armor_helmet": "色違いシャワーズのヘルメット",
+  "item.cobblemonarmory.shiny_vaporeon_armor_chestplate": "色違いシャワーズのチェストプレート",
+  "item.cobblemonarmory.shiny_vaporeon_armor_leggings": "色違いシャワーズのレギンス",
+  "item.cobblemonarmory.shiny_vaporeon_armor_boots": "色違いシャワーズのブーツ",
+
+  "item.cobblemonarmory.glaceon_armor_helmet": "グレイシアのヘルメット",
+  "item.cobblemonarmory.glaceon_armor_chestplate": "グレイシアのチェストプレート",
+  "item.cobblemonarmory.glaceon_armor_leggings": "グレイシアのレギンス",
+  "item.cobblemonarmory.glaceon_armor_boots": "グレイシアのブーツ",
+
+  "item.cobblemonarmory.shiny_glaceon_armor_helmet": "色違いグレイシアのヘルメット",
+  "item.cobblemonarmory.shiny_glaceon_armor_chestplate": "色違いグレイシアのチェストプレート",
+  "item.cobblemonarmory.shiny_glaceon_armor_leggings": "色違いグレイシアのレギンス",
+  "item.cobblemonarmory.shiny_glaceon_armor_boots": "色違いグレイシアのブーツ",
+
+  "item.cobblemonarmory.galarian_weezing_hat": "ガラルマタドガスの帽子"
+}

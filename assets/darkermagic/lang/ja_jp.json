@@ -1,0 +1,32 @@
+{
+  "item.darkermagic.warden_mage_helmet": "ウォーデンのバトルメイジ・ヘルメット",
+  "item.darkermagic.warden_mage_chestplate": "ウォーデンのバトルメイジ・ローブ",
+  "item.darkermagic.warden_mage_leggings": "ウォーデンのバトルメイジ・レギンス",
+  "item.darkermagic.warden_mage_boots": "ウォーデンのバトルメイジ・ブーツ",
+  "item.darkermagic.warden_stick": "ウォーデンの杖",
+  "item.darkermagic.whisper_staff": "ザ・ウィスパーズ",
+  "item.darkermagic.volume_of_the_deep": "ヴォリューム・オブ・ザ・ディープ",
+
+  "spell.darkermagic.summoned_warden": "ウォーデン召喚",
+  "spell.darkermagic.summoned_warden.guide": "深淵からウォーデンを召喚する",
+  "spell.darkermagic.summoned_shattered": "シャッタード召喚",
+  "spell.darkermagic.summoned_shattered.guide": "アザーサイドからシャッタードを召喚する",
+  "spell.darkermagic.summoned_sculk_centipede": "スカルク・センチピード召喚",
+  "spell.darkermagic.summoned_sculk_centipede.guide": "アザーサイドからスカルク・センチピードを召喚する",
+  "spell.darkermagic.summoned_sculk_snapper": "スカルク・スナッパー召喚",
+  "spell.darkermagic.summoned_sculk_snapper.guide": "アザーサイドからスカルク・スナッパーを召喚する",
+
+  "entity.darkermagic.summoned_warden": "召喚されたウォーデン",
+  "entity.darkermagic.summoned_shattered": "召喚されたシャッタード",
+  "entity.darkermagic.summoned_sculk_centipede": "召喚されたスカルク・センチピード",
+  "entity.darkermagic.summoned_sculk_snapper": "召喚されたスカルク・スナッパー",
+
+  "advancements.darkermagic.spell_book_volume_of_the_deep.title": "エルドリッチ・マスター",
+  "advancements.darkermagic.spell_book_volume_of_the_deep.description": "ヴォリューム・オブ・ザ・ディープへアップグレードする。",
+  "advancements.darkermagic.full_set_warden_mage.title": "ウォーデンとの一体化",
+  "advancements.darkermagic.full_set_warden_mage.description": "ウォーデンのバトルメイジ防具を揃える。",
+  "advancements.darkermagic.whisper_staff_obtain.title": "深淵からの囁き",
+  "advancements.darkermagic.whisper_staff_obtain.description": "ウィスパー・スタッフをクラフトする。",
+
+  "creativetab.deeper_darker_spellbooks": "Deeper and Darker: Spellbooks"
+}

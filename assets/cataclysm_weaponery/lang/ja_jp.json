@@ -1,0 +1,20 @@
+{
+  "item.cataclysm_weaponery.ignitium_pickaxe.description_1": "§dスキル: 右クリックでプレイヤーに採掘速度上昇を付与。",
+  "item.cataclysm_weaponery.ignitium_shovel": "白熱のシャベル",
+  "item.cataclysm_weaponery.ignitium_pickaxe.description_0": "§2ツルハシ",
+  "item.cataclysm_weaponery.ignitium_hoe.description_0": "§2クワ",
+  "item.cataclysm_weaponery.ignitium_pickaxe": "アンダーワールドディガー",
+  "item.cataclysm_weaponery.ignitium_hoe.description_1": "§dスキル: スニーク中に右クリックで火の玉を発射。",
+  "item.cataclysm_weaponery.ignitium_hoe": "ネザーリーパー",
+  "advancements.farming_time.descr": "イグニチュームのクワをクラフトする | §aこの進捗を達成すると400XPを獲得します。",
+  "item.cataclysm_weaponery.ignitium_sword.description_0": "§2剣",
+  "item.cataclysm_weaponery.ignitium_sword.description_1": "§6手持ちの時に火炎耐性の効果。",
+  "item.cataclysm_weaponery.ignitium_sword.description_2": "§dスキル: 右クリックでウィザースケルトンの頭蓋骨を発射。",
+  "item.cataclysm_weaponery.ignitium_shovel.description_1": "§dスキル: 土または草ブロックの上で右クリックすると、即座に2x3の土の壁を作成。",
+  "advancements.farming_time.title": "農業の時間だ！",
+  "item.cataclysm_weaponery.ignitium_shovel.description_0": "§2シャベル",
+  "item.cataclysm_weaponery.ignitium_axe": "クリムゾンハンマー",
+  "item.cataclysm_weaponery.ignitium_sword": "§8ウィザーの魂",
+  "item_group.cataclysm_weaponery.cataclysm_weaponery": "Cataclysm Weaponery",
+  "item.cataclysm_weaponery.ignitium_axe.description_0": "§2オノ"
+}

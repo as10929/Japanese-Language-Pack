@@ -1,0 +1,13 @@
+{
+  "options.continuity.title": "Continuity 設定",
+  "options.continuity.connected_textures": "接続テクスチャ",
+  "options.continuity.connected_textures.tooltip": "ブロックのテクスチャを接続して表示するかどうかを切り替えます。",
+  "options.continuity.emissive_textures": "発光テクスチャ",
+  "options.continuity.emissive_textures.tooltip": "ブロックやアイテムモデルの発光テクスチャを有効または無効にします。",
+  "options.continuity.custom_block_layers": "カスタムブロックレイヤー",
+  "options.continuity.custom_block_layers.tooltip": "カスタムブロックレイヤーを有効または無効にします。",
+  "resourcePack.continuity.default.name": "デフォルト接続テクスチャ",
+  "resourcePack.continuity.default.description": "ガラス、砂岩、本棚など",
+  "resourcePack.continuity.glass_pane_culling_fix.name": "板ガラスのカリング修正",
+  "resourcePack.continuity.glass_pane_culling_fix.description": "板ガラス同士の間の面を非表示にします"
+}

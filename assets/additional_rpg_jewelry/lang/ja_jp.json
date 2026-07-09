@@ -1,0 +1,70 @@
+{
+  "itemGroup.additional_rpg_jewelry.general": "追加のジュエリー",
+
+  "item.additional_rpg_jewelry.cactea_ring": "サボテンの指輪",
+  "item.additional_rpg_jewelry.dripstone_necklace": "鍾乳石のネックレス",
+
+  "item.additional_rpg_jewelry.aquamarine": "アクアマリン",
+  "item.additional_rpg_jewelry.malachite": "マラカイト",
+
+  "item.additional_rpg_jewelry.malachite_ring": "マラカイトの指輪",
+  "item.additional_rpg_jewelry.netherite_malachite_ring": "ネザライト・マラカイトの指輪",
+  "item.additional_rpg_jewelry.malachite_necklace": "マラカイトのネックレス",
+  "item.additional_rpg_jewelry.netherite_malachite_necklace": "ネザライト・マラカイトのネックレス",
+  "item.additional_rpg_jewelry.aquamarine_ring": "アクアマリンの指輪",
+  "item.additional_rpg_jewelry.netherite_aquamarine_ring": "ネザライト・アクアマリンの指輪",
+  "item.additional_rpg_jewelry.aquamarine_necklace": "アクアマリンのネックレス",
+  "item.additional_rpg_jewelry.netherite_aquamarine_necklace": "ネザライト・アクアマリンのネックレス",
+  "item.additional_rpg_jewelry.rage_ring": "バイキング・ルーンの指輪",
+  "item.additional_rpg_jewelry.netherite_rage_ring": "ネザライト・ルーン・バイキングの指輪",
+  "item.additional_rpg_jewelry.rage_necklace": "バイキング・ルーンのネックレス",
+  "item.additional_rpg_jewelry.netherite_rage_necklace": "ネザライト・ルーン・バイキングのネックレス",
+
+  "item.additional_rpg_jewelry.silver_sapphire_ring": "シルバー・サファイアの指輪",
+  "item.additional_rpg_jewelry.steel_jade_ring": "スチール・ジェイドの指輪",
+  "item.additional_rpg_jewelry.meteorite_silver_sapphire_ring": "隕鉄シルバー・サファイアの指輪",
+  "item.additional_rpg_jewelry.dark_steel_jade_ring": "ダークスチール・ジェイドの指輪",
+  "item.additional_rpg_jewelry.silver_sapphire_necklace": "シルバー・サファイアのネックレス",
+  "item.additional_rpg_jewelry.steel_jade_necklace": "スチール・ジェイドのネックレス",
+  "item.additional_rpg_jewelry.meteorite_silver_sapphire_necklace": "隕鉄シルバー・サファイアのネックレス",
+  "item.additional_rpg_jewelry.dark_steel_jade_necklace": "ダークスチール・ジェイドのネックレス",
+
+  "item.additional_rpg_jewelry.unique_rage_ring": "ᛈᛦᛋ",
+  "item.additional_rpg_jewelry.unique_rage_ring.lore": "この指輪は威圧的なオーラを放っている。このルーンを読める者はいるだろうか？",
+  "item.additional_rpg_jewelry.unique_rage_necklace": "スヴァブロドのペンダント",
+  "item.additional_rpg_jewelry.unique_rage_necklace.lore": "彼は信奉者たちにただ一つの戒律を宣言した：殺せ。",
+
+  "item.additional_rpg_jewelry.unique_earth_ring": "深淵の黒曜石の指輪",
+  "item.additional_rpg_jewelry.unique_earth_ring.lore": "洞窟の深くで鍛えられたものだ。ドワーフの手によるものだろうか？",
+  "item.additional_rpg_jewelry.unique_earth_necklace": "黒曜石の花",
+  "item.additional_rpg_jewelry.unique_earth_necklace.lore": "非常に重い。あまりにも重すぎる。",
+
+  "item.additional_rpg_jewelry.unique_ocean_ring": "ポセイドンの指輪",
+  "item.additional_rpg_jewelry.unique_ocean_ring.lore": "潮の満ち引きを操る強力な指輪。",
+  "item.additional_rpg_jewelry.unique_ocean_necklace": "アトランティスの失われたアミュレット",
+  "item.additional_rpg_jewelry.unique_ocean_necklace.lore": "忘れ去られた文明の失われた遺物。",
+
+  "item.additional_rpg_jewelry.unique_sky_ring": "ザナイトのエーテルリング",
+  "item.additional_rpg_jewelry.unique_sky_ring.lore": "エーテル界において非常に価値のある宝飾品。",
+  "item.additional_rpg_jewelry.unique_sky_necklace": "ザナイトのエーテルペンダント",
+  "item.additional_rpg_jewelry.unique_sky_necklace.lore": "エーテル次元のヴァルキリーによって鍛えられた。",
+
+  "item.additional_rpg_jewelry.unique_forest_ring": "森の精霊の指輪",
+  "item.additional_rpg_jewelry.unique_forest_ring.lore": "神話の森にて、強大なドルイドが「森の心臓」を用いて鍛え上げた。",
+  "item.additional_rpg_jewelry.unique_forest_necklace": "レシェンのアミュレット",
+  "item.additional_rpg_jewelry.unique_forest_necklace.lore": "強力なドルイドが、古代のレシェンの木材と心臓から作り出した。",
+
+  "item.additional_rpg_jewelry.vampire_ring": "レジスの指輪",
+  "item.additional_rpg_jewelry.vampire_ring.lore": "指輪が血を欲している……",
+  "item.additional_rpg_jewelry.vampire_necklace": "ガラシャムの鎖",
+  "item.additional_rpg_jewelry.vampire_necklace.lore": "汝、この恐怖を望むか？ (Nac thi sel me thaur?)",
+  "item.additional_rpg_jewelry.spell_vampire_ring": "ルーン刻印のスカーレットリング",
+  "item.additional_rpg_jewelry.spell_vampire_ring.lore": "邪悪な血の魔術師によって鍛造され、強力な呪文が刻まれている。",
+  "item.additional_rpg_jewelry.spell_vampire_necklace": "神聖なるスカーレットネックレス",
+  "item.additional_rpg_jewelry.spell_vampire_necklace.lore": "吸血鬼の魔力によって作られた古いネックレス。",
+
+  "item.additional_rpg_jewelry.unique_witcher_ring": "古代のケィア・モルヘンの指輪",
+  "item.additional_rpg_jewelry.unique_witcher_ring.lore": "ケィア・モルヘン最初期のウィッチャーの一人が所有していた、狼流派の指輪。",
+  "item.additional_rpg_jewelry.unique_witcher_necklace": "初期のシルバー・メダリオン",
+  "item.additional_rpg_jewelry.unique_witcher_necklace.lore": "アルズールによって作成された、不安定な魔力を持つ銀のネックレス。"
+}

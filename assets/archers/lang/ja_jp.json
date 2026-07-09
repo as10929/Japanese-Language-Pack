@@ -1,0 +1,99 @@
+{
+  "itemGroup.archers.general": "アーチャー",
+  "item.archers.auto_fire_hook.description_1": "チャージされた矢を自動的に放つ。",
+  "item.archers.auto_fire_hook.description_2": "金床で遠距離武器に付与できる。",
+  "item.ranged_weapon.pull_time": "引き絞り時間: %1$s 秒",
+
+  "block.archers.archers_workbench": "弓術の作業台",
+  "block.archers.archers_workbench.hint": "村人の職業「弓細工師」向けの作業台。",
+  "entity.minecraft.villager.archery_artisan": "弓細工師",
+  "entity.minecraft.villager.archers.archery_artisan": "弓細工師",
+  "entity.minecraft.villager.archers:archery_artisan": "弓細工師",
+
+  "item.archers.auto_fire_hook": "自動発射フック",
+  "item.archers.small_quiver": "矢筒",
+  "item.archers.medium_quiver": "狩人の矢筒",
+  "item.archers.large_quiver": "戦いの矢筒",
+  "item.archers.quiver.hint": "装備中、弓術用の矢を供給する。",
+
+  "item.archers.flint_spear": "火打ち石の槍",
+  "item.archers.iron_spear": "鉄の槍",
+  "item.archers.golden_spear": "金の槍",
+  "item.archers.diamond_spear": "ダイヤモンドの槍",
+  "item.archers.netherite_spear": "ネザライトの槍",
+  "item.archers.aeternium_spear": "エターニウムの槍",
+  "item.archers.ruby_spear": "ルビーの槍",
+  "item.archers.aether_spear": "ホーリースピアー",
+
+  "item.archers.archer_armor_head": "アーチャーのフード",
+  "item.archers.archer_armor_chest": "アーチャーのチュニック",
+  "item.archers.archer_armor_legs": "アーチャーのレギンス",
+  "item.archers.archer_armor_feet": "アーチャーのブーツ",
+
+  "item.archers.ranger_armor_head": "レンジャーのフード",
+  "item.archers.ranger_armor_chest": "レンジャーのチュニック",
+  "item.archers.ranger_armor_legs": "レンジャーのレギンス",
+  "item.archers.ranger_armor_feet": "レンジャーのブーツ",
+
+  "item.archers.netherite_ranger_armor_head": "ネザライト・レンジャーのフード",
+  "item.archers.netherite_ranger_armor_chest": "ネザライト・レンジャーのチュニック",
+  "item.archers.netherite_ranger_armor_legs": "ネザライト・レンジャーのレギンス",
+  "item.archers.netherite_ranger_armor_feet": "ネザライト・レンジャーのブーツ",
+
+  "item.archers.composite_longbow": "コンポジット・ロングボウ",
+  "item.archers.mechanic_shortbow": "メカニカル・ショートボウ",
+  "item.archers.royal_longbow": "ロイヤル・ロングボウ",
+  "item.archers.rapid_crossbow": "ラピッド・クロスボウ",
+  "item.archers.heavy_crossbow": "ヘビー・クロスボウ",
+  "item.archers.netherite_shortbow": "ネザライトのショートボウ",
+  "item.archers.netherite_longbow": "ネザライトのロングボウ",
+  "item.archers.netherite_rapid_crossbow": "ネザライトのラピッド・クロスボウ",
+  "item.archers.netherite_heavy_crossbow": "ネザライトのヘビー・クロスボウ",
+  "item.archers.crystal_shortbow": "クリスタルのショートボウ",
+  "item.archers.crystal_longbow": "クリスタルのロングボウ",
+  "item.archers.ruby_rapid_crossbow": "ルビーのラピッド・クロスボウ",
+  "item.archers.ruby_heavy_crossbow": "ルビーのヘビー・クロスボウ",
+  "item.archers.aether_longbow": "アクロポリスの銀弓",
+  "item.archers.aether_rapid_crossbow": "スカイ・クロスボウ",
+  "item.archers.aether_heavy_crossbow": "ヴァルキリー・バリスタ",
+
+  "item.archers.spell_book/archer": "弓術の手引書",
+  "item.archers.spell_book/archer.spell_binding.description": "アーチャーの魔導書。遠距離武器と弓術スキルを駆使して、遠くから敵を倒す。\n- 長所: 遠距離からの高ダメージと高い機動性。\n- 短所: 重装備の敵\n- 装備: 中装",
+  "item.archers.spell_scroll/archer": "弓術のスクロール",
+
+  "spell.archers.power_shot.name": "パワーショット",
+  "spell.archers.power_shot.description": "次に放つ {effect_amplifier_cap} 本の矢が、ターゲットに {effect_duration} 秒間の「狩人の印」を付与する。印は被ダメージを {damage_taken} 増加させ、最大 {effect_amplifier_cap} 回まで累積する。",
+  "effect.archers.hunters_mark_stash": "パワーショット",
+  "effect.archers.hunters_mark_stash.description": "次の射撃で「狩人の印」を付与する",
+  "effect.archers.hunters_mark": "印付き",
+  "effect.archers.hunters_mark.description": "あらゆる供給源からの被ダメージが増加する",
+
+  "spell.archers.entangling_roots.name": "絡みつく根",
+  "spell.archers.entangling_roots.description": "周囲の地面から根を召喚し、{cloud_duration} 秒間敵の移動を鈍らせる。",
+  "effect.archers.entangling_roots": "絡みつく根",
+  "effect.archers.entangling_roots.description": "移動速度が低下する",
+
+  "spell.archers.barrage.name": "バラージ",
+  "spell.archers.barrage.description": "複数の矢を素早く連続で放つ。",
+
+  "spell.archers.magic_arrow.name": "マジックアロー",
+  "spell.archers.magic_arrow.description": "軌道上のすべての敵を貫通する魔法の矢を放ち、各ターゲットに {damage} ダメージを与える。",
+
+  "advancements.rpg_series.path_choose_archer.title": "弓術の道",
+  "advancements.rpg_series.path_choose_archer.description": "弓術の手引書を作成する",
+
+  "advancements.rpg_series.spell_novice_archer.title": "致命傷の射撃",
+  "advancements.rpg_series.spell_novice_archer.description": "最初の弓術スキルを習得する",
+
+  "advancements.rpg_series.spell_master_archer.title": "弾道学のエキスパート",
+  "advancements.rpg_series.spell_master_archer.description": "弓術の手引書を完成させる",
+
+  "advancements.rpg_series.obtain_arrow.title": "アーチャーの歩み",
+  "advancements.rpg_series.obtain_arrow.description": "矢を入手する",
+
+  "advancements.rpg_series.spell_cast_archer_book.title": "弓術訓練",
+  "advancements.rpg_series.spell_cast_archer_book.description": "弓術の手引書にあるスキルを使用する",
+
+  "advancements.rpg_series.trade_with_archery_artisan.title": "弓の掘り出し物",
+  "advancements.rpg_series.trade_with_archery_artisan.description": "弓細工師からアイテムを購入する"
+}

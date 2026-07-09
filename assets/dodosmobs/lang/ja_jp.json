@@ -1,0 +1,12 @@
+{
+  "itemGroup.dodosmobs.item": "Dodo's Mods アイテム",
+  "item.dodosmobs.amalgam_claws": "アマルガムの爪",
+  "item.dodosmobs.chimera_armor_chestplate": "キメラのチェストプレート",
+  "item.dodosmobs.chimera_claw": "キメラの爪",
+  "item.dodosmobs.bone_chimera_spawn_egg": "ボーンキメラのスポーンエッグ",
+  "entity.dodosmobs.bone_chimera": "ボーンキメラ",
+  "effect.dodosmobs.wound": "負傷",
+  "death.attack.dodosmobs.wound": "%1$s は傷口が開いて命を落とした",
+  "death.attack.dodosmobs.wound.player": "%1$s は %2$s との戦いで傷口が開いて命を落とした",
+  "entity.dodosmobs.dead_horn": "デッドホーン"
+}

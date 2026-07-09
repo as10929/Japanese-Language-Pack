@@ -1,0 +1,396 @@
+{
+  "creative_tab.discerning_the_eldritch.items": "Discerning The Eldritch",
+
+  "attribute.discerning_the_eldritch.ritual_magic_resist": "オカルト魔法耐性",
+  "attribute.discerning_the_eldritch.ritual_spell_power": "オカルト呪文威力",
+
+
+  "school.discerning_the_eldritch.ritual": "オカルト",
+
+
+  "effect.discerning_the_eldritch.silence_potion_effect": "沈黙",
+  "effect.discerning_the_eldritch.silence_potion_effect.description": "呪文の詠唱ができなくなる",
+  "effect.discerning_the_eldritch.metaphysical_potion_effect": "形而上",
+  "effect.discerning_the_eldritch.metaphysical_potion_effect.description": "ダメージの授受、および呪文の詠唱ができなくなる",
+  "effect.discerning_the_eldritch.mend_flesh_potion_effect": "肉体修復",
+  "effect.discerning_the_eldritch.mend_flesh_potion_effect.description": "攻撃時にライフスティール（体力吸収）が発生し、経験値獲得時に回復する",
+  "effect.discerning_the_eldritch.abracadabra_potion_effect": "アブラカダブラ",
+  "effect.discerning_the_eldritch.abracadabra_potion_effect.description": "被ダメージに上限を設け、マイナスのポーション効果を無効化する",
+  "effect.discerning_the_eldritch.portent_effect": "不吉な予兆",
+  "effect.discerning_the_eldritch.portent_effect.description": "周囲の色が褪せていくのを感じる...",
+  "effect.discerning_the_eldritch.malignant_burn_potion_effect": "悪性火傷",
+  "effect.discerning_the_eldritch.malignant_burn_potion_effect.description": "対象の呪文耐性を低下させる",
+  "effect.discerning_the_eldritch.accursed_potion_effect": "呪詛",
+  "effect.discerning_the_eldritch.accursed_potion_effect.description": "呪文耐性、防御力、攻撃力を低下させる",
+  "effect.discerning_the_eldritch.blood_rot_potion_effect": "血腐病",
+  "effect.discerning_the_eldritch.blood_rot_potion_effect.description": "血術の耐性と威力を低下させ、3秒ごとにダメージを与える",
+  "effect.discerning_the_eldritch.prey_potion_effect": "獲物",
+  "effect.discerning_the_eldritch.prey_potion_effect.description": "捕食者からの攻撃を受けた際、その場に飢えた顎を召喚する",
+  "effect.discerning_the_eldritch.predator_potion_effect": "捕食者",
+  "effect.discerning_the_eldritch.predator_potion_effect.description": "「獲物」を攻撃した際、飢えた顎を召喚する",
+  "effect.discerning_the_eldritch.scorched_soul_potion_effect": "焦がされた魂",
+  "effect.discerning_the_eldritch.scorched_soul_potion_effect.description": "火炎魔法によるダメージが増加する。また、自身が炎上中に「ソウルファイアサイズ」を保持した者から攻撃を受けるとダメージが増加する",
+
+
+  "curios.identifier.artifact": "アーティファクト",
+  "curios.modifiers.artifact": "アーティファクト",
+
+
+  "fluid_type.discerning_the_eldritch.liquid_malice": "液状の悪意",
+
+
+  "item.discerning_the_eldritch.corrupted_cloth": "汚染された布",
+  "item.discerning_the_eldritch.eldritch_soul_shard": "エルドリッチの魂の欠片",
+  "item.discerning_the_eldritch.shard_of_malice": "悪意の欠片",
+  "item.discerning_the_eldritch.bottle_of_liquid_malice": "液状の悪意の瓶",
+  "item.discerning_the_eldritch.forbidden_spell_improvement": "禁忌の呪文スロット拡張",
+  "item.discerning_the_eldritch.soul_ember": "魂の残り火",
+  "item.discerning_the_eldritch.bucket_of_malice": "液状の悪意入りのバケツ",
+  "item.discerning_the_eldritch.bucket_of_malice.description": "それは設置されることを拒んでいる...",
+
+  "item.discerning_the_eldritch.black_book_spellbook": "黒の書",
+  "item.discerning_the_eldritch.the_apocrypha_spellbook": "アポクリファ（外典）",
+  "item.discerning_the_eldritch.tempestuous_tome": "嵐紡ぎの魔導書",
+  "item.discerning_the_eldritch.tempestuous_tome.desc": "内なる嵐 - 雷ダメージを与えると、命中した対象に連鎖する稲妻を発生させる",
+  "item.discerning_the_eldritch.frozen_folio": "凍てついた二つ折り本",
+  "item.discerning_the_eldritch.diary_of_decay": "崩壊の日記",
+  "item.discerning_the_eldritch.diary_of_decay.desc": "血腐病 - 攻撃を受けた際、ダメージを与えたエンティティに反撃し、血術の威力と耐性を低下させる",
+  "item.discerning_the_eldritch.guardian_guidebook": "ガーディアンの指南書",
+
+  "item.discerning_the_eldritch.echo_vibration_ring": "共鳴振動の指輪",
+  "item.discerning_the_eldritch.echo_vibration_ring.desc": "「ブギ・ウギ」の再発動回数を増加させる",
+  "item.discerning_the_eldritch.kings_effigy": "王の面影",
+  "item.discerning_the_eldritch.kings_effigy.desc": "幾度となく引き裂かれること、それがお前の望みか？",
+  "item.discerning_the_eldritch.amulet_of_sculk_treasure": "隠された財宝のアミュレット",
+  "item.discerning_the_eldritch.amulet_of_sculk_treasure.desc": "その宝石は古の宿敵を映し出す",
+  "item.discerning_the_eldritch.casters_mantle": "詠唱者のマント",
+  "item.discerning_the_eldritch.ironbound_feather": "鉄縛りの羽",
+  "item.discerning_the_eldritch.ironbound_feather.desc": "見かけによらず軽く感じる美しいブローチ",
+  "item.discerning_the_eldritch.pyrium_sheath": "パイリウムの鞘",
+  "item.discerning_the_eldritch.pyrium_sheath.desc": "攻撃時、対象を3秒間炎上させ、炎上中の対象に与えるダメージを増加させる",
+  "item.discerning_the_eldritch.frostbourne_sheath": "フロストボーンの鞘",
+  "item.discerning_the_eldritch.frostbourne_sheath.desc": "攻撃時、対象に5秒間「冷却」を付与し、冷却状態の対象に与えるダメージを増加させる",
+  "item.discerning_the_eldritch.rift_ripper_emblem": "リフトリッパーの紋章",
+  "item.discerning_the_eldritch.rift_ripper_emblem.desc": "古の紋章。リフトウォーカーを複数回詠唱できるようになる",
+  "item.discerning_the_eldritch.razor_sheath": "剃刀の鞘",
+  "item.discerning_the_eldritch.razor_sheath.desc": "攻撃時、犠牲者の周囲に剃刀の群れを召喚する",
+
+  "item.discerning_the_eldritch.deep_greatsword": "深淵のグレートソード",
+  "item.discerning_the_eldritch.ymir": "ユミル - 秘薬のエルドリッチブレード",
+  "item.discerning_the_eldritch.dream_reaver_ymir": "ドリームリーヴァー・ユミル",
+  "item.discerning_the_eldritch.ymir.description": "エルドリッチの夢から鍛え上げられた刃",
+  "item.discerning_the_eldritch.god_spear": "ゴッドスピア",
+  "item.discerning_the_eldritch.ice_spear": "アイススピア",
+  "item.discerning_the_eldritch.ice_spear.description": "凍てついた涙が冷酷な復讐へと形を変えたもの",
+  "item.discerning_the_eldritch.ritual_dagger": "儀式用短剣",
+  "item.discerning_the_eldritch.forlorn_rapier": "見捨てられたレイピア",
+  "item.discerning_the_eldritch.broken_legends_blade": "折れた伝説の剣",
+  "item.discerning_the_eldritch.broken_legends_blade.description": "数世紀前に鍛えられた古の刃。かつては何かに使われていたのだろうか？",
+  "item.discerning_the_eldritch.forsaken_flamberge": "見捨てられたフランベルジュ",
+  "item.discerning_the_eldritch.snowgrave": "スノーグレイヴ",
+  "item.discerning_the_eldritch.snowgrave.description_1": "北風が激しく吹き荒れる",
+  "item.discerning_the_eldritch.snowgrave.description_2": "お前は、知りもしない呪文を唱えるのか？",
+  "item.discerning_the_eldritch.soul_fire_scythe": "ソウルファイアサイズ",
+  "item.discerning_the_eldritch.soul_fire_scythe.desc": "魂の燃焼 - エンティティが死亡時、その魂を焼き払う。5体殺害後、全ての攻撃にソウルファイアを付与する。大鎌に付与された呪文が強化される",
+  "item.discerning_the_eldritch.soul_fire_scythe.desc2": "【右クリック】: 周囲に敵がいる場合、魂を5つ消費してソウルファイアの衝撃波を放つ",
+  "item.discerning_the_eldritch.soul_fire_scythe.desc3": "魂を焼かれた数: ",
+  "item.discerning_the_eldritch.cataclysm": "カタクリズム（大災厄）",
+  "item.discerning_the_eldritch.devourer": "デヴァウラー（貪る者）",
+  "item.discerning_the_eldritch.mourning_star": "モーニングスター（哀嘆の星）",
+  "item.discerning_the_eldritch.ancient_item.description": "遥か昔に鍛えられた武器。目覚めさせるには「悪意」のエネルギーを必要とする。",
+  "item.discerning_the_eldritch.cataclysm_awakened": "覚醒せしカタクリズム",
+  "item.discerning_the_eldritch.cataclysm_awakened.desc": "狂信 - 体力が50%以上の対象に「悪性火傷」を付与し、攻撃時に小さな刃を召喚して切り刻む",
+  "item.discerning_the_eldritch.devourer_awakened": "覚醒せしデヴァウラー",
+  "item.discerning_the_eldritch.devourer_awakened.desc": "飢餓 - 死亡したエンティティを喰らう。5体を喰らった後、次の攻撃で内臓をぶちまける",
+  "item.discerning_the_eldritch.devourer_awakened.desc2": "喰らった数:",
+  "item.discerning_the_eldritch.mourning_star_awakened": "覚醒せしモーニングスター",
+  "item.discerning_the_eldritch.mourning_star_awakened.desc": "審判 - 体力が50%未満の対象に対し、50%の確率で致命的なダメージを与えるか、呪いを付与する",
+
+  "item.discerning_the_eldritch.staff_of_eldritch": "猛愛の杖",
+  "item.discerning_the_eldritch.staff_of_ascension": "昇華の杖",
+  "item.discerning_the_eldritch.broken_legends_staff": "折れた伝説のスタッフ",
+  "item.discerning_the_eldritch.broken_legends_staff.description": "数世紀前に作られた古の杖。かつては何かに使われていたのだろうか？",
+
+  "item.discerning_the_eldritch.eldritch_warlock_hood": "秘薬の侍者のフード",
+  "item.discerning_the_eldritch.eldritch_warlock_robes": "秘薬の侍者のローブ",
+  "item.discerning_the_eldritch.eldritch_warlock_leggings": "秘薬 de 侍者のズボン",
+  "item.discerning_the_eldritch.eldritch_warlock_greaves": "秘薬の侍者のグリーヴ",
+  "item.discerning_the_eldritch.eldritch_warlock_mask": "秘薬の侍者の仮面",
+  "item.discerning_the_eldritch.eldritch_warlock_helmet": "秘薬の侍者の兜",
+
+  "item.discerning_the_eldritch.crimson_stag_antlers": "深紅の雄鹿の角",
+  "item.discerning_the_eldritch.crimson_stag_robes": "深紅の雄鹿のローブ",
+  "item.discerning_the_eldritch.crimson_stag_leggings": "深紅の雄鹿のズボン",
+  "item.discerning_the_eldritch.crimson_stag_boots": "深紅の雄鹿の足袋",
+
+  "item.discerning_the_eldritch.eldritch_upgrade_orb": "エルドリッチの強化オーブ",
+  "item.discerning_the_eldritch.eldritch_rune": "エルドリッチのルーン",
+  "item.discerning_the_eldritch.eldritch_upgrade_template": "エルドリッチの鍛冶型",
+  "item.discerning_the_eldritch.ritual_upgrade_orb": "オカルトの強化オーブ",
+  "item.discerning_the_eldritch.ritual_rune": "オカルトのルーン",
+
+  "item.discerning_the_eldritch.apothic_key": "秘薬の鍵",
+  "item.discerning_the_eldritch.ascended_key": "昇華の鍵",
+  "item.discerning_the_eldritch.ritual_key": "儀式の鍵",
+
+  "item.discerning_the_eldritch.apothic_acolyte_spawn_egg": "秘薬の侍者のスポーンエッグ",
+  "item.discerning_the_eldritch.apothic_summoner_spawn_egg": "秘薬の召喚師のスポーンエッグ",
+  "item.discerning_the_eldritch.apothic_crusader_spawn_egg": "秘薬のクルセイダーのスポーンエッグ",
+  "item.discerning_the_eldritch.ascended_cultist_spawn_egg": "昇華した教団員のスポーンエッグ",
+  "item.discerning_the_eldritch.blood_cultist_captain_spawn_egg": "血の教団長官のスポーンエッグ",
+  "item.discerning_the_eldritch.electromancer_spawn_egg": "エレクトロマンサーのスポーンエッグ",
+  "item.discerning_the_eldritch.blood_cultist_mage_spawn_egg": "血の教団魔術師のスポーンエッグ",
+  "item.discerning_the_eldritch.blood_cultist_witch_spawn_egg": "血の教団ウィッチのスポーンエッグ",
+  "item.discerning_the_eldritch.blood_matriarch_spawn_egg": "血の女家長のスポーンエッグ",
+
+  "item.discerning_the_eldritch.cultist_base_map": "教団本部",
+
+  "item.discerning_the_eldritch.fading_sculk_lantern": "色褪せたスカルクランタン",
+  "item.discerning_the_eldritch.fading_sculk_lantern.description": "使えそうに見えるが...一体いつ？",
+
+  "item.discerning_the_eldritch.more_details": "[SHIFT]で詳細を表示",
+  "tooltip.discerning_the_eldritch.active_ability": "発動能力 (クールタイム %s):",
+
+
+  "spell.discerning_the_eldritch.silence": "沈黙",
+  "spell.discerning_the_eldritch.silence.guide": "一定時間、対象の呪文詠唱を禁じる邪悪な呪文を放つ",
+
+  "spell.discerning_the_eldritch.boogie_woogie": "ブギ・ウギ",
+  "spell.discerning_the_eldritch.boogie_woogie.guide": "ブギ・ウギ！",
+
+  "spell.discerning_the_eldritch.guardians_gaze": "守護者の眼差し",
+  "spell.discerning_the_eldritch.guardians_gaze.guide": "採掘速度低下を付与する、特殊な「フロストレイ（氷結光線）」",
+
+  "spell.discerning_the_eldritch.esoteric_edge": "エソテリック・エッジ",
+  "spell.discerning_the_eldritch.esoteric_edge.guide": "純粋なエルドリッチエネルギーによる壊滅的な一閃を放ち、命中の瞬間に暗闇を付与する",
+
+  "spell.discerning_the_eldritch.otherworldly_presence": "異界の存在",
+  "spell.discerning_the_eldritch.otherworldly_presence.guide": "現実の間を転移・漂流する。あらゆるダメージを受けなくなるが、攻撃もできなくなる",
+
+  "spell.discerning_the_eldritch.conjure_gaoler": "召喚: ゲイラー",
+  "spell.discerning_the_eldritch.conjure_gaoler.guide": "ウォーデンの古の祖先である、伝説の「ゲイラー（看守）」を召喚する",
+
+  "spell.discerning_the_eldritch.conjure_forsaken_aid": "召喚: 見捨てられた助勢",
+  "spell.discerning_the_eldritch.conjure_forsaken_aid.guide": "複数のエルドリッチ的存在を呼び出し、加勢させる",
+
+  "spell.discerning_the_eldritch.call_ascended_one": "招集: 昇華せし者",
+  "spell.discerning_the_eldritch.call_ascended_one.guide": "死の彼方から「昇華せし者」を呼び戻し、決闘を挑む",
+
+  "spell.discerning_the_eldritch.mend_flesh": "肉体修復",
+  "spell.discerning_the_eldritch.mend_flesh.guide": "スカルクを用いて傷を塞ぐ。与えたダメージと獲得した経験値に応じて回復する",
+
+  "spell.discerning_the_eldritch.exorcism": "エクソシズム（除霊）",
+  "spell.discerning_the_eldritch.exorcism.guide": "自身を蝕むエルドリッチの狂気から、心と魂を浄化する",
+
+  "spell.discerning_the_eldritch.glacial_edge": "氷河の断罪",
+  "spell.discerning_the_eldritch.glacial_edge.guide": "剥き出しの氷で形成された一閃を放ち、命中の瞬間に「冷却」を付与する",
+
+  "spell.discerning_the_eldritch.rift_walker": "リフトウォーカー",
+  "spell.discerning_the_eldritch.rift_walker.guide": "マナを削り取り不安定な転移の裂け目を作る。テレポート後に爆発を引き起こす",
+
+  "spell.discerning_the_eldritch.abracadabra": "アブラカダブラ",
+  "spell.discerning_the_eldritch.abracadabra.guide": "自身に保護魔法をかける。呪い（Hex）を防ぎ、受けるダメージを制限する",
+
+  "spell.discerning_the_eldritch.esoteric_strike": "エソテリック・ストライク",
+  "spell.discerning_the_eldritch.esoteric_strike.guide": "エルドリッチマナを込めた一撃で敵を打ち据える",
+
+  "spell.discerning_the_eldritch.crystalline_carver": "クリスタル・カーヴァー",
+  "spell.discerning_the_eldritch.crystalline_carver.guide": "前方を切り裂き、周囲に冷却を付与する。最後の一撃は、対象の冷却レベルに応じたボーナスダメージを与える",
+
+  "spell.discerning_the_eldritch.blades_of_rancor": "怨恨の刃",
+  "spell.discerning_the_eldritch.blades_of_rancor.guide": "視線の先へ向かう複数の追尾刃を召喚する",
+
+  "spell.discerning_the_eldritch.zealous_harbinger": "狂信的な処刑人",
+  "spell.discerning_the_eldritch.zealous_harbinger.guide": "「カタクリズム」の残影を召喚し、敵を切り刻むと共に呪いを付与する",
+
+  "spell.discerning_the_eldritch.ravenous_revenant": "飢えたレヴナント",
+  "spell.discerning_the_eldritch.ravenous_revenant.guide": "恐ろしい咆哮を上げ、周囲の敵を「獲物」としてマークする。「獲物」を攻撃すると、飢えた顎が襲いかかる",
+
+  "spell.discerning_the_eldritch.soul_slice": "ソウルスライス",
+  "spell.discerning_the_eldritch.soul_slice.guide": "武器をソウルファイアで包み、触れるもの全てを焼き尽くす。詠唱ごとに魂を2つ消費し、威力を強化する",
+
+  "spell.discerning_the_eldritch.soul_set_ablaze": "ソウル・セット・アブレイズ",
+  "spell.discerning_the_eldritch.soul_set_ablaze.guide": "大鎌に力を溜め、周囲を焼き尽くす純粋なソウルファイアを爆発させる。魂を50消費してダメージを倍増させる",
+
+  "spell.discerning_the_eldritch.libras_judgement": "リブラの審判",
+  "spell.discerning_the_eldritch.libras_judgement.guide": "敵を裁く。対象の体力が50%以上なら頭上に「哀嘆の星」を召喚し、50%未満なら猛烈な炎で焼き尽くす",
+
+  "spell.discerning_the_eldritch.vein_ripper": "ヴェインリッパー（血管裂き）",
+  "spell.discerning_the_eldritch.vein_ripper.guide": "対象を切り裂いてノックバックさせ、血腐病を付与する。命中時に15%のライフスティールを得る",
+
+
+  "ui.discerning_the_eldritch.extra_damage": "メインハンドに武器を保持している間、追加ダメージを与える",
+  "ui.discerning_the_eldritch.ritual_cast_failure": "儀式は単なる魔導書では詠唱できない",
+  "ui.discerning_the_eldritch.spell_power": "呪文威力: %d",
+  "ui.discerning_the_eldritch.spell_resist": "呪文耐性: %d",
+  "ui.discerning_the_eldritch.frozen_weapon_bonus": "メインハンドに凍結武器を保持している場合、ダメージが50%増加する",
+  "ui.discerning_the_eldritch.melee_damage": "近接攻撃属性に応じてスケーリング",
+  "ui.discerning_the_eldritch.damage_on_last_recast": "最後の再発動時にダメージを与える",
+  "ui.discerning_the_eldritch.soul_slice_spending": "詠唱ごとに魂を2つ消費し、ダメージ+2",
+  "ui.discerning_the_eldritch.soul_set_ablaze_spending": "魂を50消費してダメージを倍増",
+  "ui.discerning_the_eldritch.scorched_soul_effect": "対象に「焦がされた魂」を付与",
+  "ui.discerning_the_eldritch.libras_chance_1": "対象の体力が50%以上なら頭上に「哀嘆の星」を召喚",
+  "ui.discerning_the_eldritch.libras_chance_2": "対象の体力が50%未満なら火傷を付与",
+
+
+  "tooltip.discerning_the_eldritch.abracadabra_description": "被ダメージ上限: +%d%%",
+
+
+  "material.discerning_the_eldritch.rune_eldritch": "エルドリッチのルーン",
+
+
+  "entity.discerning_the_eldritch.apothic_acolyte": "秘薬の侍者",
+  "entity.discerning_the_eldritch.apothic_crusader": "秘薬のクルセイダー",
+  "entity.discerning_the_eldritch.apothic_summoner": "秘薬の召喚師",
+  "entity.discerning_the_eldritch.gaoler": "ゲイラー（看守）",
+  "entity.discerning_the_eldritch.ascended_one": "昇華せし者",
+  "entity.discerning_the_eldritch.esoteric_edge": "エソテリック・エッジ",
+  "entity.discerning_the_eldritch.apostle": "虚無の侍者",
+  "entity.discerning_the_eldritch.sightless_maw": "盲目の顎",
+  "entity.discerning_the_eldritch.untold_behemoth": "名もなきベヒモス",
+  "entity.discerning_the_eldritch.ascended_one_cultist": "昇華した教団員",
+  "entity.discerning_the_eldritch.apothic_traitor": "秘薬の商人",
+  "entity.discerning_the_eldritch.razor_blade": "レイザーブレード",
+  "entity.discerning_the_eldritch.blood_cultist_captain": "血の教団長官",
+  "entity.discerning_the_eldritch.glacial_edge": "グラシアル・エッジ",
+  "entity.discerning_the_eldritch.unstable_rift": "不安定な裂け目",
+  "entity.discerning_the_eldritch.esoteric_strike": "エソテリック・ストライク",
+  "entity.discerning_the_eldritch.crystal_carve": "クリスタルの欠片",
+  "entity.discerning_the_eldritch.electromancer": "エレクトロマンサー",
+  "entity.discerning_the_eldritch.blood_cultist_mage": "血の教団魔術師",
+  "entity.discerning_the_eldritch.blood_cultist_witch": "血の教団ウィッチ",
+  "entity.discerning_the_eldritch.blood_matriarch": "血の女家長",
+
+
+
+  "bossbar.discerning_the_eldritch.ascended_one_boss": "昇華せし者",
+
+
+
+  "display.discerning_the_eldritch.ascended_one_taunt_1": "私を止められると思っているのか？",
+  "display.discerning_the_eldritch.ascended_one_taunt_2": "見よ、これこそが我が神化だ！",
+  "display.discerning_the_eldritch.insanity_warning_1": "貴様は、まだ「自分」でいられているか？",
+  "display.discerning_the_eldritch.insanity_warning_2": "もう引き返せぬぞ",
+  "display.discerning_the_eldritch.insanity_warning_3": "貴様の精神が揺らいでいる",
+  "display.discerning_the_eldritch.insanity_warning_4": "王が来るぞ。",
+  "display.discerning_the_eldritch.silence_warning": "詠唱不可の残り時間 : ",
+  "display.discerning_the_eldritch.presence_warning": "形而上の姿では詠唱できない : ",
+  "display.discerning_the_eldritch.exorcism_no_insanity": "浄化すべきものは何もない",
+  "display.discerning_the_eldritch.no_insanity_system": "お前の心に狂気は宿っていない",
+  "display.discerning_the_eldritch.fading_sculk_lantern_fail": "呼びかけたが、応答はない",
+  "display.discerning_the_eldritch.fading_sculk_lantern_success": "呼びかけは届いた、彼女が来る ―― 備えよ",
+  "display.discerning_the_eldritch.judgement_decree_1": "審判の布告: 命中時に致命的なダメージ",
+  "display.discerning_the_eldritch.judgement_decree_2": "審判の布告: 命中時に苦痛を付与",
+  "display.discerning_the_eldritch.libras_judgement_1": "審判の布告: 哀嘆の星の強打",
+  "display.discerning_the_eldritch.libras_judgement_2": "審判の布告: 劫火による焚刑",
+
+
+
+  "subtitles.entity.gaoler.hurt": "ゲイラーが傷つく",
+  "subtitles.entity.gaoler.step": "ゲイラーの足音",
+  "subtitles.entity.gaoler.ambient": "ゲイラーが唸る",
+  "subtitles.entity.gaoler.attack_impact": "ゲイラーの攻撃",
+  "subtitles.entity.gaoler.death": "ゲイラーの死",
+  "subtitles.entity.gaoler.roar": "ゲイラーが怒りに咆哮する",
+  "subtitles.entity.ascended_one.hurt": "昇華せし者が傷つく",
+  "subtitles.entity.ascended_one.death": "昇華せし者の死",
+  "subtitles.entity.ascended_one.taunt_1": "昇華せし者が嘲笑う",
+  "subtitles.entity.ascended_one.taunt_2": "昇華せし者が挑発する",
+  "subtitles.item.fading_lantern_rings": "色褪せたランタンが共鳴する",
+  "subtitles.item.fading_lantern_beckons": "色褪せたランタンが「彼女」を招く",
+
+
+  "death.attack.discerning_the_eldritch.guardians_gaze": "%1$s は %2$s の眼差しに射抜かれた",
+  "death.attack.discerning_the_eldritch.esoteric_edge": "%1$s は %2$s によってバラバラに引き裂かれた",
+  "death.attack.discerning_the_eldritch.gaoler": "%1$s は %2$s に切り刻まれ、突き刺された",
+  "death.attack.discerning_the_eldritch.conjure_gaoler": "%1$s は %2$s に切り刻まれ、突き刺された",
+  "death.attack.discerning_the_eldritch.ascended_one": "%1$s は %2$s によって「真理」を見せられた",
+  "death.attack.discerning_the_eldritch.apostle": "%1$s は %2$s によって無に帰した",
+  "death.attack.discerning_the_eldritch.sightless_maw": "%1$s は %2$s にズタズタに噛み砕かれた",
+  "death.attack.discerning_the_eldritch.untold_behemoth": "%1$s は %2$s に撲殺された",
+  "death.attack.discerning_the_eldritch.apothic_traitor": "%1$s の命は %2$s によって銀貨6枚で売り払われた",
+  "death.attack.discerning_the_eldritch.razor_blade": "%1$s は殺害という名の相互理解を享受した",
+  "death.attack.discerning_the_eldritch.blood_cultist_captain": "%1$s は %2$s に心臓を抉り取られた",
+  "death.attack.discerning_the_eldritch.glacial_edge": "%1$s は %2$s によって氷漬けにされた",
+  "death.attack.discerning_the_eldritch.unstable_rift": "%1$s の肉は %2$s の不安定な裂け目によって骨から剥ぎ取られた",
+  "death.attack.discerning_the_eldritch.esoteric_strike": "%1$s は %2$s によって忘却の彼方へ叩き込まれた",
+  "death.attack.discerning_the_eldritch.crystal_carve": "%1$s は %2$s によって氷の細切れにされた",
+  "death.attack.discerning_the_eldritch.gore_bile": "%1$s は崩壊した",
+  "death.attack.discerning_the_eldritch.blood_rot": "%1$s の血は腐り果てた",
+  "death.attack.discerning_the_eldritch.devoured": "%1$s は自らの武器に喰らわれた",
+
+  "death.attack.discerning_the_eldritch.esoteric_edge.item": "%1$s は %2$s の %3$s によってバラバラに引き裂かれた",
+  "death.attack.discerning_the_eldritch.gaoler.item": "%1$s は %2$s の %3$s に切り刻まれ、突き刺された",
+  "death.attack.discerning_the_eldritch.conjure_gaoler.item": "%1$s は %2$s の %3$s に切り刻まれ、突き刺された",
+  "death.attack.discerning_the_eldritch.apostle.item": "%1$s は %2$s の %3$s によって無に帰した",
+  "death.attack.discerning_the_eldritch.sightless_maw.item": "%1$s は %2$s の %3$s にズタズタに噛み砕かれた",
+  "death.attack.discerning_the_eldritch.untold_behemoth.item": "%1$s は %2$s の %3$s に撲殺された",
+  "death.attack.discerning_the_eldritch.apothic_traitor.item": "%1$s の命は %2$s の %3$s によって銀貨6枚で売り払われた",
+  "death.attack.discerning_the_eldritch.razor_blade.item": "%1$s は %2$s の %3$s による殺害という名の相互理解を享受した",
+  "death.attack.discerning_the_eldritch.blood_cultist_captain.item": "%1$s は %2$s の %3$s に心臓を抉り取られた",
+  "death.attack.discerning_the_eldritch.glacial_edge.item": "%1$s は %2$s の %3$s によって氷漬けにされた",
+  "death.attack.discerning_the_eldritch.unstable_rift.item": "%1$s の肉は %2$s が %3$s で生み出した不安定な裂け目によって骨から剥ぎ取られた",
+  "death.attack.discerning_the_eldritch.esoteric_strike.item": "%1$s は %2$s の %3$s によって忘却の彼方へ叩き込まれた",
+  "death.attack.discerning_the_eldritch.crystal_carve.item": "%1$s は %2$s の %3$s によって氷の細切れにされた",
+
+  "death.attack.discerning_the_eldritch.razor_blade.player": "%1$s は %2$s による殺害という名の相互理解を享受した",
+  "death.attack.discerning_the_eldritch.gore_bile.player": "%1$s は %2$s の胃液によって分解された",
+  "death.attack.discerning_the_eldritch.blood_rot.player": "%1$s の血は %2$s によって腐らされた",
+  "death.attack.discerning_the_eldritch.devoured.player": "%1$s は %2$s との戦いの中、自らの武器に喰らわれた",
+
+
+
+  "advancements.discerning_the_eldritch.apocrypha_spellbook.title": "人類の庭師",
+  "advancements.discerning_the_eldritch.apocrypha_spellbook.description": "魔導書「アポクリファ」を入手する",
+
+  "advancements.discerning_the_eldritch.black_book_spellbook.title": "知識への道",
+  "advancements.discerning_the_eldritch.black_book_spellbook.description": "「黒の書」を入手する",
+
+  "advancements.discerning_the_eldritch.staff_of_ascension.title": "昇華主義",
+  "advancements.discerning_the_eldritch.staff_of_ascension.description": "「昇華の杖」を入手する",
+
+  "advancements.discerning_the_eldritch.root.title": "Discerning The Eldritch",
+  "advancements.discerning_the_eldritch.root.description": "エルドリッチ・マジックの語られざる世界へと没入せよ",
+
+  "advancements.discerning_the_eldritch.forsaken_flamberge.title": "見捨てられし者の刃",
+  "advancements.discerning_the_eldritch.forsaken_flamberge.description": "見捨てられたフランベルジュを製作する",
+
+  "advancements.discerning_the_eldritch.ymir.title": "夢幻の刃",
+  "advancements.discerning_the_eldritch.ymir.description": "伝説の刃「ユミル」を製作する",
+
+  "advancements.discerning_the_eldritch.eldritch_soul_shard.title": "死せる神の夢",
+  "advancements.discerning_the_eldritch.eldritch_soul_shard.description": "エルドリッチの魂の欠片を製作する",
+
+  "advancements.discerning_the_eldritch.enter_cultist_base.title": "隠された結社",
+  "advancements.discerning_the_eldritch.enter_cultist_base.description": "秘薬の教団本部を突き止める",
+
+  "advancements.discerning_the_eldritch.ascended_one_fight.title": "目撃する覚悟はあるか？",
+  "advancements.discerning_the_eldritch.ascended_one_fight.description": "昇華せし者と戦う",
+
+  "advancements.discerning_the_eldritch.kill_ascended_one.title": "我が神化",
+  "advancements.discerning_the_eldritch.kill_ascended_one.description": "昇華せし者を討伐する",
+
+  "advancements.discerning_the_eldritch.find_demonic_item.title": "かつて失われしもの...",
+  "advancements.discerning_the_eldritch.find_demonic_item.description": "古代都市からデモニック・ウェポンを再発見する",
+
+  "advancements.discerning_the_eldritch.find_all_demonic_items.title": "邪悪の再誕",
+  "advancements.discerning_the_eldritch.find_all_demonic_items.description": "眠りについていた全ての「覚醒せしデモニック・ウェポン」を入手する",
+
+  "advancements.discerning_the_eldritch.tempestuous_tome.title": "嵐紡ぎの儀式",
+  "advancements.discerning_the_eldritch.tempestuous_tome.description": "「嵐紡ぎの魔導書」を入手する",
+
+  "advancements.discerning_the_eldritch.diary_of_decay.title": "腐敗した血の臭い",
+  "advancements.discerning_the_eldritch.diary_of_decay.description": "「崩壊の日記」を入手する",
+
+  "advancements.discerning_the_eldritch.soul_fire_scythe.title": "ソウルブレイズの栄光",
+  "advancements.discerning_the_eldritch.soul_fire_scythe.description": "ソウルファイアサイズを製作する",
+
+  "advancements.discerning_the_eldritch.shard_of_malice.title": "結晶化した悪意",
+  "advancements.discerning_the_eldritch.shard_of_malice.description": "悪意の欠片を入手する",
+
+  "advancements.discerning_the_eldritch.bottle_of_liquid_malice.title": "瓶詰めの憎悪",
+  "advancements.discerning_the_eldritch.bottle_of_liquid_malice.description": "液状の悪意を入手する",
+
+  "advancements.discerning_the_eldritch.staff_of_eldritch.title": "無慈悲に汚れた猛愛",
+  "advancements.discerning_the_eldritch.staff_of_eldritch.description": "「猛愛の杖」を入手する"
+}

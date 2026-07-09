@@ -1,0 +1,114 @@
+{
+    "item.apothic_spawners.spawner": "%s スポナー",
+
+    "enchantment.apothic_spawners.capturing": "捕獲",
+    "enchantment.apothic_spawners.capturing.desc": "モブが一定確率で自身のスポーンエッグをドロップするようになります。",
+
+    "misc.apothic_spawners.concat": "%s %s",
+    "misc.apothic_spawners.value_concat": "%s: %s",
+    "misc.apothic_spawners.min_value": "最小値: %s",
+    "misc.apothic_spawners.max_value": "最大値: %s",
+    "misc.apothic_spawners.mainhand": "メインハンドに保持",
+    "misc.apothic_spawners.offhand": "オフハンドに保持",
+    "misc.apothic_spawners.not_consumed": "このアイテムは消費されません",
+    "misc.apothic_spawners.rclick_spawner": "スポナーを右クリック",
+    "misc.apothic_spawners.entity": "エンティティ",
+    "misc.apothic_spawners.shift_stats": "Shiftでステータスを表示",
+    "misc.apothic_spawners.ctrl_stats": "Ctrlでステータスを表示",
+    "misc.apothic_spawners.banned": "スポナーには使用できません",
+    "misc.apothic_spawners.on": "%s: オン",
+    "misc.apothic_spawners.off": "%s: オフ",
+    
+    "stat.apothic_spawners.min_delay": "最小スポーン遅延",
+    "stat.apothic_spawners.min_delay.desc": "スポーンが発生する最小の間隔（チック）",
+    
+    "stat.apothic_spawners.max_delay": "最大スポーン遅延",
+    "stat.apothic_spawners.max_delay.desc": "スポーンが発生する最大の間隔（チック）",
+    
+    "stat.apothic_spawners.spawn_count": "スポーン数",
+    "stat.apothic_spawners.spawn_count.desc": "一度にスポーンするエンティティの数",
+    
+    "stat.apothic_spawners.max_nearby_entities": "最大付近エンティティ数",
+    "stat.apothic_spawners.max_nearby_entities.desc": "スポナー周辺に存在可能なエンティティの総数",
+    
+    "stat.apothic_spawners.req_player_range": "プレイヤー作動範囲",
+    "stat.apothic_spawners.req_player_range.desc": "スポーンを維持するために必要なプレイヤーとの距離",
+    
+    "stat.apothic_spawners.spawn_range": "スポーン範囲",
+    "stat.apothic_spawners.spawn_range.desc": "モブがスポーン可能な半径（ブロック）",
+    
+    "stat.apothic_spawners.ignore_players": "プレイヤーを無視",
+    "stat.apothic_spawners.ignore_players.desc": "プレイヤーが近くにいなくても動作するようになります",
+    
+    "stat.apothic_spawners.ignore_conditions": "スポーン条件を無視",
+    "stat.apothic_spawners.ignore_conditions.desc": "スポナーが通常のスポーン条件を無視するようになります",
+    
+    "stat.apothic_spawners.redstone_control": "レッドストーン制御",
+    "stat.apothic_spawners.redstone_control.desc": "動作にレッドストーン信号が必要になります",
+    
+    "stat.apothic_spawners.ignore_light": "明るさを無視",
+    "stat.apothic_spawners.ignore_light.desc": "明るさレベルに関係なくスポーンするようになります",
+    
+    "stat.apothic_spawners.no_ai": "AIなし",
+    "stat.apothic_spawners.no_ai.desc": "スポーンしたエンティティがAIを持たなくなります",
+    
+    "stat.apothic_spawners.silent": "サイレント",
+    "stat.apothic_spawners.silent.desc": "スポーンしたエンティティが音を発しなくなります",
+    
+    "stat.apothic_spawners.youthful": "ベビー",
+    "stat.apothic_spawners.youthful.desc": "可能な限り常に子供の状態でスポーンするようになります",
+
+    "stat.apothic_spawners.initial_health": "初期体力",
+    "stat.apothic_spawners.initial_health.desc": "スポーンしたモブの初期体力の割合",
+
+    "stat.apothic_spawners.burning": "炎上",
+    "stat.apothic_spawners.burning.desc": "スポーンしたモブが火がついた状態になります",
+
+    "stat.apothic_spawners.echoing": "エコー",
+    "stat.apothic_spawners.echoing.desc": "追加のドロップアイテムを落とすようになり、レベルに応じて増加します",
+
+    "title.apothic_spawners.spawner": "スポナー改造",
+    "info.apothic_spawners.spawner": "スポナーは様々なアイテムで改造でき、%sで回収可能です。",
+    "info.apothic_spawners.spawner.no_silk": "スポナーは様々なアイテムで改造できますが、現在シルクタッチによる回収は無効化されています。",
+    "info.apothic_spawners.spawner.always_drop": "スポナーは様々なアイテムで改造でき、破壊時に必ずドロップします。",
+    "info.apothic_spawners.capturing": "捕獲（Capturing）のエンチャントは、モブがスポーンエッグをドロップする確率を付与します。\\n \\nドロップ率: 1レベルにつき %s%%",
+
+    "config.jade.plugin_apothic_spawners.spawner": "Apothic Spawners",
+
+    "advancements.apothic_spawners.spawner.root": "Apothic Spawners",
+    "advancements.apothic_spawners.spawner.root.desc": "スポナーの回収や改造が可能です。詳細はJEIを確認してください。",
+    "advancements.apothic_spawners.spawner": "スポナー・コレクター",
+    "advancements.apothic_spawners.spawner.desc": "シルクタッチを使用してスポナーを回収する。",
+    "advancements.apothic_spawners.capturing": "捕獲完了！",
+    "advancements.apothic_spawners.capturing.desc": "捕獲のエンチャントを使用してモブからスポーンエッグを入手する。",
+    "advancements.apothic_spawners.modifier": "ちょっとした調整",
+    "advancements.apothic_spawners.modifier.desc": "改造アイテムを使用してスポナーのステータスを変更する。",
+    "advancements.apothic_spawners.spawncount": "驚異のスポーン数",
+    "advancements.apothic_spawners.spawncount.desc": "一度にスポーンする数を16まで上げる。",
+    "advancements.apothic_spawners.maxdelay": "タイムワープ・スポナー",
+    "advancements.apothic_spawners.maxdelay.desc": "最大スポーン遅延を20まで下げる。",
+    "advancements.apothic_spawners.mindelay": "光速のスポーン",
+    "advancements.apothic_spawners.mindelay.desc": "最小スポーン遅延を20まで下げる。",
+    "advancements.apothic_spawners.nearbyents": "大軍勢の予感",
+    "advancements.apothic_spawners.nearbyents.desc": "最大付近エンティティ数を32まで上げる。",
+    "advancements.apothic_spawners.playerrange": "遠距離稼働",
+    "advancements.apothic_spawners.playerrange.desc": "プレイヤー作動範囲を48まで上げる。",
+    "advancements.apothic_spawners.spawnrange": "広域スポーン",
+    "advancements.apothic_spawners.spawnrange.desc": "スポーン範囲を32まで上げる。",
+    "advancements.apothic_spawners.conditions": "無制限の増殖",
+    "advancements.apothic_spawners.conditions.desc": "スポナーのスポーン条件を無効化する。",
+    "advancements.apothic_spawners.players": "全自動工場",
+    "advancements.apothic_spawners.players.desc": "プレイヤーが近くにいなくても動作するようにする。",
+    "advancements.apothic_spawners.redstone": "ON/OFFスイッチ",
+    "advancements.apothic_spawners.redstone.desc": "スポナーのレッドストーン制御を有効にする。",
+    "advancements.apothic_spawners.light": "暗闇なんて不要",
+    "advancements.apothic_spawners.light.desc": "どんな明るさでもスポナーが動作するようにする。",
+    "advancements.apothic_spawners.noai": "考えるのをやめたモブ",
+    "advancements.apothic_spawners.noai.desc": "スポナーからスポーンするモブのAIを無効化する。",
+    "advancements.apothic_spawners.ultimate_spawner": "アルティメット・スポナー",
+    "advancements.apothic_spawners.ultimate_spawner.desc": "最小遅延、レッドストーン制御、AIなし、条件無視、プレイヤー無視を備えた究極のスポナーを作成する。",
+
+    "enchantment.level.0": "0",
+
+    "emi.category.apothic_spawners.spawner": "スポナー改造"
+}

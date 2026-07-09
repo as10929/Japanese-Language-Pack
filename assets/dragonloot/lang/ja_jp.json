@@ -1,0 +1,45 @@
+{
+  "block.dragonloot.dragon_anvil": "ドラゴンの金敷",
+  "item.dragonloot.dragon_scale": "ドラゴンの鱗",
+  
+  "item.dragonloot.dragon_helmet": "ドラゴンの鱗のヘルメット",
+  "item.dragonloot.dragon_chestplate": "ドラゴンの鱗のチェストプレート",
+  "item.dragonloot.dragon_leggings": "ドラゴンの鱗のレギンス",
+  "item.dragonloot.dragon_boots": "ドラゴンの鱗のブーツ",
+  "item.dragonloot.upgraded_dragon_chestplate": "翼付きドラゴンの鱗のチェストプレート",
+
+  "item.dragonloot.dragon_pickaxe": "ドラゴンのツルハシ",
+  "item.dragonloot.dragon_axe": "ドラゴンの斧",
+  "item.dragonloot.dragon_shovel": "ドラゴンのシャベル",
+  "item.dragonloot.dragon_hoe": "ドラゴンのクワ",
+  "item.dragonloot.dragon_sword": "ドラゴンの剣",
+  "item.dragonloot.dragon_bow": "ドラゴンの弓",
+  "item.dragonloot.dragon_crossbow": "ドラゴンのクロスボウ",
+
+  "item.dragonloot.dragon_horse_armor": "ドラゴンの馬鎧",
+  "item.dragonloot.dragon_trident": "ドラゴンのトライデント",
+  "entity.dragonloot.dragon_trident": "ドラゴンのトライデント",
+
+  "itemGroup.dragonloot.dragonloot": "Dragon Loot",
+
+  "text.autoconfig.dragonloot.title": "DragonLoot 設定",
+  "text.autoconfig.dragonloot.option.scale_minimum_drop_amount": "鱗の最小ドロップ量",
+  "text.autoconfig.dragonloot.option.additional_scales_per_player": "プレイヤーごとの追加の鱗",
+  "text.autoconfig.dragonloot.option.additional_scale_drop_chance": "追加の鱗のドロップ率",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_helmet": "ドラゴンのヘルメットの防御力",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_chest": "ドラゴンのチェストプレートの防御力",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_leggings": "ドラゴンのレギンスの防御力",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_boots": "ドラゴンのブーツの防御力",
+  "text.autoconfig.dragonloot.option.dragon_armor_durability_multiplier": "ドラゴン防具の耐久力倍率",
+  "text.autoconfig.dragonloot.option.dragon_item_durability": "ドラゴンアイテムの耐久力",
+  "text.autoconfig.dragonloot.option.dragon_item_base_damage": "ドラゴンアイテムの基礎攻撃力",
+  "text.autoconfig.dragonloot.option.dragon_anvil_no_cap": "ドラゴンの金敷のレベル制限を解除",
+  "text.autoconfig.dragonloot.option.dragon_armor_toughness": "ドラゴン防具の防具強度",
+  "text.autoconfig.dragonloot.option.dragon_armor_knockback_resistance": "ドラゴン防具のノックバック耐性",
+  "text.autoconfig.dragonloot.option.dragon_armor_enchantability": "ドラゴン防具のエンチャント適性",
+  "text.autoconfig.dragonloot.option.dragon_tool_enchantability": "ドラゴンツールのエンチャント適性",
+  "text.autoconfig.dragonloot.option.dragon_item_mining_speed_multiplier": "ドラゴンアイテムの採掘速度倍率",
+
+  "dragonloot.advancements.dragon_armor.title": "巨獣の鱗より",
+  "dragonloot.advancements.dragon_armor.description": "ドラゴンの防具を一式揃える"
+}

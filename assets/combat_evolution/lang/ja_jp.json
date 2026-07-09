@@ -1,0 +1,38 @@
+{
+  "effect.combat_evolution.full_stun_immunity": "完全スタン無効",
+  "effect.combat_evolution.high_stun_immunity": "高いスタン耐性",
+  "effect.combat_evolution.middle_stun_immunity": "中程度のスタン耐性",
+  "effect.combat_evolution.normal_stun_immunity": "通常のスタン耐性",
+  "effect.combat_evolution.bypass_dodge_effect": "回避無視",
+  "effect.combat_evolution.bypass_guard_effect": "ガード無視",
+  "effect.combat_evolution.impact_boost": "衝撃ブースト",
+
+  "death.attack.execution": "%1&sは処刑された",
+
+  "key.categories.combat_evolution": "Combat Evolution",
+  "key.combat_evolution.execution": "処刑（エグゼキューション）",
+
+  "entity.combat_evolution.shelmarow": "シェルマロウ (テストモブ)",
+
+  "config.combat_evolution.client_config": "Combat Evolution クライアント設定",
+  "config.combat_evolution.play_music": "CEのBGMを再生:",
+  "config.combat_evolution.hud_type": "HUDのタイプ:",
+  "config.combat_evolution.icon_position": "アイコンの位置",
+  "config.combat_evolution.icon_display": "アイコン表示",
+  "config.combat_evolution.text_display": "テキスト表示:",
+
+  "hud.combat_evolution.execution_tooltip": "標的にエイムを合わせて\n[%s] を押す",
+  "hud.combat_evolution.execution_disabled": "処刑は無効化されています！",
+  "text.combat_evolution.not_available_pos": "足場が不安定、または十分なスペースがありません",
+
+  "command.combat_evolution.execution_failed": "処刑に失敗しました",
+
+  "skill.combat_evolution.shield_counter": "シールドカウンター",
+  "skill.combat_evolution.shield_counter.tooltip": "オフハンド（左手）に盾を持っている時、\n[ガード + 武器固有キー] を押すと、スタミナを消費して盾を振るう。\n敵の攻撃のブロックに成功すると、敵をスタンさせ、自身のスタミナを回復し、さらにスタン無効、耐性、攻撃力上昇の効果を獲得する。",
+
+  "creativetab.combat_evolution.items": "Combat Evolution",
+  "enchantment.combat_evolution.massacre": "虐殺（大殺戮）",
+  "enchantment.combat_evolution.massacre.desc": "処刑によって与えるダメージを増加させる",
+  "enchantment.combat_evolution.intimidate": "威圧",
+  "enchantment.combat_evolution.intimidate.desc": "処刑で敵を撃破した際、周囲のプレイヤー以外のターゲットをノックバックさせ、スタン状態にする"
+}

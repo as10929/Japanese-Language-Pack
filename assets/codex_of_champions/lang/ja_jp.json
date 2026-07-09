@@ -1,0 +1,119 @@
+{
+  "item.codex_of_champions.flowering_pendant": "開花のペンダント",
+
+  "creativetab.codex_of_champions.crafting": "Codex of Champions: 材料",
+
+  "creativetab.codex_of_champions.gear": "Codex of Champions: 装備",
+
+  "item.codex_of_champions.true_fireward_ring": "火炎保護の指輪",
+
+  "item.codex_of_champions.crystal_claymore": "クリスタル・クレイモア",
+
+  "item.codex_of_champions.blood_soul_mask": "血魂の仮面",
+
+  "item.codex_of_champions.blood_soul_boots": "血魂のブーツ",
+
+  "item.codex_of_champions.blood_soul_robes": "血魂のローブ",
+
+  "item.codex_of_champions.blood_soul_leggings": "血魂のレギンス",
+
+  "item.codex_of_champions.arcane_upgrade_template": "秘術の鍛冶型",
+
+  "item.codex_of_champions.codex_of_champions_spellbook": "王者たちの古文書",
+
+  "item.codex_of_champions.soul_forged_ingot": "ソウルフォージ・インゴット",
+
+  "item.codex_of_champions.soulfire_greatsword": "ソウルファイア・グレートソード",
+
+  "item.codex_of_champions.deathfire_greatsword": "デスファイア・グレートソード",
+
+  "item.codex_of_champions.vampiric_charm" : "吸血のチャーム",
+
+  "curios.identifier.arcane_trinket" : "秘術の装飾品",
+
+  "curios.modifiers.arcane_trinket" : "秘術の装飾品として装備時:",
+
+  "item.codex_of_champions.chaos_orb" : "混沌のオーブ",
+
+  "item.codex_of_champions.azure_anlace" : "アズール・アンラース",
+
+  "item.codex_of_champions.royal_rose" : "高貴な薔薇",
+
+  "item.codex_of_champions.royal_anlace" : "永久に結ばれし遺物",
+
+  "item.codex_of_champions.royal_anlace.desc" : "一方がなくては、もう一方は存在し得ない",
+
+  "item.codex_of_champions.royal_rose.desc" : "おそらく、永遠の絆を築くことができるだろう",
+
+  "item.codex_of_champions.azure_anlace.desc" : "永遠の絆を築くことができるかもしれない",
+
+  "item.codex_of_champions.blaze_core" : "ブレイズ・コア",
+
+  "item.codex_of_champions.divine_star" : "ディバイン・スター",
+
+  "item.codex_of_champions.electrified_bronze" : "帯電したブロンズ",
+
+  "item.codex_of_champions.eternal_ice" : "万年雪",
+
+  "item.codex_of_champions.gaia_fruit" : "ガイアの果実",
+
+  "item.codex_of_champions.reinforced_ender_eye" : "強化されたエンダーの眼",
+
+  "item.codex_of_champions.sculk_rib" : "スカルクの肋骨",
+
+  "item.codex_of_champions.vexed_page" : "ヴェックスの頁",
+
+  "item.codex_of_champions.wither_bone" : "ウィザーボーン",
+
+  "item.codex_of_champions.warden_hunter_helmet" : "ダマスカスヘルム",
+
+  "item.codex_of_champions.warden_hunter_armor" : "ダマスカスプレート",
+
+  "item.codex_of_champions.warden_hunter_leggings" : "ダマスカスグリーヴ",
+
+  "item.codice_of_champions.warden_hunter_boots" : "ダマスカスブーツ",
+
+  "item.codex_of_champions.excalibur" : "エクスカリバー",
+
+  "item.codex_of_champions.angelic_annhilator" : "エンジェリック・アナイアレイター",
+
+  "item.codex_of_champions.sculk_slicer" : "スカルクスライサー",
+
+  "item.codex_of_champions.brutis" : "ブルーティス",
+
+  "item.codex_of_champions.thunderbringer" : "サンダーブリンガー",
+
+  "item.codex_of_champions.worldbreaker" : "ワールドブレイカー",
+
+  "item.codex_of_champions.monosword" : "モノソード",
+
+  "spell.codex_of_champions.persona_bond" : "ペルソナ・ボンド",
+
+  "item.codex_of_champions.aurora_spellbook" : "オーロラの魔導書",
+
+  "item.codex_of_champions.tri_blade" : "エレメンタル・トライ・ブレード",
+
+  "item.codex_of_champions.plasmasword" : "プラズマソード",
+
+  "spell.codex_of_champions.petal_step" : "ペタルステップ",
+
+  "spell.codex_of_champions.missile_salvo": "ミサイル連射",
+
+  "item.codex_of_champions.nameless_staff": "無名のスタッフ",
+
+  "spell.codex_of_champions.missile_salvo.guide" : "長押しで彗星の連射を放ち、モブやブロックに接触すると爆発する。",
+
+  "spell.codex_of_champions.petal_step.guide" : "視線の先へ即座にテレポートする。テレポート後、短時間「真の透明化」と移動速度上昇を得る。",
+
+  "spell.codex_of_champions.petal_blizzard.guide" : "短いチャージの後、視線の先へ複数のモブを貫通する巨大な桜の旋風を放つ。",
+
+  "spell.codex_of_champions.petal_blizzard" : "ブロッサム・ストーム",
+
+  "item.codex_of_champions.blossom_cloak_hood" : "開花のクロークフード",
+
+  "item.codex_of_champions.blossom_cloak_robes" : "開花のクロークローブ",
+
+  "item.codex_of_champions.blossom_cloak_leggings" : "開花のクロークレギンス",
+
+  "item.codex_of_champions.blossom_cloak_boots" :"開花のクロークブーツ"
+}

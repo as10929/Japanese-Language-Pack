@@ -1,0 +1,29 @@
+{
+  "itemGroup.alexsdelight": "アレックスズ・ディライト (Alex's Delight)",
+
+  "item.alexsdelight.cooked_bison": "焼いたバイソン肉",
+  "item.alexsdelight.raw_bison": "生のバイソン肉",
+  "item.alexsdelight.cooked_bunfungus": "焼いたバンファンガス",
+  "item.alexsdelight.raw_bunfungus": "生のバンファンガス",
+  "item.alexsdelight.cooked_centipede_leg": "焼いたムカデの足",
+
+  "item.alexsdelight.kangaroo_shank": "カンガルーのすね肉",
+  "item.alexsdelight.cooked_kangaroo_shank": "ローストカンガルー",
+  "item.alexsdelight.loose_moose_rib": "ヘラジカのスペアリブ",
+  "item.alexsdelight.cooked_loose_moose_rib": "焼いたヘラジカのスペアリブ",
+  "item.alexsdelight.bison_mince": "バイソンの挽肉",
+  "item.alexsdelight.bison_patty": "バイソンパティ",
+  "item.alexsdelight.raw_bunfungus_drumstick": "生のバンファンガスの手羽元",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "ロースト・バンファンガス・ドラム",
+  "item.alexsdelight.raw_catfish_slice": "ナマズの切り身",
+  "item.alexsdelight.cooked_catfish_slice": "ナマズのソテー",
+
+  "item.alexsdelight.gongylidia_bruschetta": "ゴンギリディアのブルスケッタ",
+  "item.alexsdelight.maggot_salad": "マゴットサラダ",
+  "item.alexsdelight.kangaroo_stew": "カンガルーシチュー",
+  "item.alexsdelight.acacia_blossom_soup": "アカシアの花のスープ",
+  "item.alexsdelight.lobster_pasta": "ロブスターパスタ",
+  "item.alexsdelight.bison_burger": "バイソンバーガー",
+  "item.alexsdelight.bunfungus_sandwich": "バンファンガスサンドイッチ",
+  "item.alexsdelight.kangaroo_pasta": "カンガルーパスタ"
+}

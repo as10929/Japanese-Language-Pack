@@ -1,0 +1,6 @@
+{
+  "pack.catharsis.incompatible.title": "MODの競合",
+  "pack.catharsis.incompatible.desc": "MODの互換性に問題があります。詳細はホバーして確認してください。",
+  "pack.catharsis.incompatible.tooltip.missing": "不足しているMOD:",
+  "pack.catharsis.incompatible.tooltip.conflicting": "古いバージョンのMOD:"
+}

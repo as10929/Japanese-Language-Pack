@@ -1,0 +1,17 @@
+{
+  "item.alexs_caves_spellbooks.dread_robes_boots": "ドレッドのブーツ",
+  "item.alexs_caves_spellbooks.dread_robes_leggings": "ドレッドのレギンス",
+  "item.alexs_caves_spellbooks.dread_robes_chestplate": "ドレッドの鎧",
+  "item.alexs_caves_spellbooks.dread_robes_helmet": "ドレッドのフード",
+  "item.alexs_caves_spellbooks.primordial_mage_leggings": "原始の魔導師のトーガ",
+  "item.alexs_caves_spellbooks.primordial_mage_chestplate": "原始の魔導師の鎧",
+  "item.alexs_caves_spellbooks.primordial_mage_helmet": "原始の魔導師のヘルメット",
+  "item.alexs_caves_spellbooks.vallumraptor_hide": "バラムラプトルの皮",
+  "item.alexs_caves_spellbooks.elder_vallumraptor_hide": "エルダー・バラムラプトルの皮",
+  "spell.alexs_caves_spellbooks.conjure_vesper": "ヴェスパー召喚",
+  "spell.alexs_caves_spellbooks.conjure_grottoceratops": "グロットケラトプス召喚",
+  "spell.alexs_caves_spellbooks.demonic_howl": "デモニック・ハウル",
+  "creativetab.alexs_caves_spellbooks_tab": "Alex's Caves Spellbooks",
+  "entity.alexs_caves_spellbooks.summoned_vesper": "召喚されたヴェスパー",
+  "entity.alexs_caves_spellbooks.summoned_grottoceratops": "召喚されたグロットケラトプス"
+}

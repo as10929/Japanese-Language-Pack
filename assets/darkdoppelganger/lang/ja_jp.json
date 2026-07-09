@@ -1,0 +1,26 @@
+{
+  "item.darkdoppelganger.summon_scroll": "召喚の巻物",
+  "item.darkdoppelganger.shadow_orb": "シャドウオーブ",
+  "item.darkdoppelganger.elder_necklace": "長老のネックレス",
+  "item.darkdoppelganger.summons_necklace": "サモナーネックレス",
+  "item.darkdoppelganger.doppelganger_ring": "ドッペルゲンガーの指輪",
+  "itemGroup.darkdoppelganger.example_tab": "Dark Doppelganger タブ",
+  "item.darkdoppelganger.summon_scroll.tooltip": "ダークドッペルゲンガーを召喚するために使用する！",
+  "advancement.kill_dark_doppelganger.title": "ダークドッペルゲンガー・スレイヤー",
+  "advancement.kill_dark_doppelganger.description": "ダークドッペルゲンガーを撃破した。報酬が待っている！",
+
+  "advancement.summon_dark_doppelganger.title": "目覚めしダークドッペルゲンガー",
+  "advancement.summon_dark_doppelganger.description": "召喚の巻物を使用してダークドッペルゲンガーを呼び出す。",
+
+  "spell.irons_spellbooks.doppel_portal": "ポータルジャンプ",
+  "spell.irons_spellbooks.summon_doppel_minion": "ミニオン召喚",
+  "spell.darkdoppelganger.summon_doppel_minion": "ミニオン召喚",
+  "spell.darkdoppelganger.doppel_portal": "ポータルジャンプ",
+
+  "spell.irons_spellbooks.doppel_portal.guide": "前方に召喚されたポータルに入り、数ブロック離れた別のポータルから出現する。",
+  "spell.irons_spellbooks.summon_doppel_minion.guide": "ダークドッペルゲンガーの次元から、共に戦うミニオンを1体召喚できる。",
+
+  "itemGroup.darkdoppelganger.doppelganger_tab": "Dark Doppelganger",
+  "orb.tooltip1": "それを堕落させよ...",
+  "orb.tooltip2": "最後には（果ての世界では）、それは失われたままにはならない。"
+}

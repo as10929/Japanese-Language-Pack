@@ -1,0 +1,39 @@
+{
+  "message.nbp.heal.battle_error": "バトル中にポケモンを回復させることはできません！",
+  "message.nbp.heal.success": "手持ちのポケモンが回復しました！",
+  "message.nbp.pc.battle_error": "バトル中にPCを開くことはできません！",
+  "message.nbp.heal.cooldown": "再び回復機能を使うには、あと %d 秒待つ必要があります",
+  "message.nbp.pc.cooldown": "再びPCを開くには、あと %d 秒待つ必要があります",
+  "message.nbp.cloud.cooldown": "再びエンダーチェストを開くには、あと %d 秒待つ必要があります",
+  "message.nbp.heal.disabled": "このサーバーでは回復機能が無効化されています",
+  "message.nbp.pc.disabled": "このサーバーではPC機能が無効化されています",
+  "message.nbp.cloud.disabled": "このサーバーではクラウド機能が無効化されています",
+
+  "item.cobblemon_smartphone.white_smartphone": "白色のスマートフォン",
+  "item.cobblemon_smartphone.orange_smartphone": "橙色のスマートフォン",
+  "item.cobblemon_smartphone.magenta_smartphone": "赤紫色のスマートフォン",
+  "item.cobblemon_smartphone.light_blue_smartphone": "空色のスマートフォン",
+
+  "item.cobblemon_smartphone.yellow_smartphone": "黄色のスマートフォン",
+  "item.cobblemon_smartphone.lime_smartphone": "黄緑色のスマートフォン",
+  "item.cobblemon_smartphone.gray_smartphone": "灰色のスマートフォン",
+  "item.cobblemon_smartphone.pink_smartphone": "桃色のスマートフォン",
+
+  "item.cobblemon_smartphone.light_gray_smartphone": "薄灰色のスマートフォン",
+  "item.cobblemon_smartphone.cyan_smartphone": "青緑色のスマートフォン",
+  "item.cobblemon_smartphone.purple_smartphone": "紫色のスマートフォン",
+  "item.cobblemon_smartphone.blue_smartphone": "青色のスマートフォン",
+
+  "item.cobblemon_smartphone.brown_smartphone": "茶色のスマートフォン",
+  "item.cobblemon_smartphone.green_smartphone": "緑色のスマートフォン",
+  "item.cobblemon_smartphone.red_smartphone": "赤色のスマートフォン",
+  "item.cobblemon_smartphone.black_smartphone": "黒色のスマートフォン",
+
+  "itemGroup.cobblemon_smartphone.smartphone_group": "Cobblemon Smartphone",
+
+  "key.categories.cobblemon_smartphone": "Cobblemon Smartphone",
+  "key.cobblemon_smartphone.open": "スマートフォンを開く",
+
+  "trinkets.slot.legs.smartphone": "スマートフォン",
+  "curios.identifier.smartphone": "スマートフォン"
+}
