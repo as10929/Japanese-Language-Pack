@@ -1,0 +1,12 @@
+{
+  "item.fossilsplus.ha_fossil": "隠れ特性のカセキ",
+  "item.fossilsplus.ha_fossil.tooltip": "復元時にポケモンの隠れ特性（夢特性）を確定させます。",
+
+  "item.fossilsplus.iv_fossil": "個体値最大カセキ",
+  "item.fossilsplus.iv_fossil.tooltip": "復元時にポケモンの6箇所の個体値をすべて最大（31）にします。",
+
+  "item.fossilsplus.shiny_fossil": "色違いのカセキ",
+  "item.fossilsplus.shiny_fossil.tooltip": "復元時に色違いのポケモンを確定させます。",
+
+  "itemGroup.fossilsplus.group": "Fossils Plus"
+}

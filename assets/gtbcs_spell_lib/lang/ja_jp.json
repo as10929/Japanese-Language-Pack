@@ -1,0 +1,31 @@
+{
+  "key.categories.gtbcs_spell_lib": "GTBC's SpellLib/API",
+  "key.gtbcs_spell_lib.lore_item_previous": "Loreアイテム：前のページ",
+  "key.gtbcs_spell_lib.lore_item_next": "Loreアイテム：次のページ",
+
+  "attribute.gtbcs_spell_lib.spell_damage": "魔法ダメージ",
+  "attribute.gtbcs_spell_lib.magic_projectile_damage": "魔法弾ダメージ",
+  "attribute.gtbcs_spell_lib.spell_crit_chance": "魔法会心率",
+  "attribute.gtbcs_spell_lib.spell_crit_damage": "魔法会心ダメージ",
+
+  "lore_item.gtbcs_spell_lib.preview.author": "著者",
+  "lore_item.gtbcs_spell_lib.preview.continue.start": "[",
+  "lore_item.gtbcs_spell_lib.preview.continue.end": "] キーまたは [クリック] で続行",
+  "lore_item.gtbcs_spell_lib.credits.title": "クレジット",
+  "lore_item.gtbcs_spell_lib.credits.document": "名称:",
+  "lore_item.gtbcs_spell_lib.credits.lore_author": "設定著者:",
+  "lore_item.gtbcs_spell_lib.credits.original_author": "原作者:",
+  "lore_item.gtbcs_spell_lib.credits.credits": "クレジット:",
+  "lore_item.gtbcs_spell_lib.credits.volume": "巻数:",
+  "lore_item.gtbcs_spell_lib.credits.written_date": "執筆年:",
+  "lore_item.gtbcs_spell_lib.credits.last_updated": "最終更新年:",
+  "lore_item.gtbcs_spell_lib.tooltip.open_prompt": "手に持って右クリックで開く",
+
+  "item.gtbcs_spell_lib.gsl_example_lore_item": "サンプルLoreアイテム",
+  "item.gtbcs_spell_lib.gsl_example_crit_staff": "サンプル会心の杖",
+
+  "item.gtbcs_spell_lib.spell_imbuing_curio.already_assigned.message": "同じ残響に別の魔法を付与することはできません！",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.not_enough_xp.message": "経験値が不足しています！",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.success": "魔法が付与されました！",
+  "item.gtbcs_spell_lib.random_imbue_curio.ex_required.tooltip": "経験値が必要です！"
+}

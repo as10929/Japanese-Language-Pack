@@ -1,0 +1,14 @@
+{
+  "biome.epicfight_leonidas.rockwind_ruins": "岩風の廃墟",
+  "entity.epicfight_leonidas.leonidas": "レオニダス",
+
+  "item.epicfight_leonidas.the_lost_helmet": "失われた兜",
+  "item.epicfight_leonidas.the_lost_helmet.tip_1": "[スパルタの怨念から凝縮された戦兜]",
+  "item.epicfight_leonidas.the_lost_helmet.tip_2": "[使用すると岩風の廃墟へ転送されます。廃墟内で使用するとレオニダスを召喚します]",
+
+  "item.epicfight_leonidas.the_bottomless_pouch": "底なしのポーチ",
+  "item.epicfight_leonidas.the_bottomless_pouch.tip_1": "[レオニダスから勇敢な戦士へ贈られる報酬]",
+  "item.epicfight_leonidas.the_bottomless_pouch.tip_2": "[岩風の廃墟内で使用するとリスポーン地点に戻ります。廃墟の外で使用すると、生命を捧げることでランダムな宝物を得られます]",
+  "item.epicfight_leonidas.the_bottomless_pouch.tip_3": "[使用するたびに最大体力の20%を消費します]",
+  "item.epicfight_leonidas.the_bottomless_pouch.tip_4": "[体力が最大体力の40%未満の時は使用できません]"
+}

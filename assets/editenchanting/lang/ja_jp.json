@@ -1,0 +1,20 @@
+{
+  "block.editenchanting.enchantment_edit_table": "エンチャント編集台",
+  "tile.container.disenchant": "エンチャント解除",
+  "desc.editenchanting.export": "抽出コスト:",
+  "desc.editenchanting.edit": "編集コスト:",
+  "desc.editenchanting.cost": "解除コスト:",
+  "desc.editenchanting.experience": "%s 経験値",
+  "desc.editenchanting.item": "%s %s",
+  "desc.editenchanting.enchant_slot": "エンチャントスロット:",
+  "desc.editenchanting.book_slot": "属性:",
+  "desc.editenchanting.tip": "ヒント: ",
+  "desc.editenchanting.require": "必要アイテム: %s",
+  "desc.editenchanting.exp": "経験値",
+  "desc.editenchanting.shift": "[SHIFT]",
+  "desc.editenchanting.empty": "                           ",
+  "config.editenchanting.max_text_width": "110",
+  "config.editenchanting.position": "125",
+  "subtitles.block.disenchantment_table.use": "エンチャント解除台を使用",
+  "subtitles.block.disenchantment_table.page_turn": "エンチャント解除台のページがめくれる"
+}

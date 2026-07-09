@@ -1,0 +1,147 @@
+{
+  "item.expandeddelight.asparagus": "アスパラガス",
+  "item.expandeddelight.asparagus_seeds": "アスパラガスの種",
+  "item.expandeddelight.asparagus_soup": "アスパラガススープ",
+  "item.expandeddelight.asparagus_soup_creamy": "クリーミーアスパラガススープ",
+  "item.expandeddelight.asparagus_and_bacon_cheesy": "アスパラベーコンのチーズ焼き",
+  "item.expandeddelight.asparagus_mushroom_pasta": "アスパラとキノコのパスタ",
+  "item.expandeddelight.asparagus_frittata": "アスパラガスのフリッタータ",
+
+  "item.expandeddelight.sweet_potato": "サツマイモ",
+  "item.expandeddelight.baked_sweet_potato": "焼き芋",
+  "item.expandeddelight.sweet_potato_salad": "サツマイモサラダ",
+  "item.expandeddelight.sweet_potato_casserole": "サツマイモのキャセロール",
+
+  "item.expandeddelight.chili_pepper": "トウガラシ",
+  "item.expandeddelight.chili_pepper_seeds": "トウガラシの種",
+  "item.expandeddelight.peperonata": "ペペロナータ",
+  "item.expandeddelight.chili_pepper_salmon": "サーモンのチリペッパー焼き",
+
+  "item.expandeddelight.peanut": "ピーナッツ",
+  "item.expandeddelight.peanut_butter": "ピーナッツバター",
+  "item.expandeddelight.peanut_butter_sandwich": "ピーナッツバターサンドイッチ",
+  "item.expandeddelight.peanut_butter_honey_sandwich": "ピーナッツバターハニーサンド",
+  "item.expandeddelight.peanut_salad": "ピーナッツサラダ",
+  "item.expandeddelight.peanut_honey_soup": "ハニーピーナッツスープ",
+  "item.expandeddelight.sweet_berry_jelly_sandwich": "ピーナッツバターとスイートベリージャムのサンド",
+  "item.expandeddelight.glow_berry_jelly_sandwich": "ピーナッツバターとグロウベリージャムのサンド",
+
+  "item.expandeddelight.cranberries": "クランベリー",
+  "item.expandeddelight.cranberry_chicken": "クランベリーチキン",
+  "item.expandeddelight.cranberry_cobbler_slice": "クランベリーコブラーのカット",
+
+  "item.expandeddelight.lemon": "レモン",
+
+  "item.expandeddelight.crushing_mallet": "粉砕ハンマー",
+  "item.expandeddelight.glass_jar": "ガラスの瓶",
+  "item.expandeddelight.cinnamon_stick": "シナモンスティック",
+  "item.expandeddelight.cinnamon": "シナモンパウダー",
+  "item.expandeddelight.salt_rock": "岩塩",
+  "item.expandeddelight.salt": "塩",
+
+  "item.expandeddelight.goat_milk_bucket": "ヤギ乳入りバケツ",
+  "item.expandeddelight.goat_milk_bottle": "ヤギ乳の瓶",
+
+  "item.expandeddelight.cheese_slice": "カットチーズ",
+  "item.expandeddelight.goat_cheese_slice": "カットヤギチーズ",
+  "item.expandeddelight.cheese_sandwich": "チーズサンドイッチ",
+  "item.expandeddelight.grilled_cheese": "グリルドチーズサンド",
+  "item.expandeddelight.cranberry_goat_cheese_toast": "クランベリーとヤギチーズのトースト",
+  "item.expandeddelight.honeyed_goat_cheese_tart_slice": "ハニーヤギチーズタルトのカット",
+  "item.expandeddelight.goat_cheese_beetroot_salad": "ヤギチーズとビートルートのサラダ",
+
+  "item.expandeddelight.mac_and_cheese": "マカロニ・アンド・チーズ",
+  "item.expandeddelight.sweet_roll": "スイートロール",
+  "item.expandeddelight.berry_sweet_roll": "ベリースイートロール",
+  "item.expandeddelight.glow_berry_sweet_roll": "グロウベリースイートロール",
+  "item.expandeddelight.cinnamon_rice": "シナモンライス",
+  "item.expandeddelight.cinnamon_apples": "シナモンアップル",
+  "item.expandeddelight.chocolate_cookie": "チョコレートクッキー",
+  "item.expandeddelight.sugar_cookie": "シュガークッキー",
+  "item.expandeddelight.snickerdoodle": "スニッカードゥードル",
+
+  "item.expandeddelight.apple_juice": "リンゴジュース",
+  "item.expandeddelight.sweet_berry_juice": "スイートベリージュース",
+  "item.expandeddelight.glow_berry_juice": "グロウベリージュース",
+  "item.expandeddelight.cranberry_juice": "クランベリージュース",
+
+  "item.expandeddelight.sweet_berry_jelly": "スイートベリージェリー",
+  "item.expandeddelight.glow_berry_jelly": "グロウベリージェリー",
+  "item.expandeddelight.cranberry_jelly": "クランベリージェリー",
+
+  "item.expandeddelight.cinnamon_boat": "シナモンのボート",
+  "item.expandeddelight.cinnamon_chest_boat": "チェスト付きのシナモンのボート",
+
+  "block.expandeddelight.cinnamon_sapling": "シナモンの苗木",
+  "block.expandeddelight.cinnamon_leaves": "シナモンの葉",
+  "block.expandeddelight.cinnamon_log": "シナモンの原木",
+  "block.expandeddelight.stripped_cinnamon_log": "樹皮を剥いだシナモンの原木",
+  "block.expandeddelight.cinnamon_wood": "シナモンの木",
+  "block.expandeddelight.stripped_cinnamon_wood": "樹皮を剥いだシナモンの木",
+  "block.expandeddelight.cinnamon_planks": "シナモンの板材",
+  "block.expandeddelight.cinnamon_stairs": "シナモンの階段",
+  "block.expandeddelight.cinnamon_slab": "シナモンのハーフブロック",
+  "block.expandeddelight.cinnamon_fence": "シナモンのフェンス",
+  "block.expandeddelight.cinnamon_fence_gate": "シナモンのフェンスゲート",
+  "block.expandeddelight.cinnamon_door": "シナモンのドア",
+  "block.expandeddelight.cinnamon_trapdoor": "シナモンのトラップドア",
+  "block.expandeddelight.cinnamon_pressure_plate": "シナモンの感圧板",
+  "block.expandeddelight.cinnamon_button": "シナモンのボタン",
+  "block.expandeddelight.cinnamon_sign": "シナモンの看板",
+  "block.expandeddelight.cinnamon_ceiling_hanging_sign": "シナモンの吊り下げ看板",
+  "block.expandeddelight.cinnamon_cabinet": "シナモンのキャビネット",
+
+  "block.expandeddelight.asparagus_crate": "アスパラガスの箱",
+  "block.expandeddelight.wild_asparagus": "野生のアスパラガス",
+  "block.expandeddelight.asparagus_crop": "アスパラガス",
+
+  "block.expandeddelight.sweet_potato_crate": "サツマイモの箱",
+  "block.expandeddelight.wild_sweet_potato": "野生のサツマイモ",
+  "block.expandeddelight.sweet_potato_crop": "サツマイモ",
+
+  "block.expandeddelight.chili_pepper_crate": "トウガラシの箱",
+  "block.expandeddelight.wild_chili_pepper": "野生のトウガラシ",
+  "block.expandeddelight.chili_pepper_crop": "トウガラシ",
+
+  "block.expandeddelight.wild_peanuts": "野生のピーナッツ",
+  "block.expandeddelight.peanut_crop": "ピーナッツ",
+
+  "block.expandeddelight.cranberry_plant": "クランベリー",
+  "block.expandeddelight.cranberry_bag": "クランベリーの袋",
+  "block.expandeddelight.cranberry_cobbler": "クランベリーコブラー",
+
+  "block.expandeddelight.salt_ore": "塩鉱石",
+  "block.expandeddelight.deepslate_salt_ore": "深層塩鉱石",
+
+  "block.expandeddelight.cheese_wheel": "チーズホール",
+  "block.expandeddelight.goat_cheese_wheel": "ヤギチーズホール",
+  "block.expandeddelight.honeyed_goat_cheese_tart": "ハニーヤギチーズタルト",
+
+  "block.expandeddelight.juicer": "ジューサー",
+  "block.expandeddelight.cask": "樽 (Cask)",
+  "block.expandeddelight.milk_cask": "牛乳樽",
+  "block.expandeddelight.goat_milk_cask": "ヤギ乳樽",
+  "block.expandeddelight.cheese_cask": "チーズ熟成樽",
+  "block.expandeddelight.goat_cheese_cask": "ヤギチーズ熟成樽",
+
+  "container.expandeddelight.juicer": "ジューサー",
+
+  "expandeddelight.container.juicer": "ジューサー",
+  "expandeddelight.container.recipe_book.juiceable": "ジュースにできる材料を表示",
+  "expandeddelight.jei.juicing": "搾汁",
+  "expandeddelight.jei.cheese_fermenting": "チーズの発酵",
+  "expandeddelight.jei.cheese_fermenting.light": "暗所で加速",
+  "expandeddelight.jei.cheese_fermenting.fluid": "隣接する水で加速",
+  "expandeddelight.jei.cheese_fermenting.accelerators": "隣接する有効化ブロックで加速 (下記参照)",
+
+  "itemGroup.expandeddelight": "Expanded Delight",
+
+  "expandeddelight.jei.info.wild_asparagus": "アスパラガスは平原バイオームで野生の植物として一般的に見つかります。",
+  "expandeddelight.jei.info.wild_sweet_potato": "サツマイモはジャングルバイオームで野生の植物として一般的に見つかります。",
+  "expandeddelight.jei.info.wild_chili_pepper": "トウガラシは砂漠バイオームで野生の植物として一般的に見つかります。",
+  "expandeddelight.jei.info.wild_peanuts": "ピーナッツはサバンナバイオームで野生の植物として一般的に見つかります。",
+  "expandeddelight.jei.info.cranberries": "クランベリーは湿地バイオームで野生の植物として一般的に見つかります。",
+  "expandeddelight.jei.info.salt_ore": "塩鉱石は海洋バイオームの地下で一般的に見つかります。",
+
+  "farmersdelight.tooltip.goat_milk_bottle": "ステータス効果を1つ解除する"
+}

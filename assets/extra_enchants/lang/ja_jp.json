@@ -1,0 +1,23 @@
+{
+  "enchantment.extra_enchants.soul_cleaver": "ソウルクリーバー",
+  "death.attack.bleeding.player": "%1$s は %2$s から逃げようとしましたが、失血死しました",
+  "enchantment.extra_enchants.prepulsion": "プレパルション",
+  "enchantment.extra_enchants.multibreaker": "マルチブレイカー",
+  "enchantment.extra_enchants.void_slash": "ヴォイドスラッシュ",
+  "enchantment.extra_enchants.magnet": "マグネット",
+  "enchantment.extra_enchants.curse_of_exploding": "爆発の呪い",
+  "enchantment.extra_enchants.infliction": "インフリクション",
+  "enchantment.extra_enchants.pricking": "プリッキング",
+  "block.extra_enchants.breaking_basalt": "玄武岩の破壊",
+  "enchantment.extra_enchants.lava_walker": "溶岩渡り",
+  "death.attack.freezing.item": "%1$s は %2$s の %3$s によって凍りつきました",
+  "death.attack.bleeding": "%1$s は出血死した",
+  "death.attack.bleeding.item": "%1$s は %2$s が使用した %3$s の出血効果によって殺害されました",
+  "enchantment.extra_enchants.barbaric": "バーバリアン",
+  "death.attack.freezing.player": "%1$s は %2$s による冷たい隔離から逃げようとして死亡しました",
+  "enchantment.extra_enchants.miracle": "ミラクル",
+  "effect.extra_enchants.frozen": "凍結",
+  "death.attack.freezing": "%1$s は 凍死した",
+  "enchantment.extra_enchants.ice_aspect": "氷属性",
+  "enchantment.extra_enchants.polarity": "ポラリティ"
+}

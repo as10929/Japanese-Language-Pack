@@ -1,0 +1,676 @@
+{
+  "__contributor": "Auviotre",
+  "tooltip.enigmaticaddons.wip": "§4エラーが発生しています。注意して使用してください。",
+
+  "tooltip.enigmaticaddons.armor": "§6%1$s§d 防具ポイント",
+  "tooltip.enigmaticaddons.armor_toughness": "§6%1$s§d 防具の強度",
+  "tooltip.enigmaticaddons.attack_speed": "§6%1$s§d 攻撃速度",
+  "tooltip.enigmaticaddons.damage": "§6%1$s§d 攻撃ダメージ",
+  "tooltip.enigmaticaddons.knockback_resistance": "§6%1$s§d ノックバック耐性",
+  "tooltip.enigmaticaddons.magic_resistance": "§6%1$s§d 魔法耐性",
+  "tooltip.enigmaticaddons.speed": "§6%1$s§d 移動速度",
+  "tooltip.enigmaticaddons.luck": "§6%1$s§d 幸運",
+  "tooltip.enigmaticaddons.heal": "§6%1$s§d 体力再生",
+  "tooltip.enigmaticaddons.abyssBoost": "§l§dアビスブースト:",
+
+  "tooltip.enigmaticaddons.legacy_future1": "§5次期バージョンの §dEnigmatic Legacy §5で",
+  "tooltip.enigmaticaddons.legacy_future2": "§5実装される可能性のあるアイテムです (アドオン由来推測)",
+
+  "enchantment.enigmaticaddons.redemption_curse": "救済の呪い",
+  "enchantment.enigmaticaddons.redemption_curse_alt": "救済の祝福",
+  "enchantment.enigmaticaddons.redemption_curse.desc": "受けるダメージが増加する（「救済の指輪」装備時は減少する）。",
+  "enchantment.enigmaticaddons.frost_aspect": "冷気属性",
+  "enchantment.enigmaticaddons.frost_aspect.desc": "攻撃対象を徐々に凍結させる。",
+  "enchantment.enigmaticaddons.frost_protection": "凍結耐性",
+  "enchantment.enigmaticaddons.frost_protection.desc": "凍結によるダメージと影響を軽減する。",
+  "enchantment.enigmaticaddons.frost_shattering": "氷結粉砕",
+  "enchantment.enigmaticaddons.frost_shattering.desc": "完全に凍結した対象に対する斧のクリティカルダメージを増加させる。",
+
+  "book.enigmaticaddons.entry.redemption_curse.name": "救済の呪い",
+  "book.enigmaticaddons.entry.redemption_curse.heading.1": "その呪い",
+  "book.enigmaticaddons.entry.redemption_curse.page.1": "防具に付与されるこれらの呪いは、救済への道における試練の一つです。<br2/>この呪いは受けるダメージを増幅させますが、救済の儀式を完了すると、これらは「救済の祝福」へと変貌し、あなたにダメージ耐性を授けるようになります。",
+  "book.enigmaticaddons.entry.redemption_curse.page.2": "また、その独特な呪いの性質により、「救済の呪い」は他の呪いと共存できません。つまり、あなたの防具を他の邪悪な呪いから守ってくれるとも言えるでしょう。",
+  "book.enigmaticaddons.entry.frost_enchantment.name": "冷気",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.1": "エンチャント",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.2": "エンチャント",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.3": "エンチャント",
+  "book.enigmaticaddons.entry.frost_enchantment.page.1": "一般的なエンチャントの範疇において、あなたは冷気に関連するいくつかの魔術を開発しました。",
+  "book.enigmaticaddons.entry.frost_enchantment.page.2": "冷気属性 - 武器に冷たいオーラを付加し、命中した対象をゆっくりと凍結させます。当然ながら「火属性」との併用はできません。",
+  "book.enigmaticaddons.entry.frost_enchantment.page.3": "凍結耐性 - 凍結ダメージに対する保護を提供し、寒冷地でより長く耐えられるようにします。他のダメージ軽減系エンチャントとの併用はできません。",
+  "book.enigmaticaddons.entry.frost_enchantment.page.4": "氷結粉砕 - 斧の砕氷能力を強化し、完全に凍結した対象へのクリティカルダメージを増加させ、凍結効果を継続させます。「火属性」との併用はできません。",
+
+  "item.enigmaticaddons.earth_heart_fragment": "大地の欠片",
+
+  "item.enigmaticaddons.ode_to_living": "生きとし生けるものへの頌歌",
+
+  "tooltip.enigmaticaddons.livingOde1": "§5インベントリにある間、あなたの攻撃は",
+  "tooltip.enigmaticaddons.livingOde2": "§5動物にダメージを与えられなくなります。",
+  "tooltip.enigmaticaddons.livingOde3": "§5周囲のほとんどの動物が中立化されます。",
+  "tooltip.enigmaticaddons.livingOde4": "§d§6第二の呪い§dの変質:",
+  "tooltip.enigmaticaddons.livingOde5": "§5- 中立動物が能動的に攻撃してこなくなります。",
+  "tooltip.enigmaticaddons.livingOde6": "§5このアイテムで攻撃された動物は、",
+  "tooltip.enigmaticaddons.livingOde7": "§5このアイテムによる保護の対象外となります。",
+  "tooltip.enigmaticaddons.livingOde7_alt": "§5保護から除外され、§6周囲の中立動物の標的§5にされます。",
+  "tooltip.enigmaticaddons.livingOde8": "§d使用することで動物をなだめ、保護効果を復活させます。",
+
+  "book.enigmaticaddons.entry.ode_to_living.name": "生きとし生けるものへの頌歌",
+  "book.enigmaticaddons.entry.ode_to_living.page.1": "以前のガイドブックでは全ての動物たちに仲間だと認めさせることはできなかったようですが、この賛美歌は一部の動物たちの感情を鎮めることができます。また、旧バージョンのガイドブックの機能も継承しています。",
+  "book.enigmaticaddons.entry.ode_to_living.page.2": "この頌歌の内容はあなたにとって未だ難解すぎるため、必要な時にいつでも使えるよう持ち歩くことしかできません。",
+
+  "item.enigmaticaddons.night_scroll": "闇夜の契約状",
+
+  "tooltip.enigmaticaddons.nightScroll1": "§6ファントム §5が近くにスポーンしにくくなります。",
+  "tooltip.enigmaticaddons.nightScroll2": "§5装備時:",
+  "tooltip.enigmaticaddons.nightScroll3": "§6+%1$s §d攻撃ダメージ",
+  "tooltip.enigmaticaddons.nightScroll4": "§6+%1$s §dダメージ耐性",
+  "tooltip.enigmaticaddons.nightScroll5": "§6+%1$s §d吸血効果",
+
+  "book.enigmaticaddons.entry.night_scroll.name": "闇夜の契約状",
+  "book.enigmaticaddons.entry.night_scroll.page.1": "不眠症など半神たるあなたには語るに足らぬことですが、暗闇に潜むあの影――絶え間ない叫び声と共に飛来する姿は実に忌々しいものです。あなたは彼らの遺骸を使ってスクロールを作ることにしました。<br2/>闇夜の力はファントムを遠ざけるだけでなく、暗闇の中でより多くの能力を解き放つことを可能にします。",
+  "book.enigmaticaddons.entry.night_scroll.page.2": "",
+
+  "item.enigmaticaddons.quartz_ring": "魔法のクォーツリング",
+
+  "book.enigmaticaddons.entry.quartz_ring.name": "魔法のクォーツリング",
+  "book.enigmaticaddons.entry.quartz_ring.page.1": "ネザーでクォーツを発見した際、あなたはその広大な分布に驚かされました。同時に、新たな素材を手に入れたあなたの技術があれば、より強力な防御指輪を作り出せるはずです。<br2/>しかし、単なる物理防御性能の追求は指輪としては既に限界に達しています。何か他の用途を開発できないでしょうか？",
+  "book.enigmaticaddons.entry.quartz_ring.page.2": "そこで、レシピに付与魔法の材料であるラピスラズリを加えることで指輪の魔法特性を高め、魔法攻撃に対する耐性をわずかに向上させることに成功しました。微々たるものではありますが、無いよりはマシでしょう。",
+
+  "item.enigmaticaddons.quartz_scepter": "魔法のクォーツセプター",
+
+  "tooltip.enigmaticaddons.quartzScepter1": "§5右クリックで魔法の短剣を連射します。",
+  "tooltip.enigmaticaddons.quartzScepter2": "§5短剣は近くに落ちているアイテムの回収を助けます。",
+  "tooltip.enigmaticaddons.quartzScepter3": "§d幸運 §5ステータスが短剣のダメージを増加させます。",
+
+  "book.enigmaticaddons.entry.quartz_scepter.name": "魔法のクォーツセプター",
+  "book.enigmaticaddons.entry.quartz_scepter.page.1": "同じ素材でも異なるレシピによって、全く新しい杖が誕生しました。素材に宿る魔力を短剣に変えて前方へ放ちます。威力はそれほど高くありませんが、少なくとも消耗を気にせず使える手段となります。<br2/>また、ネザーではアイテムが奈落へ落ちたり燃えたりすることが避けられませんが、この杖のアイテム吸引能力は、",
+  "book.enigmaticaddons.entry.quartz_scepter.page.2": "特定の状況でその真価を発揮するでしょう。<br2/>魔法のクォーツの魔力を考慮すれば、同様のアイテムを併用することで相乗効果が期待できます。魔法のクォーツリングを装備して比較してみてはどうでしょうか。",
+
+  "item.enigmaticaddons.earth_promise": "大地の約束",
+
+  "tooltip.enigmaticaddons.earthPromise1": "§5最大体力の §6 %1$s §5以上のダメージを受けた際、",
+  "tooltip.enigmaticaddons.earthPromise2": "§5その攻撃を無効化します（クールタイム: §6 %1$s §5秒）。",
+  "tooltip.enigmaticaddons.earthPromise3": "§d§6第一の呪い§dの変質:",
+  "tooltip.enigmaticaddons.earthPromise4": "§5- §6第一の呪い §5の効果を %1$s 軽減します。",
+
+  "book.enigmaticaddons.entry.earth_promise.name": "大地の約束",
+  "book.enigmaticaddons.entry.earth_promise.page.1": "手の中で「大地の心臓」が少しずつ砕けていくのを見るたび、心に昂ぶりを感じませんか？地の底から響く哀切な叫びが、耳を離れない残響となったことはありません。しかし、宇宙の力が手の中の大地の心臓と共鳴したとき、あなたは大地の真の力を再認識したようです。",
+  "book.enigmaticaddons.entry.earth_promise.page.2": "大地はあなたを守り、致命的な負傷を阻止することを約束しますが、金の素材自体にそれほど高い耐性はありません。この祝福の指輪が完全な状態であるかどうかに注意を払うことが重要です。",
+
+  "item.enigmaticaddons.forgotten_ice": "忘れられた氷の結晶",
+  "tooltip.enigmaticaddons.forgottenIce1": "§dアクティブアビリティ:",
+  "tooltip.enigmaticaddons.forgottenIce2": "§6- 周囲のモブを凍結させ、甚大なダメージを与える。",
+  "tooltip.enigmaticaddons.forgottenIceCooldown": "§dクールタイム: §6%1$s§6 秒",
+  "tooltip.enigmaticaddons.forgottenIce3": "§dパッシブアビリティ:",
+  "tooltip.enigmaticaddons.forgottenIce4": "§5- 凍結無効、および「氷歩き」の効果",
+  "tooltip.enigmaticaddons.forgottenIce5": "§5- あなたに接触した者を凍結させる",
+  "tooltip.enigmaticaddons.forgottenIce6": "§5- §d凍結§5状態の標的に対するダメージ増加",
+  "tooltip.enigmaticaddons.forgottenIce7": "§5- 一定以上凍結した標的は§d移動が困難§5になる",
+  "tooltip.enigmaticaddons.forgottenIce8": "§5- §6%1$s§d 飛び道具および音波ダメージ耐性",
+  "tooltip.enigmaticaddons.forgottenIce9": "§5- §d火炎ダメージ§5および§d落下ダメージ§5に弱くなる",
+
+  "book.enigmaticaddons.entry.forgotten_ice.name": "忘れられた氷の結晶",
+  "book.enigmaticaddons.entry.forgotten_ice.heading.1": "スペルストーン",
+  "book.enigmaticaddons.entry.forgotten_ice.page.1": "スペルストーン（魔石）といえば、炎や虚無などを象徴する名が人々の頭をよぎるものですが、遥か遠くの雪原には、未だ発掘を待つ力が眠っています。<br2/>この魔石は極寒の力を呼び覚まし、凍てつく冷気によって周囲の素早い動きを鈍らせます。同時に、",
+  "book.enigmaticaddons.entry.forgotten_ice.page.2": "「氷歩き」や凍結の能力もこの魔石に宿っています。<br2/>しかし、氷の力はそれだけに留まりません。この魔石は、凍りついた生物に存在する様々な「脆さ」を見抜く力を与えます。ただし、「海の意志」と同様に、炎が依然として致命的であることを忘れてはなりません。",
+
+  "item.enigmaticaddons.lost_engine": "失われたエンジン",
+
+  "tooltip.enigmaticaddons.lostEngine1": "§dアクティブアビリティ:",
+  "tooltip.enigmaticaddons.lostEngine2": "§4- 未実装",
+  "tooltip.enigmaticaddons.lostEngineCooldown": "§dクールタイム: §6%1$s§6 秒",
+  "tooltip.enigmaticaddons.lostEngine3": "§dパッシブアビリティ:",
+  "tooltip.enigmaticaddons.lostEngine4": "§5- 機動力と強靭さを強化する",
+  "tooltip.enigmaticaddons.lostEngine5": "§5- アイテムのクールタイムを §625%§5 短縮する",
+  "tooltip.enigmaticaddons.lostEngine6": "§5- §d落下§5および§d爆発§5ダメージを無効化する",
+  "tooltip.enigmaticaddons.lostEngine7": "§5- §6%1$s§d クリティカルダメージ§5を追加する",
+  "tooltip.enigmaticaddons.lostEngine8": "§5- ゴーレムが能動的に攻撃してこなくなる",
+  "tooltip.enigmaticaddons.lostEngine9": "§5- §d魔法ダメージ§5に弱くなる",
+  "tooltip.enigmaticaddons.lostEngine10": "§5- 受ける§d雷ダメージ§5が致命的になる",
+
+  "book.enigmaticaddons.entry.lost_engine.name": "失われたエンジン",
+  "book.enigmaticaddons.entry.lost_engine.heading.1": "スペルストーン",
+  "book.enigmaticaddons.entry.lost_engine.page.1": "あなたがこの魔石を発見したとき、それは今なお片隅で静かに駆動し続けていました。<br2/>旧時代のエンジンエネルギーを宿したこの古の魔石は、あなたの機動力と耐性を向上させます。スニーク（しゃがみ）後には出力をほぼ4倍に高め、空気の噴射によって重力の影響を軽減することさえ可能です。それにより",
+  "book.enigmaticaddons.entry.lost_engine.page.2": "足取りは重くなりますが、クリティカルダメージは大幅に増加します。エンジンの鼓動は周囲のゴーレムと共鳴しているようで、シュルカーさえも中立に保つことができます。<br2/>「ゴーレムの心臓」と同様に、魔法攻撃は依然として致命傷となり得ます。",
+
+  "item.enigmaticaddons.revival_leaf": "蘇生の葉",
+
+  "tooltip.enigmaticaddons.revivalLeaf1": "§dアクティブアビリティ:",
+  "tooltip.enigmaticaddons.revivalLeaf2": "§6- 経験値を消費し、周囲のモブに再生効果を与える。",
+  "tooltip.enigmaticaddons.revivalLeafCooldown": "§dクールタイム: §6%1$s§6 秒",
+  "tooltip.enigmaticaddons.revivalLeaf3": "§dパッシブアビリティ:",
+  "tooltip.enigmaticaddons.revivalLeaf4": "§5- 自然再生速度が低下する",
+  "tooltip.enigmaticaddons.revivalLeaf5": "§5- 攻撃した対象に毒を与え、回復力を阻害する",
+  "tooltip.enigmaticaddons.revivalLeaf6": "§5- §d空腹§5、§d毒§5、§dウィザー§5効果を無効化する",
+  "tooltip.enigmaticaddons.revivalLeaf7": "§5- 周囲の作物の成長を促進する",
+  "tooltip.enigmaticaddons.revivalLeaf8": "§5- 全てのバフ効果時間が延長される",
+  "tooltip.enigmaticaddons.revivalLeaf9": "§5- 周囲に植物ブロックがある場合、§d飛行§5が可能になる",
+  "tooltip.enigmaticaddons.revivalLeaf10": "§5- §d火炎ダメージ§5および§d飛び道具ダメージ§5に弱くなる",
+
+  "book.enigmaticaddons.entry.revival_leaf.name": "蘇生の葉",
+  "book.enigmaticaddons.entry.revival_leaf.heading.1": "スペルストーン",
+  "book.enigmaticaddons.entry.revival_leaf.page.1": "自然の力を集約したもう一つの独特な魔石もまた、古のジャングルの寺院で見つけることができます。<br2/>この魔石は自然の生命力を提供します。生命力を高め、体力をゆっくりと回復させ、いくつかの軽微な悪影響を無効化し、身体機能を適切に調節して効果時間を長く持続させます。",
+  "book.enigmaticaddons.entry.revival_leaf.page.2": "加えて、自然界から致命的な毒素を抽出してあなたの手を毒に染めることもできます。これは作物とも共鳴し、周囲の作物をより旺盛に成長させるでしょう。<br2/>しかし、炎だけでなく、鋭い矢も容易にあなたを貫くようになる点には注意が必要です。",
+
+  "item.enigmaticaddons.etherium_core": "エセリウム・コア",
+
+  "tooltip.enigmaticaddons.etheriumCore1": "§dアクティブアビリティ:",
+  "tooltip.enigmaticaddons.etheriumCore2": "§6- エセリウム・シールドを §6%1$s§6 秒間展開する。",
+  "tooltip.enigmaticaddons.etheriumCoreCooldown": "§dクールタイム: §6%1$s§6 秒",
+  "tooltip.enigmaticaddons.etheriumCore3": "§5- §6%1$s§5 防具ポイント，§6%2$s§5 防具の強度",
+  "tooltip.enigmaticaddons.etheriumCore5": "§5- 装備している防具を透明にする。",
+  "tooltip.enigmaticaddons.etheriumCore5_alt": "§4- 装備している防具を透明にする。",
+  "tooltip.enigmaticaddons.etheriumCore6": "§5- 受けるダメージの §6%1$s§5 を蓄積し、",
+  "tooltip.enigmaticaddons.etheriumCore7": "§5   次の一撃のダメージに加算する。",
+  "tooltip.enigmaticaddons.etheriumCore8": "§5- 圧力、刺突、爆発ダメージを無効化する。",
+  "tooltip.enigmaticaddons.etheriumCore9": "§6Shift §5を押しながら右クリックで防具の可視化を切り替え。",
+
+  "book.enigmaticaddons.entry.etherium_core.name": "エセリウム・コア",
+  "book.enigmaticaddons.entry.etherium_core.page.1": "一つは世界中どこでも見かけられる「ゴーレムの心臓」、もう一つは極めて貴重な「エセリウム防具」。この二つを組み合わせることで、物理防御に特化したこの魔石を得ることができます。<br2/>「ゴーレムの心臓」を「エセリウム・シールド」の尽きることのないエネルギー源とすることで、あなたは",
+  "book.enigmaticaddons.entry.etherium_core.page.2": "体力の状況に左右されることなく、いつでもこの魔石を通じてシールドを展開できます。しかしそれだけではありません。ゴーレムの心臓はシールドに新たな能力を授けました。それは受けるダメージを",
+  "book.enigmaticaddons.entry.etherium_core.page.3": "その都度記録し、変換・蓄積し、次の一撃に全出力を注ぎ込んで、倍返しで報いるというものです。<br2/>さらに、他の一般的な魔石とは異なり、純粋なエセリウムの力には弱点が存在しないようで、安心して使用することができます。",
+
+  "item.enigmaticaddons.illusion_lantern": "幻影のソウルランタン",
+
+  "tooltip.enigmaticaddons.illusionLantern1": "§dアクティブアビリティ:",
+  "tooltip.enigmaticaddons.illusionLantern2": "§4- 未実装",
+  "tooltip.enigmaticaddons.illusionLanternCooldown": "§dクールタイム: §6%1$s§6 秒",
+  "tooltip.enigmaticaddons.illusionLantern3": "§5- §d魂の火の玉§5を生成し、周囲の生物を自動攻撃する",
+  "tooltip.enigmaticaddons.illusionLantern4": "§5- 被ダメージを周囲の生物に分散（共有）させる",
+  "tooltip.enigmaticaddons.illusionLantern5": "§5- 一般的な§dアンデッド§5が能動的に攻撃してこなくなる",
+  "tooltip.enigmaticaddons.illusionLantern6": "§5- §d防御貫通§5ダメージを大幅に軽減する",
+  "tooltip.enigmaticaddons.illusionLantern7": "§5- 周囲の植物ブロックが自動的に消滅する",
+  "tooltip.enigmaticaddons.illusionLantern8": "§5- 明るさが高い場所では§d呪いによるダメージ§5を受ける",
+  "tooltip.enigmaticaddons.illusionLantern9": "§5- 受ける§d非魔法ダメージ§5がわずかに増加する",
+
+  "book.enigmaticaddons.entry.illusion_lantern.name": "幻影のソウルランタン",
+  "book.enigmaticaddons.entry.illusion_lantern.heading.1": "スペルストーン",
+  "book.enigmaticaddons.entry.illusion_lantern.page.1": "ネザーの片隅で、この灯火はかすかな光を放ち、周囲には数え切れないほどの復讐に燃える魂が彷徨っているのを感じます。<br2/>そこには魂の火（ソウルファイア）が燃えていますが、温かさを感じることはなく、むしろそこから放たれる冷気を感じるほどです。この魔石はあなたをアンデッドの世界へと馴染ませ、",
+  "book.enigmaticaddons.entry.illusion_lantern.page.2": "同時に周囲の明るさに対して敏感にします。<br2/>虚像と実在の重なり合いは、貫通ダメージに対する高い耐性を与え、実体の影を分散させてダメージを分かち合うことを可能にします。しかし、このソウルランタンは果たして実在するのでしょうか？ あるいは、これら全てがあなたの空想に過ぎないのでしょうか？",
+
+  "item.enigmaticaddons.dragon_bow": "ドラゴンブレスの弓",
+
+  "tooltip.enigmaticaddons.dragonBow": "§5ポーションと組み合わせて使用可能です。",
+
+  "book.enigmaticaddons.entry.dragon_bow.name": "ドラゴンブレス",
+  "book.enigmaticaddons.entry.dragon_bow.page.1": "ドラゴンブレスは醸造にしか使えないのでしょうか？ あなたはこの問題について考えたことがあるかもしれません。防具や肌を焼き尽くしたエンダードラゴンの致命的なブレスを思い出し、それを他者にも味合わせたいと願うのは自然なことです。そしてエンドシップに飾られている、あの奇妙な頭……。<br2/>そうした様々な",
+  "book.enigmaticaddons.entry.dragon_bow.page.2": "理由に突き動かされ、魔力を注ぎ込まれたこの弓が誕生しました。<br2/>この弓は矢を消費することなくドラゴンブレスの矢を放ちますが、引き絞るのに少し長い時間を要します。ドラゴンブレスの矢が",
+  "book.enigmaticaddons.entry.dragon_bow.page.3": "命中すると、それは範囲攻撃としてのドラゴンブレスへと変化し、その場に留まるか、通り過ぎる者を追跡しようとします。<br2/>ただし注意すべき点は、この弓はドラゴンブレスの力を「利用」するだけであり、あなたがそのブレスの中で平然と（愚かにも）過ごせるようにするものではないということです。<br2/>この弓が平凡すぎると感じるかもしれませんが、その潜在能力はさらに開発される予定です。",
+  "book.enigmaticaddons.entry.dragon_bow.page.4": "醸造におけるドラゴンブレスの役割を考え、弓の表面にポーションを注ぐと、それは徐々に吸収され、変化した矢へと融合していきます。ただし、その容量には限りがあります。",
+  "item.enigmaticaddons.astral_spear": "アストラルの槍",
+
+  "tooltip.enigmaticaddons.astralSpear1": "§5追尾能力を備えた投擲槍。",
+  "tooltip.enigmaticaddons.astralSpear2": "§5素早く放つことが可能で、",
+  "tooltip.enigmaticaddons.astralSpear3": "§5チャージ後にアストラル爆発を引き起こす。",
+
+  "book.enigmaticaddons.entry.astral_spear.name": "アストラルの槍",
+  "book.enigmaticaddons.entry.astral_spear.page.1": "あらゆるエセリウム・ツールを見渡しても、頭上を旋回する敵に届くものはないようです。今こそアストラルダストの真の力を考えるべき時でしょう。<br2/>エセリウムの剣を基礎に、柄を伸ばし、穂先を研ぎ澄ませ、最後にアストラルダストの魔力を注入することで、この特殊な槍が誕生しました。",
+  "book.enigmaticaddons.entry.astral_spear.page.2": "穂先に集約されたアストラルダストの力は、槍と空間エネルギーとの相互作用を可能にします。これにより、あらゆる標的を感知し、追尾することができるのです。また、エネルギーを蓄積し、瞬時に貫通させ、そのエネルギーを解き放つことで、",
+  "book.enigmaticaddons.entry.astral_spear.page.3": "アストラル爆発を引き起こすことも可能です。<br2/>アストラルダストはそのエンチャント適性をも変質させました。剣には付与できないエンチャントを試してみてはどうでしょうか？",
+  "book.enigmaticaddons.entry.astral_spear.page.4": "<br/><&n><&8>エンチャントに関する注釈:<clear/><&8><br/>ダメージ増加 (Sharpness)<br/> - 槍を投げた際のダメージを増加させます。<br2/>貫通 (Piercing)<br/> - 貫通回数を増やし、追尾能力をわずかに向上させます。",
+
+  "item.enigmaticaddons.sanguinary_handbook": "凄惨なる狩猟の手引書",
+
+  "tooltip.enigmaticaddons.sanguinaryHandbook1": "§5インベントリにある間:",
+  "tooltip.enigmaticaddons.sanguinaryHandbook2": "§5§6%1$s§d ペットの攻撃ダメージ増加",
+  "tooltip.enigmaticaddons.sanguinaryHandbook3": "§5「血塗られた勇気の紋章」または",
+  "tooltip.enigmaticaddons.sanguinaryHandbook4": "§5「千の呪いの巻物」を装備している場合、",
+  "tooltip.enigmaticaddons.sanguinaryHandbook5": "§5ペットもあなたに基づいた相応の効果を得る。",
+
+  "book.enigmaticaddons.entry.sanguinary_handbook.name": "凄惨なる狩猟",
+  "book.enigmaticaddons.entry.sanguinary_handbook.page.1": "ある程度の時間が経てば、従者たちの強さがあなたとあまりにかけ離れていると感じるようになるでしょう。同時に「狩猟ガイド」が提供する保護など語るに足らぬものとなります。そこで、あなたは「歪んだ心臓」の新たな使い道を思いつきました。<br2/>この手引書は従者たちに新たな",
+  "book.enigmaticaddons.entry.sanguinary_handbook.page.2": "能力を授け、さらにあなたから荒々しい力を分け与えます。<br2/>彼らに手引書の中の格言を聞かせ、その命を無私無欲に捧げさせましょう！",
+
+  "item.enigmaticaddons.false_justice": "欺瞞の正義",
+
+  "tooltip.enigmaticaddons.falseJustice1": "§5インベントリにある間",
+  "tooltip.enigmaticaddons.falseJustice2": "§5- あなたが受ける全ダメージが「実数ダメージ」に変換される。",
+  "tooltip.enigmaticaddons.falseJustice3": "§5- あなたが与える全ダメージが「実数ダメージ」に変換される。",
+
+  "book.enigmaticaddons.entry.false_justice.name": "欺瞞の正義",
+  "book.enigmaticaddons.entry.false_justice.page.1": "「知の承認」がなぜ無限に知識を表示し続けられるのか、その中身を探る術はありません。しかしウィザーの精髄を用いれば、その中から最も混沌とした部分を抽出し、戦闘の理（ことわり）を書き換えることができます。<br2/>知識を代償として、この本は混沌とした覇気を放ち始めます。",
+  "book.enigmaticaddons.entry.false_justice.page.2": "今や、あなたに関わる全ての攻撃は本来の法則を超越します。防御？ 無効化？ 真なる混沌の前では、それらは幻影に過ぎません。あなたに必要なのは、攻撃を回避し、敵に抗いようのない一撃を与えることだけです。",
+
+  "item.enigmaticaddons.cursed_xp_scroll": "無知の呪いの巻物",
+
+  "tooltip.enigmaticaddons.xpTome2": "§5操作方法は「不老の知恵」の巻物と同じです。",
+  "tooltip.enigmaticaddons.xpTome3": "§5経験値レベルに応じて能力が向上しますが、",
+  "tooltip.enigmaticaddons.xpTome4": "§5経験値オーブから得られる経験値が減少します。",
+  "tooltip.enigmaticaddons.xpTome5": "§5死亡時、全ての経験値を失います。",
+
+  "book.enigmaticaddons.entry.cursed_xp_scroll.name": "無知の呪い",
+  "book.enigmaticaddons.entry.cursed_xp_scroll.page.1": "あなたの熟練度がある段階に達すると、経験値は他者のために使う以外に道はありません。しかし今、呪いの力によってこの巻物の性質は劇的な変化を遂げました。<br2/>貪欲なる無知の呪いは巻物の収集範囲を広げ、獲得した経験値のほとんどを喰らい、あなたには僅かな残り物しか与えません。",
+  "book.enigmaticaddons.entry.cursed_xp_scroll.page.2": "もちろん、呪いがもたらす恩恵は侮れず、あなたの戦闘能力を大幅に強化します。ただし、呪いは常に機会を伺っていることを忘れないでください。あなたが最も脆弱になったとき、それは全てを奪い去るでしょう。",
+
+  "item.enigmaticaddons.thunder_scroll": "雷鳴の抱擁の巻物",
+
+  "tooltip.enigmaticaddons.thunderScroll1": "§5なぎ払い攻撃が §6100% §5のダメージを与える。",
+  "tooltip.enigmaticaddons.thunderScroll2": "§5防具を装備した標的に対するダメージ増加。",
+  "tooltip.enigmaticaddons.thunderScroll3": "§5複数回命中させると、標的に",
+  "tooltip.enigmaticaddons.thunderScroll4": "§5§6雷撃§5が落ちる。",
+  "tooltip.enigmaticaddons.thunderScroll5": "§5受ける§d雷ダメージ§5を半減し、",
+  "tooltip.enigmaticaddons.thunderScroll6": "§5他のほぼ全ての干渉を無視する。",
+
+  "book.enigmaticaddons.entry.thunder_scroll.name": "雷鳴の巻物",
+  "book.enigmaticaddons.entry.thunder_scroll.page.1": "「海の意志」はある程度雷を制御できますが、それは結局のところ間接的な制御であり、十分な速度を持っていません。<br2/>我々は神聖な力を用い、雷と共鳴する呪文を巻物に記しました。魔石を基礎とし、剣を媒体としてその力を解放します。戦闘中、この巻物はあなたをなぎ払い攻撃へと駆り立て、",
+  "book.enigmaticaddons.entry.thunder_scroll.page.2": "雷撃の対象を拡大させます。同時に、電撃による攻撃は防具の影響を容易に貫通させ、高防御の敵や集団との戦いを有利に進めることができます。",
+
+  "item.enigmaticaddons.hell_blade_charm": "ヘルブレードの魔除け",
+
+  "tooltip.enigmaticaddons.hellBladeCharm1": "§5- あなたの防具は無効化される。",
+  "tooltip.enigmaticaddons.hellBladeCharm1_alt": "§5- 防具の効果が §6%1$s§5 減少する。",
+  "tooltip.enigmaticaddons.hellBladeCharm2": "§5- 与える全ダメージが2倍になる。",
+  "tooltip.enigmaticaddons.hellBladeCharm2_alt": "§5- 与える全ダメージが §6%1$s§5 増加する。",
+  "tooltip.enigmaticaddons.hellBladeCharm3": "§5- 与えたダメージが標的の体力の §6%1$s§5 に達した際、",
+  "tooltip.enigmaticaddons.hellBladeCharm4": "§5- 甚大な追加ダメージを与え、自身の体力を回復する。",
+
+  "book.enigmaticaddons.entry.hell_blade_charm.name": "ヘルブレードの魔除け",
+  "book.enigmaticaddons.entry.hell_blade_charm.title": "諸刃の地獄",
+  "book.enigmaticaddons.entry.hell_blade_charm.page.1": "この魔除けは、ネザーのどこかであなたが来るのを、あなたの血で養われるのを待っていたようです。<br2/>この魔除けが与える強大な力に気づいた者は、たとえその代償が正直に示されていたとしても、誘惑に抗えず装備してしまうことでしょう。一般的に、こうした着用者は最後には",
+  "book.enigmaticaddons.entry.hell_blade_charm.page.2": "極めて愚かな死を遂げることになります。<br2/>ですから、この魔除けを装備する際は慎重になってください。特に「七つの呪い」を同時に背負っている者は細心の注意を払うべきです。",
+
+  "item.enigmaticaddons.forger_gem": "鍛冶師の宝石",
+
+  "tooltip.enigmaticaddons.forgerGem2" : "§5鍛造に必要な経験値を半分にする。",
+  "tooltip.enigmaticaddons.forgerGem3" : "§5金床の耐久性が向上する。",
+  "tooltip.enigmaticaddons.forgerGem4" : "§5エンチャントされていない未使用の同じ道具2つで、",
+  "tooltip.enigmaticaddons.forgerGem5" : "§d破壊不可§5の道具を鍛造できる。",
+
+  "book.enigmaticaddons.entry.forger_gem.name": "鍛冶師の宝石",
+  "book.enigmaticaddons.entry.forger_gem.page.1": "アイテムの鍛造は強さを追求する上で避けて通れない道ですが、完璧に至るまでは、常に高額なコストや金床の破損という懸念がつきまといます。<br2/>このアクセサリーは古代の鍛冶技術を直接あなたの手に注入し、金床の破損率を効果的に低下させ、宝石のエネルギーを",
+  "book.enigmaticaddons.entry.forger_gem.page.2": "利用してコストを削減することで、鍛造の限界を引き上げます。<br2/>さらに、「七つの呪い」の魔力によって、2つの同一な新品の道具から「破壊不可」の逸品を生み出すことも可能にします。",
+
+  "item.enigmaticaddons.adventure_charm": "冒険者の紋章",
+  "item.enigmaticaddons.despair_insignia": "絶望の記章",
+
+  "tooltip.enigmaticaddons.adventureCharm1" : "§5ブロックの採掘ができなくなります。",
+  "tooltip.enigmaticaddons.adventureCharm2" : "§5§6Shift§5長押しでこの機能を無効化します。",
+  "tooltip.enigmaticaddons.despairInsignia" : "§dいつもとは少し様子が違うようです。",
+
+  "book.enigmaticaddons.entry.adventure_charm.name": "冒険者の紋章",
+  "book.enigmaticaddons.entry.adventure_charm.page.1": "創造と破壊は神の至高なる力ですが、時にその力を制御するのは難しく、些細な間違いが不要な破壊を招きかねません。そして純粋な戦闘において、あなたはこの力をより実用的な形に変換したいと願うはずです。<br2/>この魔除けはその要求に一時的に応え、",
+  "book.enigmaticaddons.entry.adventure_charm.page.2": "破壊の力を僅かな戦闘ブーストへと変換します。もちろん、この魔除けが貴重なスロットを占有することはありません。装備するか否かは、完全にあなたの選択次第です。",
+
+  "item.enigmaticaddons.void_tome": "虚無の魔導書",
+
+  "tooltip.enigmaticaddons.voidTome" : "§5使用することで §6+1 §dアルケイン・スクロール・スロット§5 を得る。",
+
+  "book.enigmaticaddons.entry.void_tome.name": "虚無の魔導書",
+  "book.enigmaticaddons.entry.void_tome.page.1": "この類まれなる書物はオーバーワールドの片隅に静かに横たわり、知識を渇望する者がその存在を見出すのを待っています。<br2/>一度この不吉な書を開けば、あなたの脳は果てなき虚無へと接続され、実体のない膨大な情報が精神に流れ込み、あらゆる感覚を掻き乱し、",
+  "book.enigmaticaddons.entry.void_tome.page.2": "神経を逆なでするでしょう。それは神秘的なアルケインについてあなたに囁きかけているかのようです……。<br2/>正気に戻ったとき、その書物は消え失せています。残されたのは、鋭い頭痛と「アルケイン・スクロール」に対する新たな理解だけです。",
+
+  "item.enigmaticaddons.antique_bag": "アンティークな本袋",
+  "gui.enigmaticaddons.antique_bag": "§5魔法の本袋",
+
+  "tooltip.enigmaticaddons.antiqueBag1": "§5エンダーチェストに似た性質を持つ収納具。",
+  "tooltip.enigmaticaddons.antiqueBag2": "§5中に保管された本は、",
+  "tooltip.enigmaticaddons.antiqueBag3": "§5インベントリにあるものとして扱われる。",
+  "tooltip.enigmaticaddons.antiqueBag4": "§5このバッグ自体がエンダーチェスト内にあっても効果を発揮する。",
+
+  "book.enigmaticaddons.entry.antique_bag.name": "アンティークな本袋",
+  "book.enigmaticaddons.entry.antique_bag.heading": "魔法の本袋",
+  "book.enigmaticaddons.entry.antique_bag.page.1": "これは名もなき遺跡で発見される、もう一つの神秘的な遺物です。一見するとありふれた布袋ですが、その薄暗い外観からは微かな魔力の光が漏れており、内部には神秘的な魔法空間が広がっています。<br2/>しかし、この遺物には独自のこだわりがあるようで、本以外の収納は頑なに拒むようです。",
+  "book.enigmaticaddons.entry.antique_bag.page.2": "しかし驚くべきことに、本を収納するたびに、あなたのものではない知識が即座に脳裏に浮かび上がります。これにより、収納スペースを大幅に節約できるだけでなく、単体では機能しない一部のアイテムの効果を引き出すことも可能になります。",
+
+  "item.enigmaticaddons.artificial_flower": "魔法のクォーツフラワー",
+  "gui.enigmaticaddons.artificial_flower_attribute": "属性",
+  "gui.enigmaticaddons.artificial_flower_effect": "ポーション効果",
+  "gui.enigmaticaddons.artificial_flower_cost": "§5消費: §6%1$s §5ラピスラズリ",
+  "gui.enigmaticaddons.artificial_flower_immunity": "§5%1$s 無効",
+  "gui.enigmaticaddons.artificial_flower_provide0": "§5付与: %1$s",
+  "gui.enigmaticaddons.artificial_flower_provide1": "§5付与: %1$s§5 II",
+
+  "tooltip.enigmaticaddons.artificialFlowerAttribute": "§d現在の属性:",
+  "tooltip.enigmaticaddons.artificialFlowerEffect": "§d現在の効果:",
+  "tooltip.enigmaticaddons.artificialFlowerNone": "§5なし",
+
+  "book.enigmaticaddons.entry.artificial_flower.name": "アーティフィシャルフラワー",
+  "book.enigmaticaddons.entry.artificial_flower.heading": "魔法の花",
+  "book.enigmaticaddons.entry.artificial_flower.page.1": "名もなき遺跡の中で、この美しい小さな花があなたの目を引きました。なぜチェストの中にこれほど美しい花が咲いているのかと不思議に思う間もなく、その感触がこれが人工の産物であることを教えてくれます。<br2/>豊かな魔力を蓄えたこの造花は、素材を正体不明の様々な効果へと変換することができます。",
+  "book.enigmaticaddons.entry.artificial_flower.page.2": "それらはまるで世界に降り立ったばかりの子供のように、効果の良し悪しを区別することができず、ただ盲目的に力を与えることしか知りません。<br2/>また、もし身につけているアクセサリーの中に似たような性質のものがあれば、この可愛らしい花はより一層の喜び（力）を見せることでしょう。",
+
+  "item.enigmaticaddons.extradimensional_scepter": "異次元のセプター",
+
+  "tooltip.enigmaticaddons.extradimensionalScepter1": "§6右クリック§5で生物を収納 / 解放する",
+  "tooltip.enigmaticaddons.extradimensionalScepter2": "§6右クリック長押し§5で光線を放ち、異次元値を蓄積させる",
+  "tooltip.enigmaticaddons.extradimensionalScepter3": "§5蓄積完了後、対象を§6異次元の眼§5へ封印する",
+  "tooltip.enigmaticaddons.extradimensionalScepterCooldown": "§5クールタイム: §6%1$s§5秒",
+  "tooltip.enigmaticaddons.extradimensionalScepterModeS": "§5モード: §6搬送",
+  "tooltip.enigmaticaddons.extradimensionalScepterModeC": "§5モード: §6戦闘",
+  "tooltip.enigmaticaddons.extradimensionalScepterInfo": "§5収納中の生物: §6%1$s",
+  "tooltip.enigmaticaddons.extradimensionalScepterInfo_alt": "§5収納中の生物: §6%1$s§6(%2$s§6)",
+
+  "book.enigmaticaddons.entry.extradimensional_scepter.name": "異次元のセプター",
+  "book.enigmaticaddons.entry.extradimensional_scepter.page.1": "「異次元の眼」はエンティティを運搬するのに優れた道具ですが、使い捨てのアイテムとしては少々扱いにくいものでした。ネザーの素材を使って新たな道具を作れないでしょうか？ そうしてこの新しい杖が誕生しました！<br2/>今や、生物を杖専用の異次元空間へ直接転送したり、",
+  "book.enigmaticaddons.entry.extradimensional_scepter.page.2": "戦闘中に多くの標的を異次元に閉じ込め、徐々に引き裂いたりすることが可能です。<br2/>もちろん、これらの操作を行うには、標的が自分に対して十分に衰弱している必要があります。",
+
+  "item.enigmaticaddons.astral_potion": "コズミック・ポーション",
+
+  "tooltip.enigmaticaddons.astralPotion1": "§5見よ、星々は豊かな味わいを持っている！",
+  "tooltip.enigmaticaddons.astralPotion2": "§4あまり飲み過ぎない方がいいだろう……",
+
+  "book.enigmaticaddons.entry.astral_potion.name": "コズミック・ポーション",
+  "book.enigmaticaddons.entry.astral_potion.heading": "ポーションの醸造",
+  "book.enigmaticaddons.entry.astral_potion.page.1": "スターダストが醸造において絶大な潜在能力を秘めていることは、あなたも経験済みでしょう。しかし、見慣れないポーションを前にすると、単にスターダストを触媒にするだけでは不十分なようです。ましてやポーションからは得られない効果となれば尚更です。<br2/>そこで、あなたは蜂蜜に目を向けました。",
+  "book.enigmaticaddons.entry.astral_potion.page.2": "結果として、この神秘的な物質はあなたに付与された効果時間を延長させることができるようです。しかし、おかわりが欲しいなら……ええ、その後の結果には責任を持てませんがね……。",
+
+  "item.enigmaticaddons.primeval_cube": "無用な石……",
+
+  "tooltip.enigmaticaddons.primevalCube": "§5無用な石……",
+
+  "book.enigmaticaddons.entry.primeval_cube.name": "無用な石……",
+  "book.enigmaticaddons.entry.primeval_cube.page.1": "あなたはこの古の記録を発見しました。どうやらスペルストーン（魔石）の再生についての記述のようです。<br2/>星々の輝きを触媒として……<br/>六つが一つに……<br/>二つの「心臓」の力を伴って……<br2/>これを「アストラルダストの袋」に投げ入れてみてはどうでしょうか？",
+
+  "item.enigmaticaddons.ichor_droplet": "アイコアの雫",
+
+  "book.enigmaticaddons.entry.ichor_droplet.name": "アイコア",
+  "book.enigmaticlegacy.entry.ichor_droplet.heading": "神々の血",
+  "book.enigmaticaddons.entry.ichor_droplet.page.1": "このいわゆる「神々の血」について、あなたはついに安定した入手源を発見しました。それはネザーを漂う、あの叫ぶガストを狩ることです。<br2/>呪いの力がガストの血と涙に残留する微かな「神性」を呼び覚まし、アイコアを皆の前に再び姿を現させたのです。",
+  "book.enigmaticaddons.entry.ichor_droplet.page.2": "しかし、その「神性」が一体どこから来たのかを深く考えてはなりません。それは遥か昔から続く禁忌の秘密なのです。今のあなたに必要なのは、この予期せぬ副産物をいかに活用し、発展させるかです。例えば、極限のポーションを醸造するなど……。",
+
+  "item.enigmaticaddons.ichoroot": "アイコルート",
+
+  "tooltip.enigmaticaddons.ichoroot": "§5微かな浄化の力を宿している",
+
+  "book.enigmaticaddons.entry.ichoroot.name": "アイコルート",
+  "book.enigmaticaddons.entry.ichoroot.page.1": "人々がニンジンやジャガイモを巡って争っている陰で、見捨てられたビートルートは実に哀れな姿をさらしていました。今こそアイコアの助けを借りて、それを再生させましょう！<br2/>少量のアイコアを加えるだけで、ビートルートの栄養価は倍増し、消化も容易になります。同時に、その内部に宿る神性と浄化の力をも示すようになります。",
+  "book.enigmaticaddons.entry.ichoroot.page.2": "アイコアは負傷を浄化し、衝撃を吸収する力を与えます。一定量を摂取すれば、神性の加護が現れ、あなたに代わって特定の害を退けてくれるでしょう。",
+
+  "item.enigmaticaddons.ichor_spear": "アイコアの槍",
+
+  "tooltip.enigmaticaddons.ichorSpear": "§5使い捨ての腐食投擲槍",
+  "tooltip.enigmaticaddons.ichorSpearFull": "§5消費なし",
+
+  "book.enigmaticaddons.entry.ichor_spear.name": "アイコアの槍",
+  "book.enigmaticaddons.entry.ichor_spear.page.1": "高貴なるアイコアが常人とはいかに異なるか、あなたは知るべきです。特にそれが防具に滴り落ち、不気味な音を立てて焼くときは格別です。<br2/>安定した金の槍の穂先に、他の触媒と共にアイコアの雫を慎重に塗布すれば、この槍は完成します。これを敵の防具に突き立てれば、危険な",
+  "book.enigmaticaddons.entry.ichor_spear.page.2": "アイコアが彼らの防具を腐食させ、防御を弱体化させるでしょう。<br2/>しかし致命的な問題が一つ――この槍は使い捨てだということです。それは、この槍が簡素で入手しやすいという特徴で補うしかありません。",
+
+  "item.enigmaticaddons.scorched_charm": "焦熱の太陽の魔除け",
+
+  "tooltip.enigmaticaddons.scorchedCharm1": "§5着用者をほとんどの火炎ダメージから守る",
+  "tooltip.enigmaticaddons.scorchedCharm2": "§5溶岩の上を歩くことが可能になる",
+  "tooltip.enigmaticaddons.scorchedCharm3": "§5溶岩に触れている間、自然再生を得る",
+  "tooltip.enigmaticaddons.scorchedCharm4": "§5燃えている標的を攻撃した際、吸血効果が発動する",
+  "tooltip.enigmaticaddons.scorchedCharm5": "§5一定確率で攻撃ダメージを無効化する",
+
+  "book.enigmaticaddons.entry.scorched_charm.name": "焦熱の太陽の魔除け",
+  "book.enigmaticaddons.entry.scorched_charm.page.1": "火炎の力を精製するには、保護だけでなく、より多くの補助的な能力が必要です。<br2/>「氷歩き」とは異なり、この魔除けは溶岩を別の奇妙な物体に変えることなく、その上を直接歩くことを可能にします。これによりネザーでの旅はより快適なものとなるでしょう。",
+  "book.enigmaticaddons.entry.scorched_charm.page.2": "加えて、アイコアの力を得たこの魔除けは、古の加護を呼び覚ましました。それは溶岩の熱を生命の原動力へと変換する力です。そしてその加護自体、どうやら「七つの太陽」と呼ばれているようです。",
+  "item.enigmaticaddons.the_bless": "ザ・ブレス",
+  "item.enigmaticaddons.the_repentance": "後悔の書",
+
+  "tooltip.enigmaticaddons.theBless1": "§5終わりなき苦難の旅路において、",
+  "tooltip.enigmaticaddons.theBless2": "§5行く手を照らす道標となる一冊。",
+  "tooltip.enigmaticaddons.theBless3": "§5§d燃焼§5状態の標的に対するダメージを増加させ、",
+  "tooltip.enigmaticaddons.theBless4": "§5対象の§6有益な§5効果を消去する。",
+  "tooltip.enigmaticaddons.theBless5": "§5所持者は火がつかなくなり、",
+  "tooltip.enigmaticaddons.theBless6": "§5被ダメージ後の無敵時間が延長される。",
+
+  "book.enigmaticaddons.entry.the_bless.name": "ザ・ブレス",
+  "book.enigmaticaddons.entry.the_bless.page.1": "これは今なお知識の書であり、歪み（The Twist）の両側にひとつとして存在しています。<br2/>邪悪なエッセンスを利用し、アイコアの浄化作用を加えることで、この書はより守備的な側面へと傾倒しました。頻繁に受ける攻撃を耐え抜く術を与え、消えることのない劫火を無効化します。これこそが「祝福」の一つです。",
+  "book.enigmaticaddons.entry.the_bless.page.2": "もちろん、この本の力はそれだけに留まりません。「知の承認」が持つ焼却の力はここでさらに強化され、灰燼に帰す者たちから一切の福音を奪い取り、より過酷な一撃を見舞うことでしょう。",
+
+  "item.enigmaticaddons.pure_heart": "ピュアハート",
+
+  "book.enigmaticaddons.entry.pure_heart.name": "ピュアハート",
+  "book.enigmaticaddons.entry.pure_heart.page.1": "異なる素材を用いることで、「ツイステッドハート」とは異なる創造を試みることができるかもしれません。内に秘めた闇の汚染と、微かな神性の結合は、この輝かしい外見を持つ不気味な産物を生み出しました。<br2/>他の心臓とは異なり、ピュアハートとその派生品は、通常攻撃的な力ではなく、",
+  "book.enigmaticaddons.entry.pure_heart.page.2": "保護や支援を提供します。<br2/>しかし、神聖な創造物でありながら呪いの力に依存せねばならぬとは、皮肉なものです。これらのアイテムを使用する際は、その裏に潜む危険にも注意を払ってください。",
+
+  "item.enigmaticaddons.bless_amplifier": "神託の魔導書",
+
+  "tooltip.enigmaticaddons.blessAmplifier1": "§5クラフト枠でエンチャントされたアイテムと組み合わせると、",
+  "tooltip.enigmaticaddons.blessAmplifier2": "§5全てのエンチャントレベルを強化します。",
+  "tooltip.enigmaticaddons.blessAmplifier3": "§5レベル上限を突破することが可能です。",
+
+  "book.enigmaticaddons.entry.bless_amplifier.name": "神託の魔導書",
+  "book.enigmaticaddons.entry.bless_amplifier.page.1": "アイコアの洗礼を経たことで、この書物の渇望は「獲得」から「付与」へと変質し、アイテムに宿る魔力をさらに増幅させます。<br2/>エンチャントされたアイテムと接触させれば、この書は自らを犠牲にして、そのアイテムのエンチャントレベルを倍増させます。",
+  "book.enigmaticaddons.entry.bless_amplifier.page.2": "エンチャントの限界を超え、さらなる高みへと引き上げることこそが、この書の真の目的です。<br2/>ちなみに、全ての制限が突破できるわけではありません。中にはその力に耐えきれず、無効化されてしまうエンチャントも存在します。",
+
+  "item.enigmaticaddons.bless_stone": "聖なる石",
+
+  "tooltip.enigmaticaddons.blessStone1": "§5この石を手に死を迎えよ。",
+  "tooltip.enigmaticaddons.blessStone2": "§5さすれば §6七つの呪いの指輪 §5は",
+  "tooltip.enigmaticaddons.blessStone3": "§6救済の指輪§5へと転生するだろう。",
+  "tooltip.enigmaticaddons.blessStone_info_1": "§4ハードコア専用の儀式は……",
+  "tooltip.enigmaticaddons.blessStone_info_2": "§4§kXX_XX_XX_XX",
+  "tooltip.enigmaticaddons.blessStone1_hardcore": "§5不屈の意志が呪いとの妥協を許す。",
+  "tooltip.enigmaticaddons.blessStone2_hardcore": "§5魂の取引を始めようではないか。",
+  "tooltip.enigmaticaddons.blessStone_hardcore_info": "§dハードコアでさえも、乗り越える術はある。",
+
+  "book.enigmaticaddons.entry.bless_stone.name": "再誕の選択",
+  "book.enigmaticaddons.entry.bless_stone.heading": "真なる救済",
+  "book.enigmaticaddons.entry.bless_stone.page.1": "「七つの呪いの指輪」から逃れるために、自らを犠牲にするべきか迷っているあなたに、新たな選択肢が提示されました。<br2/>最大の問題は「魂の喪失」であり、現在の素材や手法では回避不可能に思えます。接続を断つことはできずとも、その接続を「新たな形」で提示させることはできるはずです。",
+  "book.enigmaticaddons.entry.bless_stone.page.2": "「七つの呪いの指輪」に少しずつ純粋な力を浸透させ、加護を動員して呪いを変質させます。ただし、これら全ての操作は、魂の繋がりが最も脆弱になる瞬間――すなわち、あなたが「死」に直面する時に行われなければなりません。",
+  "book.enigmaticaddons.entry.bless_stone.page.3": "最後の魂の喪失を経て、「七つの呪いの指輪」はあなたの前から姿を消し、その指にひと筋の黄金の輝きを残すでしょう。<br2/>かつての呪いは完全に消え去り、元の加護も一部が保存されています。かつてあなたに寄り添った多くの",
+  "book.enigmaticaddons.entry.bless_stone.page.4": "遺物たちはもはや使用できないかもしれませんが、死に寄り添い続けた苦難の日々を共にした一部の品々は、今なおあなたを主として認めています。彼らはあなたのために、呪いの枷を壊すことを厭わないでしょう。<br2/>呪いから解放された日々を謳歌せんことを。しかし、あなたはこの指輪を真に理解しているわけではありません。選択は慎重に。",
+
+  "item.enigmaticaddons.bless_ring": "救済の指輪",
+  "item.enigmaticaddons.broken_ring": "壊れた指輪",
+
+  "tooltip.enigmaticaddons.blessRing1": "§d苦悶を乗り越えた者へ、",
+  "tooltip.enigmaticaddons.blessRing2": "§d残された加護が今なお力を与える:",
+  "tooltip.enigmaticaddons.blessRing3": "§5- §6あらゆる§5供給源からのダメージが §6%1$s§5 になる",
+  "tooltip.enigmaticaddons.blessRing4": "§5- 与えるダメージが §6%1$s§5 増加する",
+  "tooltip.enigmaticaddons.blessRing5": "§5- 持続的な§d再生§5効果を得る",
+  "tooltip.enigmaticaddons.blessRing6": "§5- §6+%1$s§d ドロップ増加レベル",
+  "tooltip.enigmaticaddons.blessRing7": "§5- §6+%1$s§d 幸運レベル",
+  "tooltip.enigmaticaddons.blessRing8": "§5- 一部の生物から固有のアイテムがドロップする",
+  "tooltip.enigmaticaddons.blessRing9": "§5- 独自の遺物を製作・使用可能になる",
+  "tooltip.enigmaticaddons.blessRingLore1": "§5この指輪は独特の輝きを放ち、",
+  "tooltip.enigmaticaddons.blessRingLore2": "§5あの苦悶の歳月を記憶している。",
+  "tooltip.enigmaticaddons.blessRingLore3": "§5そして同時に、これは",
+  "tooltip.enigmaticaddons.blessRingLore4": "§5強さの証でもあるのだ……",
+  "tooltip.enigmaticaddons.blessRingDuration": "§5この指輪はすでに §6%1$s §5回破損している。",
+
+  "tooltip.enigmaticaddons.blessUse1": "「救済」があなたの使用を渋々許可しましたが、",
+  "tooltip.enigmaticaddons.blessUse2": "あまり強欲にならぬように。",
+  "tooltip.enigmaticaddons.blessTrueUse1": "このアイテムは今なおあなたの過去を認めています。",
+  "tooltip.enigmaticaddons.blessTrueUse2": "安心して使用してください。",
+  "message.enigmaticaddons.blessRingBreak": "救済の指輪が砕ける音が聞こえた……",
+
+  "item.enigmaticaddons.evil_dagger": "カース・カーヴァー",
+
+  "tooltip.enigmaticaddons.evilDagger1": "§5右クリックで短剣を投擲する",
+  "tooltip.enigmaticaddons.evilDagger2": "§5標的に致命的な呪いを刻み込む",
+
+  "book.enigmaticaddons.entry.evil_dagger.name": "カース・カーヴァー",
+  "book.enigmaticaddons.entry.evil_dagger.page.1": "邪悪なインゴットから鍛造された謎多き武器。刃の先には果てなき悪意が集い、魂の饗宴を強欲に待ち望んでいます。<br2/>その名の通り、「カース・カーヴァー（呪いを刻む者）」はあなたの魂に消えない呪印を刻むことができます。一度この呪いが発動すれば、悪意の檻があなたの",
+  "book.enigmaticaddons.entry.evil_dagger.page.2": "行動を縛り、魂を一咬みごとに蝕んでいくでしょう。強靭な生命力を持つ標的に対して、その強欲な性質はより多くを要求します。彼らが満たされたとき、あなたの魂は内側から",
+  "book.enigmaticaddons.entry.evil_dagger.page.3": "引き裂かれ、もはや使い物にならなくなった器を破壊しようと溢れ出します。<br2/>加えて、彼らは一度味わい尽くした器には二度と目を向けません。ゆえに、この呪いには「使い捨て」という致命的な弱点が存在します。",
+
+  "item.enigmaticaddons.totem_of_malice": "怨嗟のトーテム",
+
+  "tooltip.enigmaticaddons.totemofMalice1": "§5インベントリまたはアクセサリースロットにある間:",
+  "tooltip.enigmaticaddons.totemofMalice2": "§5邪悪な村人へのダメージが §6%1$s§5 増加",
+  "tooltip.enigmaticaddons.totemofMalice3": "§5邪悪な村人からのダメージが §6%1$s§5 減少",
+  "tooltip.enigmaticaddons.totemofMalice4": "§5死を回避することができる",
+  "tooltip.enigmaticaddons.totemofMalice5": "§5発動時に周囲にダメージを与える",
+  "tooltip.enigmaticaddons.totemofMalice4_alt": "§5§m死を回避することができる",
+  "tooltip.enigmaticaddons.totemofMalice5_alt": "§5§m発動時に周囲にダメージを与える",
+
+  "book.enigmaticaddons.entry.totem_of_malice.name": "怨嗟のトーテム",
+  "book.enigmaticaddons.entry.totem_of_malice.page.1": "邪悪な村人たちがどのようにして「不死のトーテム」を作り出したのかは不明ですが、それぞれのトーテムの裏には必ず生贄が存在しています。<br2/>しかし今、邪悪なエッセンスを用いて封印された魂の「怨嗟」を解き放ち、村人たちへの怒りを動員することで、彼らの最後の復讐心を満たすことができます。",
+  "book.enigmaticaddons.entry.totem_of_malice.page.2": "復讐の願いが果たされると同時に、彼らは自らの使命を忘れません。最も危険な瞬間にあなたを守り、自らを解き放って周囲の敵を攻撃してくれるでしょう。",
+
+  "item.enigmaticaddons.disaster_sword": "災厄の大剣",
+
+  "tooltip.enigmaticaddons.disasterSword1_alt": "§5彼らに災厄を知らしめよ……",
+  "tooltip.enigmaticaddons.disasterSword1": "§5§d不吉な予感§5のエフェクトレベルごとにダメージが §6%1$s§5 増加する。",
+  "tooltip.enigmaticaddons.disasterSword2": "§5右クリックで強力だが短時間のガードを行うことができる。",
+  "tooltip.enigmaticaddons.disasterSword3": "§5ガード成功後の次の一撃が強化される。",
+
+  "book.enigmaticaddons.entry.disaster_sword.name": "災厄の大剣",
+  "book.enigmaticaddons.entry.disaster_sword.page.1": "頑強な刃と、獲物を捉えんとする魂を宿したこの剣は、防御と反撃の極意を体現しています。<br2/>この大剣を構えれば、その幅広な刃であらゆる攻撃を遮断できるでしょう。その重厚さゆえ、いかなる猛攻も防ぎきりますが、剣を掲げていられるのはほんの一瞬に過ぎません。",
+  "book.enigmaticaddons.entry.disaster_sword.page.2": "ガードに成功するたび、吸収されたエネルギーが刃に留まり、次の一撃で完璧に解放されるのを待ち構えます。<br2/>金属がぶつかり合う鋭い音の中に、災厄の調べが徐々に姿を現すのです。",
+
+  "item.enigmaticaddons.avarice_ring": "至高の贅沢の指輪",
+
+  "tooltip.enigmaticaddons.avariceRing1": "§5村人が§d値上げ§5せず、§d在庫切れ§5も起こさなくなる。",
+  "tooltip.enigmaticaddons.avariceRing2": "§6ピグリン以外の商人§5が能動的に攻撃してこなくなる。",
+  "tooltip.enigmaticaddons.avariceRing3": "§6略奪者§5があなたを最優先の攻撃目標にする。",
+  "tooltip.enigmaticaddons.avariceRing4": "§5死亡時、所持している§6エメラルド関連アイテム§5が消失する。",
+  "tooltip.enigmaticaddons.avariceRing4_alt": "§5§m死亡時、所持している§6§mエメラルド関連アイテム§5§mが消失する。",
+  "tooltip.enigmaticaddons.avariceRing5": "§5所持している§6宝石類§5の数に応じて与えるダメージが増加する。",
+  "tooltip.enigmaticaddons.avariceRing6": "§5現在のダメージ上昇量: §6%1$s",
+
+  "item.enigmaticaddons.chaos_elytra": "混沌の傲慢",
+
+  "tooltip.enigmaticaddons.chaosElytra1": "§5背後からのダメージを §6%1$s §5軽減する。",
+  "tooltip.enigmaticaddons.chaosElytra2": "§5地上に向かって垂直に加速（急降下）した際、",
+  "tooltip.enigmaticaddons.chaosElytra3": "§5周囲に範囲ダメージを与える。",
+  "tooltip.enigmaticaddons.chaosElytra4": "§5-§6 +3 §5防具ポイント",
+  "tooltip.enigmaticaddons.chaosElytra5": "§5- 地上への突進時の範囲とダメージを強化する。",
+
+  "book.enigmaticaddons.entry.chaos_elytra.name": "混沌の傲慢",
+  "book.enigmaticaddons.entry.chaos_elytra.page.1": "「深淵の心臓」を手にしたならば、視線を空へと向けてみてはどうでしょうか？<br2/>「荘厳なエリトラ」と同じ工程をベースにしつつ、より邪悪で強力な素材を用いることで、この力強い翼を得ることができます。宇宙とエンダーの力を借りて空を翔け、地上を這いつくばる生物たちを見下ろしましょう。",
+  "book.enigmaticaddons.entry.chaos_elytra.page.2": "天から地へと舞い降りる時、混沌と悪意があなたに付き従い、大地に衝撃を与え、全てを混乱に陥れるでしょう。",
+
+  "item.enigmaticaddons.violence_scroll": "暴力の呪い",
+
+  "tooltip.enigmaticaddons.violenceScroll1": "§5同じ標的を攻撃する際、前回与えたダメージの §6%1$s§5 を追加で与える。",
+  "tooltip.enigmaticaddons.violenceScroll2": "§5無敵時間中に攻撃を行った場合:",
+  "tooltip.enigmaticaddons.violenceScroll3": "§5- 与えるダメージが §6%1$s§5 上昇する。",
+  "tooltip.enigmaticaddons.violenceScroll4": "§5- 与えたダメージの §6%1$s §5に相当する体力を回復する。",
+  "tooltip.enigmaticaddons.violenceScroll5": "§5- 無敵時間をリセットする。",
+  "tooltip.enigmaticaddons.violenceScroll6": "§6インベントリ内の他のアイテムを右クリック§5し、付与された「呪い」を吸収する。",
+  "tooltip.enigmaticaddons.violenceScroll7": "§5- §6%1$s §d攻撃速度",
+  "tooltip.enigmaticaddons.violenceScroll8": "§5- §6%1$s §d攻撃届く範囲",
+  "tooltip.enigmaticaddons.violenceScroll9": "§5- §6%1$s §dノックバック耐性",
+  "tooltip.enigmaticaddons.violenceScroll10": "§5- 攻撃対象に弱体化した§6第一§5から§6第四§5の呪いを与える。",
+  "tooltip.enigmaticaddons.violenceScroll11": "§5- §6第四の呪い§dの変質: その効果を§d半分§5に軽減する。",
+  "tooltip.enigmaticaddons.violenceScrollCount": "§d吸収した呪いの数: §6%1$s",
+
+  "book.enigmaticaddons.entry.violence_scroll.name": "暴力の呪い",
+  "book.enigmaticaddons.entry.violence_scroll.page.1": "終わりのない殺戮の中で、暴力がもたらす快楽はあなたを虜にします。「千の呪いの巻物」はあなたを招待し、呪いの力を背負い、深淵と共に頂点へと至る道を示しました。<br2/>暴力への渇望に直面し、戦えば戦うほど、我々はより勇猛に、より狂気へと",
+  "book.enigmaticaddons.entry.violence_scroll.page.2": "染まっていきます。傷つきながらも反撃を繰り返し、蓄積された怒りを解き放つのです。",
+  "book.enigmaticaddons.entry.violence_scroll.page.3": "「千の呪いの巻物」および「貪り食う怨嗟」のアップグレードとして、この巻物は今なお呪いを渇望しています。どうかそれを満たしてやってください。それは決してあなたを裏切らないでしょう。",
+  "item.enigmaticaddons.unknown_sword": "§k?????§r の §k??????§r",
+  "item.enigmaticaddons.annihilating_sword": "絶滅の決断",
+
+  "tooltip.enigmaticaddons.annihilatingSword1": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword2": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword3": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword4": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword5Main": "§5- ",
+  "tooltip.enigmaticaddons.annihilatingSword5Off": "§5- ",
+  "tooltip.enigmaticaddons.annihilatingSword6Main": "§5- ",
+  "tooltip.enigmaticaddons.annihilatingSword6Off": "§5- ",
+  "tooltip.enigmaticaddons.annihilatingSword7": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword8": "§5",
+  "tooltip.enigmaticaddons.annihilatingSword9": "§5",
+  "tooltip.enigmaticaddons.annihilatingSwordOwner": "この剣は、あなただけの所有物である。",
+
+  "death.attack.abyss": "%1$s は果てなき深淵へと堕ちた。",
+  "death.attack.evil_curse": "%1$s は呪いによって引き裂かれた。",
+  "death.attack.false_justice": "%1$s は断罪の虚無へと消えた。",
+
+  "entity.enigmaticaddons.abyss_projectile": "深淵の影",
+  "entity.enigmaticaddons.astral_spear": "アストラルの槍",
+  "entity.enigmaticaddons.cobweb_ball": "クモの巣玉",
+  "entity.enigmaticaddons.disaster_chaos": "災厄の火玉",
+  "entity.enigmaticaddons.dragon_breath_arrow": "ドラゴンブレスの矢",
+  "entity.enigmaticaddons.evil_dagger": "邪悪な短剣",
+  "entity.enigmaticaddons.ichor_spear": "アイコアの槍",
+  "entity.enigmaticaddons.magic_quartz_dagger": "魔法のクォーツダガー",
+  "entity.enigmaticaddons.soul_flame_ball": "幻影の魂の火炎弾",
+  "entity.enigmaticaddons.split_dragon_breath": "拡散ドラゴンブレス",
+  "entity.enigmaticaddons.ultimate_dragon_fireball": "究極のドラゴン火球",
+
+  "effect.enigmaticaddons.dragon_breath": "瞬間ドラゴンブレス",
+  "effect.enigmaticaddons.frozen_heart": "凍てつく心臓",
+  "effect.enigmaticaddons.ichor_corrosion": "アイコアの腐食",
+  "effect.enigmaticaddons.pure_resistance": "純粋なる耐性",
+
+  "item.enigmaticaddons.common_potion.effect.luck": "幸運のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.luck": "スプラッシュ幸運のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.luck": "残留型幸運のポーション",
+
+  "item.enigmaticaddons.common_potion.effect.frozen_heart": "凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion.effect.long_frozen_heart": "凍てつく心臓のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.ultimate_frozen_heart": "凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.frozen_heart": "スプラッシュ凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.long_frozen_heart": "スプラッシュ凍てつく心臓のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.ultimate_frozen_heart": "スプラッシュ凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.frozen_heart": "残留型凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.long_frozen_heart": "残留型凍てつく心臓のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.ultimate_frozen_heart": "残留型凍てつく心臓のポーション",
+  "item.enigmaticaddons.common_potion.effect.mining_fatigue": "採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion.effect.long_mining_fatigue": "採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion.effect.strong_mining_fatigue": "採掘速度低下のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.ultimate_mining_fatigue": "採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.mining_fatigue": "スプラッシュ採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.long_mining_fatigue": "スプラッシュ採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_splash.effect.strong_mining_fatigue": "スプラッシュ採掘速度低下のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.ultimate_mining_fatigue": "スプラッシュ採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.mining_fatigue": "残留型採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.long_mining_fatigue": "残留型採掘速度低下のポーション",
+  "item.enigmaticaddons.common_potion_lingering.effect.strong_mining_fatigue": "残留型採掘速度低下のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.ultimate_mining_fatigue": "残留型採掘速度低下のポーション",
+
+  "book.enigmaticaddons.entry.frozen_heart_potion.name": "凍てつく心臓のポーション",
+  "book.enigmaticaddons.entry.frozen_heart_potion.heading.1": "ポーションの醸造",
+  "book.enigmaticaddons.entry.frozen_heart_potion.heading.2": "効果時間の延長",
+  "book.enigmaticaddons.entry.frozen_heart_potion.heading.3": "スプラッシュ版",
+  "book.enigmaticaddons.entry.frozen_heart_potion.heading.4": "残留型",
+  "book.enigmaticaddons.entry.frozen_heart_potion.page.1": "青氷は氷ブロックの中で最も純粋な存在です。熟考の末、あなたはこれを醸造のプロセスに加える試みを行いました。<br2/>試飲してみると、あまりの冷たさではありますが、体内に不快な寒さは感じません。代わりに、雪山や氷河の極寒の空気から力を引き出す感覚を得られることに気づきました。",
+  "book.enigmaticaddons.entry.frozen_heart_potion.page.2": "最終的に、あなたは凍結に対する免疫を獲得し、周囲に冷気のオーラを放ち、凍結した標的に対してより大きなダメージを与える能力を得ることになります。",
+  "book.enigmaticaddons.entry.frozen_heart_potion.page.3": "レッドストーンダストを使用することで、その効果時間を延長できます。",
+  "book.enigmaticaddons.entry.frozen_heart_potion.page.4": "また、スプラッシュポーションとして醸造することも可能です……",
+  "book.enigmaticaddons.entry.frozen_heart_potion.page.5": "……あるいは、他の通常のポーションと同様に残留型にすることもできます。",
+
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_leaping": "究極の跳躍のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_swiftness": "究極の俊敏のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_slowness": "究極の鈍鈍のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_turtle_master": "究極の亀マスターのポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_poison": "究極の毒のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_regeneration": "究極の再生のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_strength": "究極の力のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_weakness": "究極の弱体化のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_haste": "究極の採掘速度上昇のポーション",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_mining_fatigue": "究極の採掘速度低下のポーション",
+
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_leaping": "スプラッシュ究極の跳躍のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_swiftness": "スプラッシュ究極の俊敏のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_slowness": "スプラッシュ究極の鈍鈍のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_turtle_master": "スプラッシュ究極の亀マスターのポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_poison": "スプラッシュ究極の毒のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_regeneration": "スプラッシュ究極の再生のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_strength": "スプラッシュ究極の力のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_weakness": "スプラッシュ究極の弱体化のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_haste": "スプラッシュ究極の採掘速度上昇のポーション",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_mining_fatigue": "スプラッシュ究極の採掘速度低下のポーション",
+
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_leaping": "残留型究極の跳躍のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_swiftness": "残留型究極の俊敏のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_slowness": "残留型究極の鈍鈍のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_turtle_master": "残留型究極の亀マスターのポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_poison": "残留型究極의 毒のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_regeneration": "残留型究極の再生のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_strength": "残留型究極の力のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_weakness": "残留型究極の弱体化のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_haste": "残留型究極の採掘速度上昇のポーション",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_mining_fatigue": "残留型究極の採掘速度低下のポーション",
+
+  "advancement.enigmaticaddons:pureHeart": "不浄なる浄化",
+  "advancement.enigmaticaddons:pureHeart.desc": "ピュアハートを作成する",
+
+  "advancement.enigmaticaddons:primevalCube": "根源への追跡",
+  "advancement.enigmaticaddons:primevalCube.desc": "「無用な石……」を作成する",
+
+  "advancement.enigmaticaddons:earthPromise": "容易く約束を交わすなかれ",
+  "advancement.enigmaticaddons:earthPromise.desc": "大地からの約束を手に入れる",
+
+  "advancement.enigmaticaddons:falseJustice": "混沌の抽出",
+  "advancement.enigmaticaddons:falseJustice.desc": "邪悪なエッセンスを用いて、混沌の書を作成する",
+
+  "advancement.enigmaticaddons:blessRing": "反転する運命",
+  "advancement.enigmaticaddons:blessRing.desc": "七つの呪いの指輪を破壊し、救済を得る",
+
+  "advancement.enigmaticaddons:maliceTotem": "怨嗟の結末",
+  "advancement.enigmaticaddons:maliceTotem.desc": "怨嗟のトーテムを手に入れる",
+
+  "advancement.enigmaticaddons:ChaosElytra": "愚かなる衆生への傲慢",
+  "advancement.enigmaticaddons:ChaosElytra.desc": "混沌の傲慢を身に纏い、空から生きとし生けるものを見下ろす",
+
+  "advancement.enigmaticaddons:ChaosExplosionKill": "降臨する混沌",
+  "advancement.enigmaticaddons:ChaosExplosionKill.desc": "混沌の傲慢による衝撃で、一度に10体のモンスターを仕留める"
+}

@@ -1,0 +1,119 @@
+{
+    "config.dynamic_fps.title": "Dynamic FPS の設定",
+
+    "config.dynamic_fps.warn_cloth_config.0": "Minecraft 内から Dynamic FPS を設定するには Cloth Config が必要です。",
+    "config.dynamic_fps.warn_cloth_config.1": "Cloth Config をインストールするか、設定ファイルを直接編集するか、デフォルト設定を使用してください。",
+
+    "config.dynamic_fps.category.general": "全般",
+    "config.dynamic_fps.category.advanced": "詳細",
+
+    "config.dynamic_fps.category.hovered": "マウスホバー時",
+    "config.dynamic_fps.category.unfocused": "非フォーカス時",
+    "config.dynamic_fps.category.invisible": "最小化・非表示時",
+    "config.dynamic_fps.category.unplugged": "バッテリー駆動時",
+    "config.dynamic_fps.category.abandoned": "放置（アイドル）時",
+
+    "config.dynamic_fps.feature.misc": "その他",
+    "config.dynamic_fps.feature.volume_transition": "音量の遷移",
+    "config.dynamic_fps.feature.idle": "放置状態の検出",
+    "config.dynamic_fps.feature.battery": "バッテリー連携",
+
+    "config.dynamic_fps.enabled": "有効",
+
+    "config.dynamic_fps.disabled": "無効",
+    "config.dynamic_fps.minutes": "%d 分",
+
+    "config.dynamic_fps.idle_time": "アイドル タイムアウト",
+    "config.dynamic_fps.idle_time_tooltip": "ゲームにフォーカスしている状態で、入力がなくなってから「放置状態」に移行するまでの時間（分）です。",
+
+    "config.dynamic_fps.idle_condition": "アイドル移行条件",
+
+    "config.dynamic_fps.idle_condition_none": "なし",
+    "config.dynamic_fps.idle_condition_vanilla": "バニラに準拠",
+    "config.dynamic_fps.idle_condition_on_battery": "バッテリー駆動時のみ",
+
+    "config.dynamic_fps.idle_condition_none_tooltip": "一定時間操作がない場合、常に放置状態を有効にします。",
+    "config.dynamic_fps.idle_condition_vanilla_tooltip": "Dynamic FPS による放置検出を無効にし、バニラの設定を使用します。",
+    "config.dynamic_fps.idle_condition_on_battery_tooltip": "バッテリー駆動中に一定時間操作がない場合のみ、放置状態を有効にします。",
+
+    "config.dynamic_fps.uncap_menu_frame_rate": "メニューのFPS制限を解除",
+    "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "メインメニューにおける 60 FPS の制限を解除します。",
+
+    "config.dynamic_fps.ignore_initial_click": "最初のクリックを無視",
+    "config.dynamic_fps.ignore_initial_click_tooltip": "非フォーカス状態のウィンドウをクリックして復帰する際、誤入力（攻撃など）を防ぐために最初のクリックを無視します。",
+
+    "config.dynamic_fps.ignore_initial_click_disabled": "無効",
+    "config.dynamic_fps.ignore_initial_click_in_world": "ワールド内のみ",
+    "config.dynamic_fps.ignore_initial_click_constant": "常に有効",
+
+    "config.dynamic_fps.battery_tracker": "バッテリー追跡",
+    "config.dynamic_fps.battery_tracker_tooltip": "バッテリーに関連するすべての機能を一括で切り替えます。",
+
+    "config.dynamic_fps.battery_tracker_switch_states": "「バッテリー駆動時」の状態を有効化",
+    "config.dynamic_fps.battery_tracker_switch_states_tooltip": "電源が抜かれた際、自動的にバッテリー駆動時のFPS設定を適用します。",
+
+    "config.dynamic_fps.battery_tracker_notifications": "バッテリー通知",
+    "config.dynamic_fps.battery_tracker_notifications_tooltip": "バッテリーの状態に関する通知をゲーム内で受け取ります。",
+
+    "config.dynamic_fps.battery_critical_level": "バッテリー低下のしきい値",
+    "config.dynamic_fps.battery_critical_level_tooltip": "バッテリー残量が何％以下になったら「低下（クリティカル）」と見なすか設定します。",
+
+    "config.dynamic_fps.battery_indicator_condition": "バッテリー インジケーターの表示",
+    "config.dynamic_fps.battery_indicator_condition_disabled": "表示しない",
+    "config.dynamic_fps.battery_indicator_condition_draining": "放電中（使用中）のみ",
+    "config.dynamic_fps.battery_indicator_condition_critical": "低下時のみ",
+    "config.dynamic_fps.battery_indicator_condition_constant": "常に表示",
+
+    "config.dynamic_fps.battery_indicator_debug": "デバッグ情報（F3）と共に表示",
+    "config.dynamic_fps.battery_indicator_debug_tooltip": "デバッグ画面を開いている間、インジケーターを表示するかどうか。 ",
+
+    "config.dynamic_fps.battery_indicator_placement": "インジケーターの表示位置",
+    "config.dynamic_fps.battery_indicator_placement_top_left": "左上",
+    "config.dynamic_fps.battery_indicator_placement_top_right": "右上",
+    "config.dynamic_fps.battery_indicator_placement_bottom_left": "左下",
+    "config.dynamic_fps.battery_indicator_placement_bottom_right": "右下",
+
+    "config.dynamic_fps.volume_transition_speed_up": "音量が上がる速度",
+    "config.dynamic_fps.volume_transition_speed_down": "音量が下がる速度",
+    "config.dynamic_fps.volume_transition_speed_instant": "即時",
+    "config.dynamic_fps.volume_transition_speed_tooltip": "ゲームの音量が1秒あたりに変化する速度を設定します。",
+
+    "config.dynamic_fps.frame_rate_target": "目標フレームレート",
+    "config.dynamic_fps.volume_multiplier": "音量の倍率",
+
+    "config.dynamic_fps.graphics_state": "グラフィックス設定",
+    "config.dynamic_fps.graphics_state_default": "デフォルト",
+    "config.dynamic_fps.graphics_state_reduced": "軽減",
+    "config.dynamic_fps.graphics_state_minimal": "最小",
+    "config.dynamic_fps.graphics_state_minimal_tooltip": "最小設定にすると、ワールドの再読み込みが発生します！",
+
+    "config.dynamic_fps.show_toasts": "通知（トースト）を表示",
+    "config.dynamic_fps.show_toasts_tooltip": "通知を即座に表示するか、遅延させるかを設定します。",
+
+    "config.dynamic_fps.run_garbage_collector": "ガベージコレクタの実行",
+    "config.dynamic_fps.run_garbage_collector_tooltip": "このステータスに切り替わった際、未使用のメモリを解放します。",
+
+    "config.dynamic_fps.download_natives": "コンポーネントのダウンロード",
+    "config.dynamic_fps.download_natives_description_0": "バッテリー機能を使用するには追加のライブラリが必要です。",
+    "config.dynamic_fps.download_natives_description_1": "Modがこのコンポーネントを自動的にダウンロードすることを許可するかどうかを設定してください。",
+
+    "config.dynamic_fps.mock_battery_data": "疑似バッテリーデータを使用",
+
+    "key.dynamic_fps.toggle_forced": "強制的に非フォーカスモードにする (切り替え)",
+    "key.dynamic_fps.toggle_disabled": "Dynamic FPS を無効にする (切り替え)",
+    "gui.dynamic_fps.hud.reducing": "Dynamic FPS: FPS制限を強制中",
+    "gui.dynamic_fps.hud.disabled": "Dynamic FPS は無効です",
+
+    "toast.dynamic_fps.error": "Dynamic FPS バッテリーエラー",
+    "toast.dynamic_fps.http_error": "ライブラリのダウンロードに失敗しました",
+    "toast.dynamic_fps.no_support": "このコンピューターはサポートされていません",
+    "toast.dynamic_fps.no_library": "ライブラリのダウンロードが無効化されています",
+
+    "toast.dynamic_fps.battery_charging": "充電中！",
+    "toast.dynamic_fps.battery_draining": "放電中（使用中）！",
+    "toast.dynamic_fps.battery_critical": "バッテリー残量低下！",
+
+    "toast.dynamic_fps.battery_charge": "現在の残量: %d%%",
+
+    "modmenu.descriptionTranslation.dynamic_fps": "Minecraft がバックグラウンドにある時や放置されている時のリソース消費を削減します。"
+}

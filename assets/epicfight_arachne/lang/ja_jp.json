@@ -1,0 +1,14 @@
+{
+  "biome.epicfight_arachne.arachne_nest": "アラクネの蜘蛛の巣窟",
+  "entity.epicfight_arachne.arachne": "アラクネ",
+
+  "item.epicfight_arachne.arachne_harp": "黄金の竪琴",
+  "item.epicfight_arachne.arachne_harp.tip_1": "[人間界で失われた竪琴]",
+  "item.epicfight_arachne.arachne_harp.tip_2": "[使用するとアラクネの蜘蛛の巣窟へ転送されます。巣窟内で使用するとアラクネを召喚します]",
+
+  "item.epicfight_arachne.arachne_egg": "アラクネの卵",
+  "item.epicfight_arachne.arachne_egg.tip_1": "[アラクネの体内にあった未発達の卵]",
+  "item.epicfight_arachne.arachne_egg.tip_2": "[アラクネの蜘蛛の巣窟で使用するとリスポーン地点に戻ります。それ以外で使用すると周囲に猛毒を撒き散らします]",
+  "item.epicfight_arachne.arachne_egg.tip_3": "[猛毒が当たった生物には「猛毒」のエフェクトが付与されます]",
+  "item.epicfight_arachne.arachne_egg.tip_4": "[毒が弾けると、その場に毒の霧が残ります]"
+}

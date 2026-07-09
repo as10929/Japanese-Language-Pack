@@ -1,0 +1,32 @@
+{
+  "item_group.hmagspells": "HMaG Spells",
+
+  "entity.hmagspells.summoned_jiangshi": "召喚されたキョンシー",
+  "entity.hmagspells.summoned_jack_frost": "召喚されたジャックフロスト",
+  "entity.hmagspells.summoned_alraune": "召喚されたアルラウネ",
+
+  "entity.hmagspells.new_poison_arrow": "毒矢",
+  "entity.hmagspells.new_poison_cloud": "毒の霧",
+  "entity.hmagspells.new_acid_orb": "アシッドオーブ",
+  "entity.hmagspells.jack_frost_hard_snowball_entity": "硬い雪玉",
+  "entity.hmagspells.alraune_poison_seed_entity": "毒の種",
+
+  "effect.hmagspells.summon_jiangshi_timer": "キョンシー召喚中",
+  "effect.hmagspells.summon_jack_frost_timer": "ジャックフロスト召喚中",
+  "effect.hmagspells.summon_alraune_timer": "アルラウネ召喚中",
+
+  "spell.hmagspells.summon_jiangshi": "キョンシー召喚",
+  "spell.hmagspells.summon_jack_frost": "ジャックフロスト召喚",
+  "spell.hmagspells.summon_alraune": "アルラウネ召喚",
+
+  "spell.hmagspells.summon_jiangshi.guide": "共に戦ってくれるキョンシーを召喚します。",
+  "spell.hmagspells.summon_jack_frost.guide": "共に戦ってくれるジャックフロストを召喚します。",
+  "spell.hmagspells.summon_alraune.guide": "共に戦ってくれるアルラウネを召喚します。",
+
+  "death.attack.hmagspells.summon_jiangshi": "%1$s は %2$s に陽のエネルギーを吸い尽くされた。",
+  "death.attack.hmagspells.summon_jack_frost": "%1$s は %2$s によって氷像に変えられた。",
+  "death.attack.hmagspells.summon_alraune": "%1$s は %2$s によって花の肥やしにされた。",
+
+  "ui.hmagspells.extra_health": "追加体力 +%d",
+  "ui.hmagspells.extra_damage": "追加攻撃ダメージ +%d"
+}

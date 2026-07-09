@@ -1,0 +1,69 @@
+{
+  "item.irons_restrictions.fire_manuscript": "火の魔導書",
+  "item.irons_restrictions.fire_manuscript_desc": "火属性の呪文を習得するために使用します",
+  "item.irons_restrictions.nature_manuscript": "自然の魔導書",
+  "item.irons_restrictions.nature_manuscript_desc": "自然属性の呪文を習得するために使用します",
+  "item.irons_restrictions.evocation_manuscript": "召喚の魔導書",
+  "item.irons_restrictions.evocation_manuscript_desc": "召喚属性の呪文を習得するために使用します",
+  "item.irons_restrictions.ender_manuscript": "エンダーの魔導書",
+  "item.irons_restrictions.ender_manuscript_desc": "エンダー属性の呪文を習得するために使用します",
+  "item.irons_restrictions.ice_manuscript": "氷の魔導書",
+  "item.irons_restrictions.ice_manuscript_desc": "氷属性の呪文を習得するために使用します",
+  "item.irons_restrictions.holy_manuscript": "聖なる魔導書",
+  "item.irons_restrictions.holy_manuscript_desc": "聖属性の呪文を習得するために使用します",
+  "item.irons_restrictions.blood_manuscript": "血の魔導書",
+  "item.irons_restrictions.blood_manuscript_desc": "血属性の呪文を習得するために使用します",
+  "item.irons_restrictions.lightning_manuscript": "雷の魔導書",
+  "item.irons_restrictions.lightning_manuscript_desc": "雷属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.manuscript.learn_scroll": "新しい呪文を習得しました: ",
+
+  "item.irons_restrictions.unfinished_manuscript": "未完成の魔導書",
+  "item.irons_restrictions.unfinished_manuscript_desc": "使用するとランダムな呪文を習得できる可能性があります",
+  "item.irons_restrictions.unfinished_manuscript.full": "すでに習得可能なすべての呪文を覚えています。",
+  "item.irons_restrictions.unfinished_manuscript.fail": "魔導書は塵となって消え去った...",
+  "item.irons_restrictions.unfinished_manuscript.success": "新しい呪文を習得しました: ",
+
+  "item.irons_restrictions.fragment": "破れたスクロール",
+
+  "item.irons_restrictions.common_upgrade": "強化（コモン）",
+  "item.irons_restrictions.uncommon_upgrade": "強化（アンコモン）",
+  "item.irons_restrictions.rare_upgrade": "強化（レア）",
+  "item.irons_restrictions.epic_upgrade": "強化（エピック）",
+  "item.irons_restrictions.legendary_upgrade": "強化（レジェンダリー）",
+  "item.irons_restrictions.upgrade_desc": "このレアリティの呪文を詠唱できるようにするために使用します",
+  "item.irons_restrictions.upgrade.fail_above": "すでにこのレベルの呪文を詠唱可能です",
+  "item.irons_restrictions.upgrade.fail_below": "現在のレアリティがこの強化を行うのに十分な強さに達していません",
+
+  "item.irons_restrictions.sound_manuscript": "音の魔導書",
+  "item.irons_restrictions.sound_manuscript_desc": "音属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.abyssal_manuscript": "深淵の魔導書",
+  "item.irons_restrictions.abyssal_manuscript_desc": "深淵属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.symmetry_manuscript": "調和の魔導書",
+  "item.irons_restrictions.symmetry_manuscript_desc": "調和属性の呪文を習得するために使用します",
+  "item.irons_restrictions.spirit_manuscript": "精霊の魔導書",
+  "item.irons_restrictions.spirit_manuscript_desc": "精霊属性の呪文を習得するために使用します",
+  "item.irons_restrictions.dune_manuscript": "砂丘の魔導書",
+  "item.irons_restrictions.dune_manuscript_desc": "砂丘属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.wind_manuscript": "風の魔導書",
+  "item.irons_restrictions.wind_manuscript_desc": "風属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.technomancy_manuscript": "魔導工学の魔導書",
+  "item.irons_restrictions.technomancy_manuscript_desc": "魔導工学属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.aqua_manuscript": "水の魔導書",
+  "item.irons_restrictions.aqua_manuscript_desc": "水属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.geo_manuscript": "地の魔導書",
+  "item.irons_restrictions.geo_manuscript_desc": "地属性の呪文を習得するために使用します",
+
+  "item.irons_restrictions.blade_manuscript": "剣術の魔導書",
+  "item.irons_restrictions.blade_manuscript_desc": "剣術属性の呪文を習得するために使用します",
+
+  "ui.irons_restrictions.cast_error_rarity": "このレアリティはまだ解放されていません！",
+
+  "itemGroup.irons_restrictions.restrictions_items_tab": "Iron's Restrictions: アイテム"
+}

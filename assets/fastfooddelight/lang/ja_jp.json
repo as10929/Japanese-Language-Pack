@@ -1,0 +1,38 @@
+{
+  "block.fastfooddelight.checkout_machine": "レジ機",
+
+  "item.fastfooddelight.fries_bowl": "フライドポテトボウル",
+  "item.fastfooddelight.cheese": "チーズ",
+
+  "item.fastfooddelight.french_fries": "フライドポテト",
+  "item.fastfooddelight.carrot_fries": "にんじんフライ",
+  "item.fastfooddelight.fried_onions": "フライドオニオン",
+  "item.fastfooddelight.beet_fries": "ビーツフライ",
+
+  "item.fastfooddelight.cod_sandwich": "フィッシュバーガー（タラ）",
+  "item.fastfooddelight.salmon_sandwich": "サーモンバーガー",
+  "item.fastfooddelight.pork_sandwich": "ポークサンド",
+  "item.fastfooddelight.cheeseburger": "チーズバーガー",
+  "item.fastfooddelight.chicken_cheese_sandwich": "チキンチーズバーガー",
+  "item.fastfooddelight.croque_monsieur": "クロックムッシュ",
+  "item.fastfooddelight.rabbit_sandwich": "ウサギ肉のサンドイッチ",
+  "item.fastfooddelight.cheese_wrap": "チーズラップ",
+  "item.fastfooddelight.chicken_wrap": "チキンラップ",
+  "item.fastfooddelight.chicken_nuggets": "チキンナゲット",
+
+  "item.fastfooddelight.cola_soda": "コーラ",
+  "item.fastfooddelight.orange_soda": "オレンジソーダ",
+  "item.fastfooddelight.lemon_soda": "レモンソーダ",
+  "item.fastfooddelight.creaming_soda": "クリームソーダ",
+  "item.fastfooddelight.iced_tea": "アイスティー",
+
+  "item.fastfooddelight.ice_cream": "アイスクリーム",
+  "item.fastfooddelight.chocolate_ice_cream": "チョコレートアイス",
+  "item.fastfooddelight.sweet_berry_ice_cream": "スイートベリーアイス",
+  "item.fastfooddelight.fruit_ice_cream": "フルーツアイス",
+  "item.fastfooddelight.apple_sauce": "アップルソース",
+
+  "item_group.fastfooddelight": "FastFood Delight",
+
+  "entity.minecraft.villager.fastfooddelight.fast_food_waiter": "ファストフード店の店員"
+}
