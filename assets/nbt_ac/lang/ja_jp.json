@@ -1,0 +1,138 @@
+{
+  "nbt_ac.options": "NBT補完設定 (NBT Autocomplete)",
+
+  "nbt_ac.options.style": "スタイル",
+  "nbt_ac.options.suggestions": "候補表示",
+  "nbt_ac.options.suggestion_priority": "優先順位",
+  "nbt_ac.options.item_components": "アイテムコンポーネント",
+  "nbt_ac.options.mods_and_plugins_support": "Mod・プラグイン対応",
+  "nbt_ac.options.advanced_settings": "詳細設定",
+  "nbt_ac.options.debugging_options": "デバッグ・オプション",
+
+  "nbt_ac.options.field.short_boolean": "Booleanの短縮表記",
+  "nbt_ac.options.field.short_boolean.desc": "Boolean値の候補に true/false ではなく 1b/0b を表示します。※生JSON形式は true/false が必須なため適用されません。",
+
+  "nbt_ac.options.field.tag_quotation_marks": "タグ名を引用符で囲む",
+  "nbt_ac.options.field.tag_quotation_marks.false": "必要な場合のみ",
+  "nbt_ac.options.field.tag_quotation_marks.true": "常に",
+  "nbt_ac.options.field.tag_quotation_marks.desc": "タグ名を引用符で囲むかどうかを設定します。\ntrue - 常に囲む\nfalse - 必要な場合（特殊文字が含まれる場合など）のみ囲む",
+
+  "nbt_ac.options.field.string_quotation_marks": "文字列を引用符で囲む",
+  "nbt_ac.options.field.string_quotation_marks.false": "必要な場合のみ",
+  "nbt_ac.options.field.string_quotation_marks.true": "常に",
+  "nbt_ac.options.field.string_quotation_marks.desc": "文字列タイプの値を引用符で囲むかどうかを設定します。\ntrue - 常に囲む\nfalse - 必要な場合のみ囲む",
+
+  "nbt_ac.options.field.default_quotation_mark_type": "既定の引用符の種類",
+  "nbt_ac.options.field.default_quotation_mark_type.1": "シングルクォート (')",
+  "nbt_ac.options.field.default_quotation_mark_type.2": "ダブルクォート (\")",
+  "nbt_ac.options.field.default_quotation_mark_type.desc": "デフォルトで使用する引用符の種類を定義します。\n1 - シングル (')\n2 - ダブル (\")\n1.19.4以前の場合、シングルに設定するとMC-175504のバグによりNBTパスで問題が発生する可能性があります。また、JSONテキストコンポーネントには適用されません。",
+
+  "nbt_ac.options.field.json_string_suggestion": "JSON文字列の候補",
+  "nbt_ac.options.field.json_string_suggestion.0": "なし",
+  "nbt_ac.options.field.json_string_suggestion.1": "推奨",
+  "nbt_ac.options.field.json_string_suggestion.2": "文字列のデフォルト",
+  "nbt_ac.options.field.json_string_suggestion.3": "レガシー：分離 (' \")",
+  "nbt_ac.options.field.json_string_suggestion.4": "レガシー：結合 ('\")",
+  "nbt_ac.options.field.json_string_suggestion.5": "レガシー：バックスラッシュ (\"\\\")",
+  "nbt_ac.options.field.json_string_suggestion.desc": "JSONテキストコンポーネント用の引用符候補を定義します。\n0 - なし\n1 - 推奨 (1.20.4以降なら2、以前なら3)\n2 - 既定の設定に従う\n3-5 - 旧バージョンの形式。互換性が必要な場合に選択してください。",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_tags": "タグから minecraft プレフィックスを隠す",
+  "nbt_ac.options.field.hide_mc_namespace_in_tags.desc": "タグ名の候補から \"minecraft:\" を非表示にします。",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_strings": "文字列から minecraft プレフィックスを隠す",
+  "nbt_ac.options.field.hide_mc_namespace_in_strings.desc": "文字列値の候補から \"minecraft:\" を非表示にします。",
+
+  "nbt_ac.options.field.ignore_letter_case": "大文字と小文字を区別しない",
+  "nbt_ac.options.field.ignore_letter_case.desc": "タグ名の候補表示において、大文字と小文字の違いを無視します。",
+
+  "nbt_ac.options.field.show_tag_hints": "タグのヒントを表示",
+  "nbt_ac.options.field.show_tag_hints.desc": "候補リストのタグ名の隣に、その型やソースなどのヒントを表示します。",
+
+  "nbt_ac.options.field.hide_forge_tags": "Forge固有タグを隠す",
+  "nbt_ac.options.field.hide_forge_tags.desc": "Forge固有のタグを非表示にします。反映には \"./minecraft/cache/nbt_ac\" の削除とゲームの再起動が必要です。",
+
+  "nbt_ac.options.field.custom_sorting": "カスタムソート",
+  "nbt_ac.options.field.custom_sorting.desc": "アルファベット順ではない、独自の並び替えを有効にします。",
+
+  "nbt_ac.options.field.mark_recommended": "推奨候補にマークを付ける",
+  "nbt_ac.options.field.mark_recommended.desc": "推奨される候補に \"<*>\" のマークを表示します。",
+
+  "nbt_ac.options.field.recommended_at_the_top": "推奨候補を最上部に表示",
+  "nbt_ac.options.field.recommended_at_the_top.desc": "推奨される候補をリストの最初に表示します。※カスタムソートの有効化が必要です。",
+
+  "nbt_ac.options.field.mark_irrelevant": "無関係な候補にマークを付ける",
+  "nbt_ac.options.field.mark_irrelevant.desc": "現在のコンテキストに関係ない候補に \"<I>\" のマークを表示します。",
+
+  "nbt_ac.options.field.gray_out_irrelevant": "無関係な候補をグレー表示",
+  "nbt_ac.options.field.gray_out_irrelevant.desc": "無関係な候補を薄い灰色で表示します。",
+
+  "nbt_ac.options.field.placing_of_irrelevant": "無関係な候補の配置",
+  "nbt_ac.options.field.placing_of_irrelevant.0": "標準",
+  "nbt_ac.options.field.placing_of_irrelevant.1": "最下部",
+  "nbt_ac.options.field.placing_of_irrelevant.2": "非表示",
+  "nbt_ac.options.field.placing_of_irrelevant.desc": "無関係な候補をどう扱うか指定します。「最下部」「非表示」にはカスタムソートの有効化が必要です。",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_components": "コンポーネントから minecraft を隠す",
+  "nbt_ac.options.field.hide_mc_namespace_in_components.desc": "アイテムコンポーネントの候補から \"minecraft:\" を非表示にします。",
+
+  "nbt_ac.options.field.show_custom_data_as_relevant": "custom_data を常に関連ありとする",
+  "nbt_ac.options.field.show_custom_data_as_relevant.desc": "有効な場合、\"minecraft:custom_data\" を常に関連性の高い候補として表示します。",
+
+  "nbt_ac.options.field.show_custom_model_data_as_relevant": "custom_model_data を常に関連ありとする",
+  "nbt_ac.options.field.show_custom_model_data_as_relevant.desc": "有効な場合、\"minecraft:custom_model_data\" を常に関連性の高い候補として表示します。",
+
+  "nbt_ac.options.field.vanilla_ids_sorting": "バニラIDのソート順",
+  "nbt_ac.options.field.vanilla_ids_sorting.0": "カスタムソートなし",
+  "nbt_ac.options.field.vanilla_ids_sorting.1": "状況に合わせる",
+  "nbt_ac.options.field.vanilla_ids_sorting.2": "常に最上部",
+  "nbt_ac.options.field.vanilla_ids_sorting.3": "常に中央",
+  "nbt_ac.options.field.vanilla_ids_sorting.desc": "ModのIDに対して、バニラのID（minecraft:）をどの位置に表示するかを設定します。",
+
+  "nbt_ac.options.field.support_command_namespace": "コマンド名前空間をサポート",
+  "nbt_ac.options.field.support_command_namespace.desc": "コマンドのプレフィックスとしての \"minecraft:\" を無視します。バニラのコマンドを独自空間に置くプラグインを利用している場合に便利です。",
+
+  "nbt_ac.options.field.use_new_thread": "別スレッドを使用",
+  "nbt_ac.options.field.use_new_thread.desc": "Minecraftの起動中、別スレッドを使用して候補の読み込みを行います。",
+
+  "nbt_ac.options.field.use_disassembler": "逆アセンブラを使用",
+  "nbt_ac.options.field.use_disassembler.desc": "エンティティ等の読み込みメソッドを解析して候補を取得します。",
+
+  "nbt_ac.options.field.load_from_resources": "リソースから読み込む",
+  "nbt_ac.options.field.load_from_resources.desc": "リソースファイルから候補を読み込みます（アイテムタグ等の予測に必要）。",
+
+  "nbt_ac.options.field.allow_block_entity_extraction": "ブロックエンティティの抽出を許可",
+  "nbt_ac.options.field.allow_block_entity_extraction.desc": "読み込み後にブロックエンティティ情報の抽出を許可します。",
+
+  "nbt_ac.options.field.use_cache": "キャッシュを使用",
+  "nbt_ac.options.field.use_cache.desc": "候補のキャッシュを有効にします。",
+
+  "nbt_ac.options.field.max_cached_instances": "最大キャッシュインスタンス数",
+  "nbt_ac.options.field.max_cached_instances.-1": "[無制限]",
+  "nbt_ac.options.field.max_cached_instances.desc": "キャッシュするインスタンスの最大数。-1で無制限。",
+
+  "nbt_ac.options.field.max_stack_traces": "スタックトレースの最大記録数",
+  "nbt_ac.options.field.max_stack_traces.-1": "[無制限]",
+  "nbt_ac.options.field.max_stack_traces.0": "0 (無効)",
+  "nbt_ac.options.field.max_stack_traces.desc": "ログに出力する例外のスタックトレース数の上限です。",
+
+  "nbt_ac.options.field.debug_mode": "デバッグモード",
+  "nbt_ac.options.field.debug_mode.desc": "デバッグに役立つ追加のメッセージやチェックを有効にします。",
+
+  "nbt_ac.options.field.debug_sleep": "デバッグ用ロード遅延",
+  "nbt_ac.options.field.debug_sleep.0": "[無効]",
+  "nbt_ac.options.field.debug_sleep.desc": "読み込み時間を測定するため、候補のロードを意図的に遅延させます（ミリ秒指定）。",
+
+  "nbt_ac.options.field.debug_config_screen": "デバッグ設定画面",
+  "nbt_ac.options.field.debug_config_screen.desc": "Realms画面を終了した後に設定画面を表示します。※リセットボタンでは元に戻りません！",
+
+  "nbt_ac.options.field.save_suggestions": "候補をファイルに保存",
+  "nbt_ac.options.field.save_suggestions.0": "無効",
+  "nbt_ac.options.field.save_suggestions.1": "有効",
+  "nbt_ac.options.field.save_suggestions.2": "有効（ソート済み）",
+  "nbt_ac.options.field.save_suggestions.desc": "候補を \".minecraft/nbt_ac_output.txt\" に書き出します。",
+
+  "nbt_ac.options.common.tooltip": "%s\n§8既定値: %s",
+  "nbt_ac.options.common.reset_settings": "設定をリセット",
+  "nbt_ac.options.common.undefined": "[未定義]",
+  "nbt_ac.options.common.gui_debug_warning": "設定画面デバッグモードが有効です！"
+}

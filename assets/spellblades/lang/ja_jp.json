@@ -1,0 +1,20 @@
+{
+  "spell.spellblades.smash.name": "フォース・スマッシュ",
+  "spell.spellblades.smash.description": "前方の敵を叩き伏せ、近接ダメージに加えて {damage} の秘術ダメージを与える。強力なノックバックを伴う。",
+  "spell.spellblades.cleave.name": "フロスト・クリーブ",
+  "spell.spellblades.cleave.description": "周囲の敵をなぎ払い、近接ダメージに加えて {damage} の氷結ダメージを与える。",
+  "spell.spellblades.flurry.name": "ドラゴンの連撃 (フラリー)",
+  "spell.spellblades.flurry.description": "連続攻撃を繰り出し、各打撃で近接ダメージに加えて {damage} の火炎ダメージを与える。",
+  "spell.spellblades.flame_burst.name": "フレイムバースト",
+  "spell.spellblades.flame_burst.description": "近接攻撃命中時、範囲内に {damage} の火炎ダメージを与える。",
+  "spell.spellblades.frost_burst.name": "フロストバースト",
+  "spell.spellblades.frost_burst.description": "近接攻撃命中時、氷の飛び道具を放ち、それぞれ {damage} の氷結ダメージを与える。",
+  "spell.spellblades.arcane_burst.name": "アーケインバースト",
+  "spell.spellblades.arcane_burst.description": "近接攻撃命中時、秘術の触手を放ち、それぞれ {damage} の秘術ダメージを与える。",
+  "enchantment.spellblades.aetherflame": "エーテルフレイム",
+  "enchantment.spellblades.aetherflame.description": "秘術および火炎パワーの基礎値を増加させる。",
+  "enchantment.spellblades.deathchill": "デスチル",
+  "enchantment.spellblades.deathchill.description": "氷結およびソウルパワーの基礎値を増加させる。",
+  "enchantment.spellblades.righteous": "ライチャス (義人)",
+  "enchantment.spellblades.righteous.description": "回復および雷パワーの基礎値を増加させる。"
+}

@@ -1,0 +1,41 @@
+{
+  "entity.nightfall_invade.arterius": "＜最後の監視者 - アルテリウス＞",
+  "entity.nightfall_invade.arterius_hard": "＜炎の主 - アルテリウス(開発中)＞",
+  "entity.nightfall_invade.scarlet_hunter": "＜真紅の狩人 - ブラッド＞",
+
+  "boss_bar.nightfall_invade.arterius": "＜アルテリウス＞",
+  "boss_bar.nightfall_invade.arterius_hard": "＜炎の主(開発中)＞",
+
+  "key.nightfall_invade.category": "NightFall Invade スキルキー",
+  "key.nightfall_invade.nfi_skill": "異世界の戦技キー1",
+
+  "effect.nightfall_invade.soul_of_flame": "炎の魂",
+
+  "epicfight.skill_slot.nfi_combat_art1": "異世界の戦技",
+  "skill.epicfight.nfi_combat_art.category": "異世界の戦技",
+
+  "skill.nightfall_invade.blood_slash": "ブラッドスラッシュ",
+  "skill.nightfall_invade.blood_slash.tooltip": "ガードや回避が不可能な5連続の縦斬りを放ち、軌道上のすべての敵にダメージを与える：\n [自身の攻撃力の150% + 標的の最大HPの2% + 標的の現在HPの4%]\n命中した敵1体につき、自身のHPを10%回復する。",
+  "skill.nightfall_invade.blood_boom": "ブラッドボルト",
+  "skill.nightfall_invade.blood_boom.tooltip": "標的を追尾する10発の血の矢を放つ。\n命中した敵に [自身の攻撃力の20% + 標的の現在HPの3%] の魔法ダメージを与え、自身のHPを5%回復する。",
+
+  "creativetab.nightfall_invade.items": "NightFall Invade Items",
+  "item.nightfall_invade.arterius_spawn_egg": "アルテリウスのスポーンエッグ",
+  "item.nightfall_invade.scarlet_hunter_spawn_egg": "真紅の狩人のスポーンエッグ",
+  "item.nightfall_invade.disaster_fragment_red": "災厄の断片 - 赤",
+
+  "structure.nightfall_invade.gate_of_disaster": "災厄の門",
+
+  "advancements.nightfall_invade.root.title": "Nightfall Invade",
+  "advancements.nightfall_invade.root.description": "旅の始まり",
+  "advancements.nightfall_invade.kill_arterius.title": "最後の監視者",
+  "advancements.nightfall_invade.kill_arterius.description": "伝説の六英雄の一人、アルテリウスは「災厄の門」にて異世界の侵攻を食い止めるべく戦った。仲間たちが倒れゆく中、彼は門を破壊するために自らの正気を捧げた。今、この厳粛な宿命に縛られた彼は、気高き孤独の中で粉砕されたポータルを永遠に守り続ける監視者として立っている。",
+  "advancements.nightfall_invade.kill_scarlet_hunter.title": "真紅の狩人",
+  "advancements.nightfall_invade.kill_scarlet_hunter.description": "古の血脈を受け継ぐ狩人。最初の異世界侵攻が終息した後、彼らは「災厄の門」を再起動するために必要な「災厄の断片」の一つを守護してきた。もしすべての断片を集めることができれば、異世界への道を再び開くことができるかもしれない……。",
+
+  "message.combat_evolution.scarlet_hunter_phase2": "運命に惑わされし愚か者よ……その無知ゆえ、痛ましき代償を支払うがいい。",
+  "message.combat_evolution.scarlet_hunter_phase3": "ふん、執念深い戦士よ……貴様の歪んだ運命、この私が終わらせてくれよう。",
+  "message.combat_evolution.scarlet_hunter_death": "一心に災厄を求めた者よ……貴様は最後に、何を壊そうとしたのだ？",
+
+  "death.attack.blood_slash": "%1$sは%2$sのブラッドスラッシュに飲み込まれた"
+}

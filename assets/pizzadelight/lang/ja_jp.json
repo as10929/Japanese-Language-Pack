@@ -1,0 +1,110 @@
+{
+  "itemGroup.pizzadelight": "Pizza Delight",
+
+  "recipecategory.pizzadelight.crushing": "圧搾",
+
+  "pizzadelight.milk": "ミルク",
+  "pizzadelight.fermenting_milk": "発酵中のミルク",
+  "pizzadelight.cheese": "チーズ",
+  "pizzadelight.tomato_sauce": "トマトソース",
+  "pizzadelight.olive_oil": "オリーブオイル",
+
+  "block.pizzadelight.pizza": "ピザ",
+  "block.pizzadelight.raw_pizza": "生のピザ",
+  "block.pizzadelight.dough": "生地",
+  "block.pizzadelight.cheese_block": "チーズブロック",
+  "block.pizzadelight.pizza_station": "ピザステーション",
+  "block.pizzadelight.oven": "オーブン",
+
+  "block.pizzadelight.red_pizza_bag": "赤いピザバッグ",
+
+  "block.pizzadelight.basin": "たらい",
+
+  "item.pizzadelight.rolling_pin": "めん棒",
+  "item.pizzadelight.stone_pizza_peel": "石のピザピール",
+  "item.pizzadelight.golden_pizza_peel": "金のピザピール",
+  "item.pizzadelight.iron_pizza_peel": "鉄のピザピール",
+  "item.pizzadelight.diamond_pizza_peel": "ダイヤモンドのピザピール",
+  "item.pizzadelight.netherite_pizza_peel": "ネザライトのピザピール",
+
+  "item.pizzadelight.pizza_slice": "カットピザ",
+
+  "item.pizzadelight.hot_sauce": "ホットソース",
+
+  "item.pizzadelight.broccoli": "ブロッコリー",
+  "item.pizzadelight.corn": "トウモロコシ",
+  "item.pizzadelight.cucumber": "キュウリ",
+  "item.pizzadelight.onion": "玉ねぎ",
+  "item.pizzadelight.pepper": "ピーマン",
+  "item.pizzadelight.pineapple": "パイナップル",
+  "item.pizzadelight.tomato": "トマト",
+
+  "item.pizzadelight.olive": "オリーブ",
+
+  "item.pizzadelight.broccoli_seeds": "ブロッコリーの種",
+  "item.pizzadelight.cucumber_seeds": "キュウリの種",
+  "item.pizzadelight.pepper_seeds": "ピーマンの種",
+  "item.pizzadelight.pineapple_seeds": "パイナップルの種",
+  "item.pizzadelight.tomato_seeds": "トマトの種",
+
+  "item.pizzadelight.cucumber_slice": "カットキュウリ",
+  "item.pizzadelight.onion_slice": "カット玉ねぎ",
+  "item.pizzadelight.pepper_slice": "カットピーマン",
+  "item.pizzadelight.pineapple_slice": "カットパイナップル",
+  "item.pizzadelight.tomato_slice": "カットトマト",
+  "item.pizzadelight.mushroom_slice": "カットキノコ",
+
+  "item.pizzadelight.hot_wing": "ホットチキンウィング",
+
+  "item.pizzadelight.cheese": "チーズ",
+
+  "item.pizzadelight.chef_hat": "シェフの帽子",
+  "item.pizzadelight.chef_shirt": "シェフの服",
+  "item.pizzadelight.chef_leggings": "シェフのズボン",
+  "item.pizzadelight.chef_boots": "シェフの靴",
+
+  "item.pizzadelight.pizza_delivery_cap": "配達員のキャップ",
+  "item.pizzadelight.pizza_delivery_shirt": "配達員のシャツ",
+  "item.pizzadelight.pizza_delivery_leggings": "配達員のズボン",
+  "item.pizzadelight.pizza_delivery_boots": "配達員の靴",
+
+  "information.pizzadelight.view_ingredients": "§6<Shift>で材料を表示",
+  "information.pizzadelight.view_recommended_ingredients": "§6<Shift>で推奨材料を表示",
+  "information.pizzadelight.recommended_ingredients_tip": "§9推奨された材料をトッピングすると、ピザの栄養価が高まります",
+  "information.pizzadelight.taste": "§6このピザの味: %s",
+  "information.pizzadelight.hunger": "1枚あたりの回復量: %s (合計: %s)",
+  "information.pizzadelight.saturation": "1枚あたりの隠し満腹度: %f",
+  "information.pizzadelight.hunger_slice": "空腹度回復量: %s",
+  "information.pizzadelight.saturation_slice": "隠し満腹度: %f",
+  "information.pizzadelight.effects": "付与される可能性のある効果:",
+
+  "description.pizzadelight.hold_shift.title": "Shiftキーで詳細を表示",
+  "description.pizzadelight.backstab.title": "バックスタブ",
+  "description.pizzadelight.backstab.description": "背後から攻撃した場合、基礎ダメージの125%を与える",
+
+  "subtitles.pizzadelight.pizza.sizzling": "ピザが焼ける音",
+  "subtitles.pizzadelight.basin.fermenting": "ミルクが発酵する音",
+
+  "advancements.pizzadelight.root.title": "Pizza Delight",
+  "advancements.pizzadelight.root.description": "マイクラでピザを食べたことはある？",
+  "advancements.pizzadelight.pizza_station.title": "ピザ・ステーション",
+  "advancements.pizzadelight.pizza_station.description": "ピザステーションを作成して、ピザの旅を始めよう！",
+  "advancements.pizzadelight.rolling_pin.title": "生地の下準備",
+  "advancements.pizzadelight.rolling_pin.description": "めん棒を作成し、まな板の上の生地に使ってピザの台を作ろう",
+  "advancements.pizzadelight.pizza_peel.title": "熱っ！！",
+  "advancements.pizzadelight.pizza_peel.description": "ピザピールなしでピザを取り出そうなんて思わないこと！",
+  "advancements.pizzadelight.raw_pizza.title": "オーブンに火を入れろ！",
+  "advancements.pizzadelight.raw_pizza.description": "ピザステーションを使って、最初のピザを組み立てよう",
+  "advancements.pizzadelight.basin.title": "たらい",
+  "advancements.pizzadelight.basin.description": "たらいを作成する",
+  "advancements.pizzadelight.cheese_block.title": "はい、チーズ！",
+  "advancements.pizzadelight.cheese_block.description": "たらいにミルクを注ぎ、キノコなどの発酵アイテムを使用しよう",
+  "advancements.pizzadelight.cheese.title": "デリシャス",
+  "advancements.pizzadelight.cheese.description": "ナイフなどの刃物をチーズブロックに使用する",
+  "advancements.pizzadelight.pizza.title": "ピザ・タイム！",
+  "advancements.pizzadelight.pizza.description": "ピザをコンロに置いて焼き上がるのを待ち、一切れ食べてみよう",
+  "advancements.pizzadelight.pizza_slice.title": "続・ピザ・タイム！",
+  "advancements.pizzadelight.pizza_slice.description": "焼き上がったピザにナイフを使って、カットピザにしよう",
+  "advancements.pizzadelight.chef.title": "レミーはどこだ！？",
+  "advancements.pizzadelight.chef.description": "シェフの服を一式揃える"
+}

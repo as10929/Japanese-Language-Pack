@@ -1,0 +1,24 @@
+{
+  "biome.mimic.the_lethean_sea": "忘却の海",
+  "entity.mimic.proteus": "???",
+  "entity.mimic.proteus_1": "ミミック",
+  "entity.mimic.proteus_2": "???",
+  "entity.mimic.proteus_3": "プロテウス",
+  "itemGroup.mimic.items": "The Mimic",
+  "entity.mimic.shadow_mimic": "ミミックの幻影",
+  "item.mimic.mimic_invitation": "ミミックの招待状",
+
+  "item.mimic.mimic_invitation.tip_1": "[忘却の海からの招待状]",
+  "item.mimic.mimic_invitation.tip_2": "[地上で使用すると忘却の海へ移動し、忘却の海で使用するとミミックを召喚する]",
+
+  "item.mimic.proteus_commendation": "プロテウスの称賛",
+  "item.mimic.proteus_commendation.tip_1": "[プロテウスとの戦いの記録]",
+  "item.mimic.proteus_commendation.tip_2": "[忘却の海で使用すると初期スポーン地点に戻り、地上で使用すると戦いの記録が残った幻影を召喚して共闘する]",
+  "item.mimic.proteus_commendation.tip_3": "[幻影はプレイヤーがロックオンした標的を攻撃する]",
+  "item.mimic.proteus_commendation.tip_4": "[プロテウスの支配を離れた幻影は、もはや新たな攻撃を模倣することはできない]",
+  "item.mimic.proteus_commendation.tip_5": "[模倣した攻撃の回数]:",
+
+  "mod.mimic.tip_1": "貴様の哀れな武器には退屈させられるな。",
+  "mod.mimic.tip_2": "そんな鉄屑に、私が汚されるとでも思ったか。",
+  "mod.mimic.tip_3": "武器と呼ぶには、あまりにも期待外れだ。"
+}

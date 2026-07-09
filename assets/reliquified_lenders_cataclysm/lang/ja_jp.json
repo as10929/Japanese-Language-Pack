@@ -1,0 +1,46 @@
+{
+  "item.reliquified_lenders_cataclysm.scouring_eye": "スカアリング・アイ",
+  "tooltip.relics.scouring_eye.description": "伝説的な果て（エンド）の怪物の眼窩から引き剥がされた眼球。数年が経過した今もなお脈動を続け、次の戦いの標的を探している...",
+  "tooltip.relics.scouring_eye.ability.glowing_scour": "追撃",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.description": "プレイヤーが最後に攻撃した標的を %2$s 秒間記憶する。発動すると、記憶された標的の背後にテレポートし、能力は %1$s 秒間のクールダウンに入る。",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.target": "選択された標的",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.tp_allowed": "テレポート条件達成",
+  "tooltip.relics.scouring_eye.leveling_source.glowing_scour.title": "追撃",
+  "tooltip.relics.scouring_eye.leveling_source.glowing_scour.description": "能力「%2$s」を使用して標的にテレポートするたびに +%1$s XP",
+
+  "item.reliquified_lenders_cataclysm.void_vortex_in_bottle": "瓶詰めのボイド・ボルテックス",
+  "tooltip.relics.void_vortex_in_bottle.description": "雷や雲、あるいは渦を瓶に閉じ込めるという、死の試練に直面する悪名高い魔法学校の生徒に課された宿題のひとつ...",
+  "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex": "ヴォイド・トルネード",
+  "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex.description": "標的を倒すと、周囲の敵を引き寄せる高さ %1$s ブロックのヴォイドの渦を召喚する（クールダウン %3$s 秒）。5秒後、渦は爆発して周囲のすべての標的に %2$s のダメージを与える。近くに同等以下の強さの渦がある場合、それを吸収してサイズを大きくし、持続時間を延長する。",
+  "tooltip.relics.void_vortex_in_bottle.leveling_source.spawn_vortex.title": "ヴォイド・トルネード",
+  "tooltip.relics.void_vortex_in_bottle.leveling_source.spawn_vortex.description": "能力「%2$s」によってヴォイドの渦が生成されるたびに +%1$s XP",
+
+  "item.reliquified_lenders_cataclysm.void_cloak": "ヴォイド・クローク",
+  "tooltip.relics.void_cloak.description": "伝説によれば、既知のあらゆる世界の岩盤の下に住んでいた魔導師のローブ。そこで彼は類を見ないヴォイド・ルーンの魔法を極め、その眼が今も戦いを求めて彷徨っている巨大なエンドの獣を打ち倒したという。",
+  "tooltip.relics.void_cloak.ability.void_invulnerability": "虚空耐性",
+  "tooltip.relics.void_cloak.ability.void_invulnerability.description": "奈落（ヴォイド）ダメージを完全に無効化する。",
+  "tooltip.relics.void_cloak.ability.void_rune": "虚空の呼び声",
+  "tooltip.relics.void_cloak.ability.void_rune.description": "%1$s 秒ごとに、周囲のランダムな標的の足元にヴォイド・ルーンを召喚し、 %2$s のダメージを与える。",
+  "tooltip.relics.void_cloak.ability.seismic_zone": "ファイナル・クライ",
+  "tooltip.relics.void_cloak.ability.seismic_zone.description": "プレイヤーまたは支配下の生物が死亡した際、その場所に半径 %1$s ブロックの震動地帯を召喚する。最大 %2$s 回ヴォイド・ルーンを誘発させ、それぞれ %3$s のダメージを与える。",
+  "tooltip.relics.void_cloak.leveling_source.void_rune.title": "虚空の呼び声",
+  "tooltip.relics.void_cloak.leveling_source.void_rune.description": "能力「%2$s」が発動するたびに +%1$s XP",
+  "tooltip.relics.void_cloak.leveling_source.seismic_zone.title": "ファイナル・クライ",
+  "tooltip.relics.void_cloak.leveling_source.seismic_zone.description": "能力「%2$s」が発動するたびに +%1$s XP",
+
+  "item.reliquified_lenders_cataclysm.vacuum_glove": "バキューム・グローブ",
+  "tooltip.relics.vacuum_glove.description": "戦士や魔導師ではなく「屠殺者」が振るう、最も不潔な道具のひとつ。そのオーラは周囲の空気を液化させ、動きと思考の両方を妨げる。",
+  "tooltip.relics.vacuum_glove.ability.vacuum_slowdown": "ジ・エッジ",
+  "tooltip.relics.vacuum_glove.ability.vacuum_slowdown.description": "プレイヤーの周囲に半径 %2$s ブロックの領域を作り出す。領域から逃げようとする標的は、境界付近で移動速度が %1$s%% 低下する。鈍化効果は境界に近いほど強くなる。",
+  "tooltip.relics.vacuum_glove.leveling_source.vacuum_slowdown.title": "ジ・エッジ",
+  "tooltip.relics.vacuum_glove.leveling_source.vacuum_slowdown.description": "能力「%2$s」による鈍化効果を10秒間与えるごとに +%1$s XP",
+
+  "item.reliquified_lenders_cataclysm.void_bubble": "ヴォイド・バブル",
+  "tooltip.relics.void_bubble.description": "脆くも頑丈な、頭部、肉体、精神を同時に守るデバイス。",
+  "tooltip.relics.void_bubble.ability.protective_bubble": "プロテクティブ・バブル",
+  "tooltip.relics.void_bubble.ability.protective_bubble.description": "プレイヤーの頭部を保護バブルで包み込み、呼吸の必要性を完全になくす。また、最大 %1$s 回の攻撃を防いだ後に爆発し、全方向に %2$s 個の破片を飛散させ、それぞれ %3$s のダメージを与える。バブルは %4$s 秒後に再生成される。",
+  "tooltip.relics.void_bubble.leveling_source.protective_bubble.title": "プロテクティブ・バブル",
+  "tooltip.relics.void_bubble.leveling_source.protective_bubble.description": "能力「%2$s」で攻撃を防ぐたびに +%1$s XP",
+
+  "explosion.sub": "爆発"
+}

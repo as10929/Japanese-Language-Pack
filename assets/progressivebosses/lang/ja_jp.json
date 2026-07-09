@@ -1,0 +1,43 @@
+{
+  "item.progressivebosses.nether_star_shard": "ネザースターの破片",
+  "item.progressivebosses.elder_guardian_spike": "エルダーガーディアンの棘",
+  "block.progressivebosses.corrupted_soul_sand": "汚染されたソウルサンド",
+  "progressivebosses.corrupted_soul_sand": "汚染されたソウルサンド",
+  "progressivebosses.requires_nether": "この次元はこの汚染レベルに耐えられません。ネザーなら機能するかもしれません。",
+
+  "entity.progressivebosses.wither_minion": "ウィザー・ミニオン",
+  "death.attack.progressivebosses:wither_charge": "%1$s は %2$s の突進に巻き込まれた",
+
+  "entity.progressivebosses.dragon_minion": "ドラゴン・ミニオン",
+  "death.attack.progressivebosses:dragon_fireball": "%1$s は %2$s の酸の弾を浴びせられた",
+
+  "entity.progressivebosses.corrupted_end_crystal": "汚染されたエンドクリスタル",
+
+  "entity.progressivebosses.elder_minion": "エルダー・ミニオン",
+
+  "progressivebosses:command.summoned_entity": "難易度 %2$d の %1$s を召喚しました",
+  "progressivebosses:command.summon_invalid_entity": "エンティティ %s は無効です",
+
+  "progressivebosses.corrupted_soul_sand.corruption_level": "汚染レベル: %d",
+  "progressivebosses.corrupted_soul_sand.info": "ウィザー召喚の構造体の中央に使用してください",
+
+  "entity.progressivebosses.wither": "ウィザー",
+  "entity.progressivebosses.wither.0": "ウィザー",
+  "entity.progressivebosses.wither.1": "アーマード・ウィザー",
+  "entity.progressivebosses.wither.2": "サマナー・ウィザー",
+  "entity.progressivebosses.wither.3": "アルティメット・ウィザー",
+
+  "entity.minecraft.ender_dragon.0": "エンダードラゴン",
+  "entity.minecraft.ender_dragon.4": "汚染されたエンダードラゴン",
+  "item.progressivebosses.corrupted_end_crystal": "汚染されたエンドクリスタル",
+
+  "elder_guardian.approach": "海底神殿に近づいているようです。すべてのエルダーガーディアンを倒すか、逃げ出さない限り、ブロックを壊すことはできません。",
+  "tooltip.progressivebosses.dragon_egg": "ドラゴンを倒すことで、複数の卵を入手できる可能性があります",
+
+  "advancement.progressivebosses.wither_death.title": "爆発するぞぉぉ！",
+  "advancement.progressivebosses.wither_death.description": "ウィザーを倒し、爆発する前に逃げ延びる",
+  "advancement.progressivebosses.max_lvl_wither.title": "究極のウィザー",
+  "advancement.progressivebosses.max_lvl_wither.description": "最強のウィザーを討伐する",
+  "advancement.progressivebosses.max_lvl_dragon.title": "汚染されたドラゴン",
+  "advancement.progressivebosses.max_lvl_dragon.description": "最強のドラゴンを討伐する"
+}

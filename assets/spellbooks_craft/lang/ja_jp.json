@@ -1,0 +1,11 @@
+{
+  "description.spellbooks_craft.concentrated_lapis_lazuli": "§7ラピスラズリから抽出された、濃縮された神秘のエネルギー。",
+  "item.spellbooks_craft.concentratedmana": "濃縮ラピスラズリ",
+  "description.spellbooks_craft.mortar": "§dアメジスト§7や§bラピスラズリ§7をダイヤモンドと混ぜ合わせるための乳鉢。",
+  "description.spellbooks_craft.amethyst_onient": "§7アメジストの力を込めた癒やしの軟膏。§dすべての弱体化効果を除去し、数秒間の透明化を付与する。§7ただし、この軟膏は不安定なため、使用時にブロックの中へテレポートしてしまう可能性がある。",
+  "item.spellbooks_craft.totem": "雷のトーテム",
+  "item.spellbooks_craft.amietistovaia_maz": "アメジストの軟膏",
+  "item_group.spellbooks_craft.irons_crafts": "Iron's crafts",
+  "description.spellbooks_craft.totem": "§7雷を呼び出すために使われる偉大なアーティファクト。§5[Q]キーで起動",
+  "item.spellbooks_craft.stupka": "アメジストの乳鉢"
+}

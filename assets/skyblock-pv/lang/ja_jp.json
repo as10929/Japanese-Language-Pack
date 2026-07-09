@@ -1,0 +1,418 @@
+{
+    "@meowdding:metadata": {
+        "allowMultiline": true,
+        "allowReferences": true,
+        "allowTags": true,
+        "objectAsKeys": true,
+        "@references": {
+            "ice_essence_shop": [
+                "<white><light_purple>アイスエッセンスショップ</light_purple>でアップグレード可能</white>",
+                "<white>場所: <red>Jerry's Workshop (ジェリーのワークショップ)</red></white>",
+                ""
+            ],
+            "gold_essence_shop": [
+                "<white><light_purple>ゴールドエッセンスショップ</light_purple>でアップグレード可能</white>",
+                "<white><dark_green>Dwarven Mines</dark_green>内の<gold>Royal Mines</gold>にあります</white>",
+                ""
+            ],
+            "diamond_essence_shop": [
+                "<white><light_purple>ダイヤモンドエッセンスショップ</light_purple>でアップグレード可能</white>",
+                "<white><dark_purple>Crystal Hollows</dark_purple>内の<dark_purple>Crystal Nucleus</dark_purple>にあります</white>",
+                ""
+            ],
+            "crimson_essence_shop": [
+                "<white><light_purple>クリムゾンエッセンスショップ</light_purple>でアップグレード可能</white>",
+                "<white><red>Crimson Isle (クリムゾン・アイル)</red>にあります</white>",
+                ""
+            ],
+            "forest_essence_shop": [
+                "<white><light_purple>フォレストエッセンスショップ</light_purple>でアップグレード可能</white>",
+                "<white><dark_green>Galatea</dark_green>上の<gray>Murkwater Outpost</gray>にあります</white>",
+                ""
+            ]
+        },
+        "prefix": "skyblockpv"
+    },
+    "messages": {
+        "new_version": {
+            "@value": "新しいバージョンが見つかりました！ (<red><0></red><gray> -> </gray><green><1></green>)",
+            "download": "クリックしてダウンロード"
+        },
+        "party_finder_join": "<run_cmd '/sbpv pv <!0>'>ここをクリックして <0> のプロフィールを開く</run_cmd>",
+        "forge": {
+            "already_finished": "<red>プロセスは既に完了しています！</red>",
+            "reminder_set": "<gray><0> のリマインダーを <yellow><1></yellow> 後に設定しました！</gray>",
+            "reminder": "<gray><0> のフォージプロセスが完了しました！</gray>"
+        },
+        "api": {
+            "something_went_wrong": "Hypixelからのステータス取得中にエラーが発生しました。DiscordまたはGitHubで報告してください！",
+            "failed_to_authenticate": "<hover 'クリックして再試行！'><run_cmd '/sbpv refreshauth'>PV APIの認証に失敗しました。Mojangサーバーに接続されているか確認してください。クリックして再試行。</run_cmd></hover>",
+            "auth_cooldown": "<red>認証はクールダウン中です。<0> 秒待ってから再試行してください。</red>",
+            "authenticating": "<gray>PV APIで認証中...</gray>",
+            "auth_successful": "<green>PV APIの認証に成功しました！</green>",
+            "auth_failed": "<run_cmd '/sbpv discord'><red>PV APIの認証に失敗しました。後でもう一度試すか、<blue>Discord</blue>でお問い合わせください！</red></run_cmd>",
+            "not_authenticated": "<run_cmd '/sbpv refreshauth'>PV APIの認証が済んでいません。クリックして認証を試行します。</run_cmd>",
+            "auth_uptime_limit": "<red>マイクラを24時間以上起動し続けています。認証を更新するために再起動してください。</red>"
+        },
+        "unknown_essence_perks": "<0> 個の不明なエッセンスパークがあります。",
+        "player_not_found": "<red>プレイヤーが見つかりませんでした</red>",
+        "no_dungeon_data": "<red><0> のダンジョンデータが見つかりません。</red>",
+        "dungeon_partyfinder": {
+            "header": "<red><0></red><gray> のダンジョン統計</gray>",
+            "general_info_header": "  <bold><red>基本情報</red></bold>",
+            "level": "    <red>Catacombs </red><gray>レベル: <0></gray>\n    <green><1> </green><gray>レベル: <2></gray>",
+            "secrets_found": "    <gold>見つけたシークレット</gold><gray>: <0> (平均 <1>/回)</gray>",
+            "utilities_header": "<underline><red>ユーティリティ</red></underline>",
+            "has_bonus_item_true": " <green><0></green><gray>:</gray> <green>✔</green>",
+            "has_bonus_item_false": " <red><0></red><gray>:</gray> <red>✘</red>",
+            "equipment_header": "  <underline><bold><red>装備</red></bold></underline>",
+            "catacombs_floor_info_header": "    <underline><dark_green>Catacombs</dark_green></underline> <underline><red>フロア情報</red></underline>",
+            "mastermode_floor_info_header": "    <underline><red>Mastermode</red></underline> <underline><red>フロア情報</red></underline>",
+            "floor_info": "<gray> フロア</gray><red> <0></red><gray>: </gray><green><1></green><gray> クリア | PB: </gray><gold><2></gold> <gray>| PB S+: </gray><gold><3></gold>",
+            "empty_slot": "<run_cmd '/sbpv pfjoin <!0>'><red>空き枠！クリックして再確認</red></run_cmd>"
+        },
+        "click_to_open_pv": "<yellow>クリックして <0> のプロフィールを SkyBlock Profile Viewer で開く</yellow>",
+        "toast": {
+            "disabled_tabs": {
+                "@value": "<pink>SbPv</pink><red>: 無効化されたタブ</red>",
+                "explanation": [
+                    "<red>データの欠落またはAPIの無効化により、</red>",
+                    "<red>以下のタブが無効、または内容が変更されています:</red>",
+                    "<red><0></red>"
+                ]
+            },
+            "socials_copied": "<green><0> をクリップボードにコピーしました！</green>"
+        }
+    },
+    "config": {
+        "spying": {
+            "@value": "スパイボタン",
+            "desc": "Hypixelのプロフィールビューアーに、当ModのProfile Viewerを直接開くためのボタンを追加します。"
+        },
+        "chat": {
+            "@value": "クリック可能なプレイヤーメッセージ",
+            "desc": "チャット内のプレイヤー名をクリックした際、ソーシャルメニューではなく、このModのPVページを開くように変更します。"
+        },
+        "chat_other": {
+            "@value": "各チャットでのクリック有効化",
+            "desc": "パーティー、ギルド、コープチャットでのクリックアクションをPVページを開くように変更します。"
+        },
+        "currency": {
+            "@value": "資産価値の通貨設定",
+            "desc": "純資産(Networth)を現実世界の通貨に換算する際に使用する通貨を設定します。"
+        },
+        "align_category_buttons_left": {
+            "@value": "カテゴリーボタンを左寄せ",
+            "desc": "カテゴリー切り替えボタンを、画面の右側ではなく左側に配置します。"
+        },
+        "show_pronouns": {
+            "@value": "代名詞を表示",
+            "desc": "利用可能な場合、プレイヤーの代名詞(Pronouns)をプロフィールに表示します。"
+        },
+        "party_finder_message": {
+            "@value": "パーティファインダー メッセージ",
+            "desc": "参加したプレイヤーのプロフィール概要をチャットに表示し、素早く確認できるようにします。",
+            "off": "無効",
+            "open_pv": "クリックしてPVを開く",
+            "breakdown": "プロフィール概要"
+        },
+        "disable_outside_hypixel": {
+            "@value": "Hypixel以外で無効化",
+            "desc": "Hypixelサーバー以外では <light_gray>/pv</light_gray> コマンドを無効化/解除します。"
+        },
+        "skill_overflow": {
+            "@value": "スキルオーバーフロー",
+            "desc": [
+                "通常のスキルレベルの代わりに、オーバーフローレベルを表示します。",
+                "<red>現在はダンジョンスキルのみ対応しています。</red>"
+            ]
+        },
+        "display_scaling": {
+            "@value": "ディスプレイ・スケーリングの有効化",
+            "desc": [
+                "画面の空きスペースに合わせて表示サイズを調整します。",
+                "<red>表示が崩れたり、はみ出したりする可能性があります。</red>"
+            ]
+        },
+        "theme": {
+            "@value": "テーマ",
+            "desc": "プロフィールビューアーに使用する外観テーマを選択します。"
+        },
+        "socials": {
+            "@value": "連携SNSドロップダウン",
+            "desc": "プレイヤーのSNS連携リンクとSkyCryptのドロップダウンを表示します。"
+        },
+        "remember_last_tab": {
+            "@value": "最後に開いたタブを記憶",
+            "desc": "次回プロフィールビューアーを開いた際、前回閉じた時のタブを自動で開きます。"
+        }
+    },
+    "dev": {
+        "dev_mode": {
+            "@value": "デバッグモード",
+            "desc": [
+                "開発者向けデバッグ機能を有効にします。",
+                "<red>クラッシュなどの予期せぬ動作を引き起こす可能性があります。"
+            ]
+        },
+        "hoppity_parser": {
+            "@value": "Hoppity Rabbits 解析",
+            "desc": "HypixelのRabbits UIから、全ラビットを「レア度：API名」形式で解析します。"
+        },
+        "sacks_parser": {
+            "@value": "サック内容解析",
+            "desc": "サック内の全アイテムを解析します。"
+        },
+        "bypass_cache": {
+            "@value": "キャッシュをバイパス",
+            "desc": [
+                "キャッシュを無視し、常にAPIから直接データを取得します。",
+                "<red>指定された開発者以外には機能しません。</red>"
+            ]
+        },
+        "offline_mode": {
+            "@value": "オフラインモード",
+            "desc": [
+                "リクエストしたプロフィールを永久にキャッシュします。",
+                "<yellow>ローカル開発のみを目的とした機能です！</yellow>"
+            ]
+        }
+    },
+    "tab": {
+        "main": "全般",
+        "combat": "戦闘",
+        "collection": "コレクション",
+        "mining": "採掘",
+        "foraging": "採取",
+        "inventory": "インベントリ",
+        "fishing": "釣り",
+        "pets": "ペット",
+        "farming": "農業",
+        "chocolate_factory": "チョコレート工場",
+        "rift": "リフト",
+        "museum": "ミュージアム"
+    },
+    "essence": {
+        "fishing": {
+            "drake_piper": [
+                {
+                    "@id": "ice_essence_shop"
+                },
+                "<white><red>Jerry's Workshop</red>での<gold>Reindrake</gold>スポーン率を</white>",
+                "<white><green>10%</green>増加させます。</white>"
+            ],
+            "midas_lure": [
+                {
+                    "@id": "gold_essence_shop"
+                },
+                "<white><red>Crimson Isle</red>での<gold>ゴールド・トロフィーフィッシュ</gold></white>",
+                "<white>の釣り上げ率を <green>2-20%</green> 増加させます。</white>"
+            ],
+            "radiant_fisher": [
+                {
+                    "@id": "diamond_essence_shop"
+                },
+                "<white><red>Crimson Isle</red>での<aqua>ダイヤモンド・トロフィーフィッシュ</aqua></white>",
+                "<white>の釣り上げ率を <green>2-20%</green> 増加させます。</white>"
+            ]
+        },
+        "mining": {
+            "fungus_fortuna": [
+                {
+                    "@id": "crimson_essence_shop"
+                },
+                "<white>Mycelium(菌糸)採掘時に<gold>☘ Mining Fortune</gold>を獲得</white>"
+            ],
+            "harena_fortuna": [
+                {
+                    "@id": "crimson_essence_shop"
+                },
+                "<white>Red Sand(赤砂)採掘時に<gold>☘ Mining Fortune</gold>を獲得</white>"
+            ],
+            "frozen_skin": [
+                {
+                    "@id": "ice_essence_shop"
+                },
+                "<white><aqua>❄ Cold Resistance(耐寒性)</aqua>を増加させます</white>"
+            ],
+            "treasures_of_the_earth": [
+                {
+                    "@id": "gold_essence_shop"
+                },
+                "<white>Hard Stone採掘時のWormまたはScathaの出現率を増加させます</white>"
+            ],
+            "dwarven_training": [
+                {
+                    "@id": "gold_essence_shop"
+                },
+                "<white>採掘系エリア滞在中の<dark_aqua>☯ Mining Wisdom</dark_aqua>を増加させます</white>"
+            ],
+            "eager_miner": [
+                {
+                    "@id": "gold_essence_shop"
+                },
+                "<white>採掘系エリア滞在中の<gold>⸕ Mining Speed</gold>を増加させます</white>"
+            ],
+            "rhinestone_infusion": [
+                {
+                    "@id": "diamond_essence_shop"
+                },
+                "<white>採掘系エリア滞在中の<light_purple>ジェムストーン</light_purple>に対する <gold>☘ Mining Fortune</gold>を増加させます</white>"
+            ],
+            "high_roller": [
+                {
+                    "@id": "diamond_essence_shop"
+                },
+                "<white><light_purple>Crystal Nucleus Bundle</light_purple>獲得時、ランダムなドロップを<green>1つ</green>追加します</white>"
+            ],
+            "return_to_sender": [
+                {
+                    "@id": "diamond_essence_shop"
+                },
+                "<white><aqua>ダイヤモンド・ゴブリン</aqua>の出現率を増加させます</white>"
+            ]
+        }
+    },
+    "widgets": {
+        "pronouns": "代名詞: <0>",
+        "open_settings": [
+            "<underline><gray>設定を開く</gray></underline>",
+            "<gray>/sbpv</gray> コマンドでも開けます！"
+        ],
+        "theme_switcher": [
+            "<underline><gray>テーマを切り替え</gray></underline>",
+            "リスト内の次のテーマへ切り替えます",
+            "設定画面からもテーマを選択可能です！",
+            "",
+            "<gray>現在のテーマ: </gray><0>"
+        ],
+        "error": {
+            "loading": [
+                "APIがダウンしていませんか？",
+                "データの解析に失敗しましたか？",
+                "またはAPIキーの期限が切れていませんか？",
+                "discordに /logs/latest.log を添えて報告してください"
+            ],
+            "stacktrace": [
+                "画面 <0> の構築に失敗しました",
+                "Discordで報告をお願いします！",
+                "",
+                "ユーザー: <1> - <2>",
+                "プロフィール: <3>",
+                "",
+                "例外: <4>: <5>",
+                "スタックトレース: <6>"
+            ],
+            "no_profiles": [
+                "<red><0> のプロフィールが見つかりません",
+                "<gray>もしこれが間違いだと思う場合は、",
+                "<gray>Discordで報告してください！"
+            ],
+            "parsing_error": [
+                "プロフィールの解析に失敗しました！",
+                "Discordで報告をお願いします！",
+                "",
+                "ユーザー: <1> - <2>",
+                "",
+                "例外: <4>: <5>",
+                "スタックトレース: <6>"
+            ]
+        },
+        "open_logs": "ログを開く",
+        "username_input": "ユーザー名を入力...",
+        "networth": {
+            "@value": "純資産: ",
+            "failed": "読み込み失敗",
+            "error": "エラーが発生しました: ",
+            "loading": "読み込み中...",
+            "tooltip": {
+                "@value": "<yellow>純資産: ",
+                "cookies": "<yellow>クッキー換算の純資産: ",
+                "currency": "<yellow><0> 換算の純資産: ",
+                "note": "<gray>注意: <dark_gray>/sbpv</dark_gray> の設定から通貨を変更できます。",
+                "sources": "<gray>データ元: "
+            }
+        },
+        "socials": "<white>SNS連携</white>",
+        "coop_search_tooltip": "<gray>コープメンバーを表示</gray>"
+    },
+    "screens": {
+        "main": {
+            "slayer": {
+                "@value": "スレイヤー",
+                "kills": "討伐数: ",
+                "exp": "経験値: ",
+                "next_level": "次のレベルまで: "
+            },
+            "essence": "エッセンス",
+            "skills": {
+                "@value": "スキル",
+                "exp": "経験値: ",
+                "progress": "進捗: ",
+                "max_cap": "<purple>スキルレベル上限に到達！</purple>",
+                "to_next": "<green>次まで <0>%</green>",
+                "progress_to_max": "最大レベルまでの進捗: ",
+                "unknown": "<red>不明</red>"
+            },
+            "pronouns_hint": "Provided by https://pronoundb.org/",
+            "status": {
+                "load": "<white>ロード状況</white>",
+                "loading": "<white>読み込み中...</white>",
+                "online": "<green>オンライン</green> <dark_gray>-</dark_gray> ",
+                "error": "<dark_red>エラー</dark_red>",
+                "offline": "<red>オフライン</red> <dark_gray>-</dark_gray> ",
+                "unknown": "<red>不明</red>"
+            },
+            "info": {
+                "purse": "所持金: <0>",
+                "bank": {
+                    "@value": "銀行: <0>",
+                    "solo": "<gray>個人銀行:</gray> <gold><0></gold>",
+                    "coop": "<gray>コープ銀行:</gray> <gold><0></gold>",
+                    "history": {
+                        "@value": "<gray>入出金履歴:</gray>",
+                        "entry": [
+                            "<gold><0></gold><gray> を <2> が <1></gray>",
+                            "<gray>日時: </gray><yellow><3></yellow>"
+                        ]
+                    },
+                    "actions": {
+                        "withdraw": "引き出しました",
+                        "deposit": "預け入れました"
+                    }
+                },
+                "cookie": {
+                    "@value": "クッキーバフ: <0>",
+                    "active": "<green>有効",
+                    "inactive": "<red>無効"
+                },
+                "sb_lvl": {
+                    "@value": "SkyBlockレベル: <0>",
+                    "progress": "<gray>進捗: <0>/100"
+                },
+                "first_join": "初参加: <0>",
+                "skill_avg": "スキル平均: <0>",
+                "fairy_souls": "Fairy Souls: <0>",
+                "kd": "K/D: <0>/<1> (<2>)"
+            }
+        },
+        "inventory": {
+            "accessory": {
+                "highest_magical_power": [
+                    "これはこのプロフィールでプレイヤーが到達した",
+                    "最高魔法パワー(Magical Power)の数値です。",
+                    "Hypixelから直接取得した数値のため正確ですが、",
+                    "現在のバッグの状態を反映していない場合があります。"
+                ]
+            }
+        }
+    },
+    "themes": {
+        "dark": "ダークモード",
+        "default": "デフォルト",
+        "neu": "NEU風"
+    },
+    "misc": {
+        "maxed": "<red>最大！</red>"
+    }
+}

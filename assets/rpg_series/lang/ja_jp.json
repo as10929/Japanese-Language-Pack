@@ -1,0 +1,22 @@
+{
+  "spell.rpg_series.cleave.description": "回転斬りを繰り出し、周囲の敵に {damage} ダメージを与えます。",
+  "spell.rpg_series.cleave.name": "クリーブ",
+  "spell.rpg_series.fan_of_knives.description": "扇状に複数の刃を投げ、{damage} ダメージを与えます。刃は地形に最大 {bounce} 回まで跳ね返ります。",
+  "spell.rpg_series.fan_of_knives.name": "ファン・オブ・ナイフ",
+  "spell.rpg_series.flurry.description": "長押しで、勢いに乗りながら素早い連続攻撃を繰り出します。",
+  "spell.rpg_series.flurry.name": "フラリー",
+  "spell.rpg_series.ground_slam.description": "空中へ跳び上がり、地面を叩きつけて周囲の敵に {damage} ダメージを与えます。",
+  "spell.rpg_series.ground_slam.name": "グランドスラム",
+  "spell.rpg_series.impale.description": "武器を前方へ投げつけ、{damage} ダメージと強力なノックバックを与えます。",
+  "spell.rpg_series.impale.name": "インペイル",
+  "spell.rpg_series.smash.description": "強力なノックバックを伴う一撃を与え、標的のシールドとアイテムの使用を無効化します。",
+  "spell.rpg_series.smash.name": "スマッシュ",
+  "spell.rpg_series.swift_strikes.description": "素早い連続攻撃を繰り出します。",
+  "spell.rpg_series.swift_strikes.name": "スウィフト・ストライク",
+  "spell.rpg_series.swipe.description": "武器と共に前方へ滑り込み、経路上にいるすべての敵を攻撃します。",
+  "spell.rpg_series.swipe.name": "スワイプ",
+  "spell.rpg_series.thrust.description": "武器と共に前方へ踏み込み、経路上にいるすべての敵を攻撃します。",
+  "spell.rpg_series.thrust.name": "スラスト",
+  "spell.rpg_series.whirlwind.description": "長押しで回転し続け、周囲の敵に秒間 {damage} ダメージを与えます。",
+  "spell.rpg_series.whirlwind.name": "ウィールウィンド"
+}

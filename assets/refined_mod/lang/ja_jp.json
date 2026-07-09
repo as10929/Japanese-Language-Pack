@@ -1,0 +1,39 @@
+{
+  "spell.refined_mod.frost_strike": "フロストストライク",
+  "spell.refined_mod.frost_strike.guide": "武器に氷と霜を宿し、なぎ払い攻撃を繰り出す。このスペルは中断されない。ダメージは装備中の武器の近接攻撃力に応じて増加し、「移動速度低下（Chilled）」状態の生物は完全に凍結すると氷の中に閉じ込められる。",
+  "spell.refined_mod.thunder_strike": "サンダーストライク",
+  "spell.refined_mod.thunder_strike.guide": "武具を介して落雷を呼び寄せる。このスペルは中断されない。ダメージは装備中の武器の近接攻撃力とエンチャントに応じて増加する。",
+  "spell.refined_mod.moon_slash": "ムーンスラッシュ",
+  "spell.refined_mod.moon_slash.guide": "武器から放たれる月光の波を召喚する。ダメージは装備中の武器の近接攻撃力に応じて増加する。",
+  "spell.refined_mod.tidal_wave": "タイダルウェーブ",
+  "spell.refined_mod.tidal_wave.guide": "津波を召喚してエリアに叩きつけ、経路上にあるすべてのものをノックバックさせダメージを与える。",
+  "spell.refined_mod.summon_wolves": "オオカミ召喚",
+  "spell.refined_mod.summon_wolves.guide": "忠実なオオカミの群れを召喚し、プレイヤーに追従させ保護させる。",
+  "spell.refined_mod.hunters_mark": "ハンターズマーク",
+  "spell.refined_mod.hunters_mark.guide": "自身に「狩人の集中（Hunter's Focus）」バフを付与する。非魔法ダメージを与えるとターゲットに効果を付与して「マーク」し、ボーナスダメージを与える。",
+  "spell.refined_mod.create_bonfire": "篝火作成",
+  "spell.refined_mod.create_bonfire.guide": "魔法の篝火を召喚する。篝火が燃えている間、周囲に「再生」と「衝撃吸収」を付与する。",
+  "spell.refined_mod.storm_blade": "ストームブレード",
+  "spell.refined_mod.storm_blade.guide": "刃から轟く嵐を放つ。ダメージは装備中の武器の近接攻撃力に応じて増加する。",
+  "spell.refined_mod.glintstar_pebble": "輝石のつぶて",
+  "spell.refined_mod.glintstar_pebble.guide": "星々の力を集中させ、命中したターゲットを追尾する弾を発射する。",
+
+  "effect.refined_mod.hunters_mark_buff": "狩人の集中",
+  "effect.refined_mod.hunters_mark_debuff": "ハンターズマーク",
+
+  "death.attack.refined_mod.summon_wolves": "%1$s は %2$s のオオカミに噛み殺された",
+  "effect.refined_mod.wolf_timer": "召喚されたオオカミ",
+  "effect.refined_mod.wolf_timer.description": "召喚体の残り持続時間と数を表示する",
+  "entity.refined_mod.summoned_wolf": "召喚されたオオカミ",
+
+  "item.refined_mod.summer_rain_sword": "サマーレイン",
+  "item.refined_mod.flame_tongue_sword": "フレイムタン",
+  "item.refined_mod.hunters_bow": "ハンターの弓",
+
+  "item.refined_mod.jades_jewel_music_disc": "レコード",
+  "item.refined_mod.jades_jewel_music_disc.desc": "Zero - Jade's Jewel",
+
+  "ui.irons_spellbooks.damage": "ダメージ: %d",
+  "ui.irons_spellbooks.recast_count": "詠唱回数: %d",
+  "ui.irons_spellbooks.percent_bonus": "ボーナスダメージ: %d%%"
+}

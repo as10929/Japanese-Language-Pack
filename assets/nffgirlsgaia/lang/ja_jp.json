@@ -1,0 +1,36 @@
+{
+  "item.nffgirlsgaia.mob_dictionary": "NFF-Girls モブ図鑑 - Grimoire of Gaia 補足版",
+  "item.nffgirlsgaia.evil_grindstone": "邪悪な砥石",
+  "item.nffgirlsgaia.wooden_staff": "木の杖",
+  "item.nffgirlsgaia.inferior_fan": "粗末な扇",
+
+  "entity.nffgirlsgaia.gaia_dryad": "ドライアド",
+  "entity.nffgirlsgaia.gaia_spriggan": "スプリガン",
+  "entity.nffgirlsgaia.gaia_dullahan": "デュラハン",
+  "entity.nffgirlsgaia.gaia_banshee": "バンシー",
+  "entity.nffgirlsgaia.gaia_harpy": "ハーピー",
+  "entity.nffgirlsgaia.gaia_succubus": "サキュバス",
+  "entity.nffgirlsgaia.gaia_mummy": "マミー",
+  "entity.nffgirlsgaia.gaia_yuki_onna": "雪女",
+  "entity.nffgirlsgaia.gaia_cecaelia": "セカエリア",
+  "entity.nffgirlsgaia.gaia_mermaid": "マーメイド",
+  "entity.nffgirlsgaia.gaia_valkyrie": "ヴァルキリー",
+  "entity.nffgirlsgaia.gaia_werecat": "ワーキャット",
+  "entity.nffgirlsgaia.gaia_witch": "ウィッチ",
+  "entity.nffgirlsgaia.gaia_shaman": "シャーマン",
+  "entity.nffgirlsgaia.gaia_bee": "ビー",
+
+  "entity.nffgirlsgaia.effect_zone.nffgirlsgaia:yuki_onna_snow_zone_inner": "吹雪エリア",
+  "entity.nffgirlsgaia.effect_zone.nffgirlsgaia:yuki_onna_snow_zone_outer": "吹雪エリア",
+  "entity.nffgirlsgaia.effect_zone.nffgirlsgaia:valkyrie_common_projectile": "魔法弾",
+
+  "entity.nffgirlsgaia.mygo.tomori": "燈",
+  "entity.nffgirlsgaia.mygo.anon": "愛音",
+  "entity.nffgirlsgaia.mygo.taki": "立希",
+  "entity.nffgirlsgaia.mygo.soyo": "そよ",
+  "entity.nffgirlsgaia.mygo.rana": "楽奈",
+
+  "desc.nffgirlsgaia.evil_grindstone": "戦利品と一緒にクラフトすることで、それらを「邪悪な水晶の欠片」へと変換する。消費されない。",
+  "desc.nffgirlsgaia.monster_feed": "NFFモブに使用することで、経験値を %1$d 付与する。",
+  "dict.nffgirlsgaia.title": "NFF-Girls モブ図鑑 - Grimoire of Gaia 補足版"
+}
